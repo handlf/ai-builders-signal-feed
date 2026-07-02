@@ -5,22 +5,59 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>AI Builders 信号</title>
 <style>
-  body{margin:0;font-family:-apple-system,"Microsoft YaHei",sans-serif;background:#0b1220;color:#e7eefc;display:flex;min-height:100vh;align-items:center;justify-content:center}
-  .card{max-width:620px;padding:40px;text-align:center}
-  img{width:260px;height:260px;border-radius:20px;box-shadow:0 10px 40px rgba(0,0,0,.5)}
-  h1{margin:24px 0 8px;font-size:28px}
-  p{color:#a9bad6;line-height:1.7}
-  a{color:#5ac8ff;text-decoration:none;word-break:break-all}
-  .rss{display:inline-block;margin-top:18px;padding:12px 22px;background:#5ac8ff;color:#04121f;border-radius:10px;font-weight:700}
+  body{margin:0;font-family:-apple-system,"Microsoft YaHei",sans-serif;background:#0b1220;color:#e7eefc}
+  .wrap{max-width:720px;margin:0 auto;padding:40px 20px 80px}
+  .head{text-align:center}
+  .head img{width:200px;height:200px;border-radius:20px;box-shadow:0 10px 40px rgba(0,0,0,.5)}
+  h1{margin:20px 0 8px;font-size:26px}
+  .sub{color:#a9bad6;line-height:1.7;font-size:15px}
+  .rss{display:inline-block;margin:16px 0 8px;padding:10px 20px;background:#5ac8ff;color:#04121f;border-radius:10px;font-weight:700;text-decoration:none}
+  .rss.small{background:transparent;color:#5ac8ff;border:1px solid #33506e;font-weight:400;font-size:13px;padding:6px 12px}
+  h2{margin:36px 0 14px;font-size:18px;border-bottom:1px solid #1e2c45;padding-bottom:10px}
+  .ep{background:#111a2c;border:1px solid #1e2c45;border-radius:12px;padding:16px 18px;margin-bottom:14px}
+  .ep .t{font-weight:700;font-size:16px;margin-bottom:4px}
+  .ep .meta{color:#7f93b3;font-size:13px;margin-bottom:8px}
+  .ep .desc{color:#a9bad6;font-size:13px;line-height:1.6;margin-bottom:10px}
+  audio{width:100%;height:38px}
+  .loading{color:#7f93b3;text-align:center;padding:20px}
+  a{color:#5ac8ff}
 </style>
 </head>
 <body>
-  <div class="card">
+<div class="wrap">
+  <div class="head">
     <img src="cover.jpg" alt="AI Builders 信号">
     <h1>AI Builders 信号</h1>
-    <p>每天把顶级 AI builder 的最新动静翻译成中文、逐条梳理，重点展开意义/参考/落地建议。通勤路上听。</p>
-    <a class="rss" href="feed.xml">RSS 订阅源</a>
-    <p style="margin-top:22px;font-size:14px">在小宇宙/Apple Podcasts 等客户端添加 RSS：<br><a href="feed.xml">https://handlf.github.io/ai-builders-signal-feed/feed.xml</a></p>
+    <p class="sub">每天把顶级 AI builder 的最新动静翻译成中文、逐条梳理，重点展开意义/参考/落地建议。通勤路上听。</p>
+    <a class="rss" href="feed.xml">RSS 订阅源</a><br>
+    <span class="sub" style="font-size:13px">小宇宙/Apple Podcasts 添加 RSS：<a href="feed.xml">handlf.github.io/ai-builders-signal-feed/feed.xml</a></span>
   </div>
+  <h2>单集</h2>
+  <div id="episodes"><div class="loading">加载中…</div></div>
+</div>
+<script>
+fetch('feed.xml?_=' + Date.now())
+  .then(r => r.text())
+  .then(txt => {
+    const xml = new DOMParser().parseFromString(txt, 'application/xml');
+    const items = [...xml.querySelectorAll('item')];
+    const box = document.getElementById('episodes');
+    if (!items.length) { box.innerHTML = '<div class="loading">暂无单集</div>'; return; }
+    box.innerHTML = items.map(it => {
+      const title = it.querySelector('title')?.textContent || '';
+      const desc = it.querySelector('description')?.textContent || '';
+      const url = it.querySelector('enclosure')?.getAttribute('url') || '';
+      const dur = it.getElementsByTagName('itunes:duration')[0]?.textContent || '';
+      const date = (it.querySelector('pubDate')?.textContent || '').slice(0,16);
+      return `<div class="ep">
+        <div class="t">${title}</div>
+        <div class="meta">${date} · ${dur}</div>
+        <div class="desc">${desc}</div>
+        <audio controls preload="none" src="${url}"></audio>
+      </div>`;
+    }).join('');
+  })
+  .catch(e => { document.getElementById('episodes').innerHTML = '<div class="loading">加载失败：' + e + '</div>'; });
+</script>
 </body>
 </html>
