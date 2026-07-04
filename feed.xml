@@ -6,14 +6,14 @@
   <channel>
     <title>AI Builders 信号</title>
     <link>https://handlf.github.io/ai-builders-signal-feed/</link>
-    <atom:link href="https://raw.githubusercontent.com/handlf/ai-builders-signal-feed/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://handlf.github.io/ai-builders-signal-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <language>zh-cn</language>
     <description>每天 6-20 分钟，把顶级 AI builder 的最新动静（X 推文 + 播客 + 博客）翻译成中文、逐条梳理，重点内容展开讲意义、参考和落地建议。基于 zarazhang 的 follow-builders。通勤路上听。</description>
     <itunes:author>handlf</itunes:author>
     <itunes:summary>每天 6-20 分钟，把顶级 AI builder 的最新动静（X 推文 + 播客 + 博客）翻译成中文、逐条梳理，重点内容展开讲意义、参考和落地建议。基于 zarazhang 的 follow-builders。通勤路上听。</itunes:summary>
-    <itunes:image href="https://raw.githubusercontent.com/handlf/ai-builders-signal-feed/main/cover.jpg"/>
+    <itunes:image href="https://handlf.github.io/ai-builders-signal-feed/cover.jpg"/>
     <image>
-      <url>https://raw.githubusercontent.com/handlf/ai-builders-signal-feed/main/cover.jpg</url>
+      <url>https://handlf.github.io/ai-builders-signal-feed/cover.jpg</url>
       <title>AI Builders 信号</title>
       <link>https://handlf.github.io/ai-builders-signal-feed/</link>
     </image>
@@ -23,7 +23,7 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sat, 04 Jul 2026 02:06:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 02:08:17 GMT</lastBuildDate>
     <item>
       <title>Claude Tag 全组织铺开 · 核能是能源底座</title>
       <description>头条 Claude Tag 从 Claude Code 扩到整个 Anthropic（落 65% 产品 PR，Fable 5 进 Tag，发 Enterprise/Team credits）。No Priors 对话 Valar Atomics 创始人聊核能让能源便宜 10 倍、三里岛与监管困局；Fable 5 进 7/7 倒计时+榨干用法；Vercel AI Gateway 做模型容灾；Aaron Levie 论企业 AI 要重构流程；Zara Zhang 论 AI slop 无实质。共 18 位 builder 全覆盖。</description>
