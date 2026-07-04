@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Thu, 02 Jul 2026 02:14:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 01:48:10 GMT</lastBuildDate>
+    <item>
+      <title>Claude Tag 全组织铺开 · 核能是能源底座</title>
+      <description>头条 Claude Tag 从 Claude Code 扩到整个 Anthropic（落 65% 产品 PR，Fable 5 进 Tag，发 Enterprise/Team credits）。No Priors 对话 Valar Atomics 创始人聊核能让能源便宜 10 倍、三里岛与监管困局；Fable 5 进 7/7 倒计时+榨干用法；Vercel AI Gateway 做模型容灾；Aaron Levie 论企业 AI 要重构流程；Zara Zhang 论 AI slop 无实质。共 18 位 builder 全覆盖。</description>
+      <itunes:summary>头条 Claude Tag 从 Claude Code 扩到整个 Anthropic（落 65% 产品 PR，Fable 5 进 Tag，发 Enterprise/Team credits）。No Priors 对话 Valar Atomics 创始人聊核能让能源便宜 10 倍、三里岛与监管困局；Fable 5 进 7/7 倒计时+榨干用法；Vercel AI Gateway 做模型容灾；Aaron Levie 论企业 AI 要重构流程；Zara Zhang 论 AI slop 无实质。共 18 位 builder 全覆盖。</itunes:summary>
+      <pubDate>Thu, 02 Jul 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-07-02</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-07-02/2026-07-02.mp3" length="8224116" type="audio/mpeg"/>
+      <itunes:duration>8:33</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Claude 上线微软 Foundry · 芯片供应链是底座</title>
       <description>头条 Claude 正式在微软 Foundry GA（Azure 可用 Opus 4.8/Sonnet 4.5）。No Priors 对话 Intel CEO 陈立武聊重构半导体供应链；Boris Cherny 剧透 subagents 后台并行；OpenAI Codex 权限配置档；Aaron Levie 论开源闭源护城河；Peter Yang 说写作仍是 Claude 网页版最强。共 15 位 builder 全覆盖。</description>
