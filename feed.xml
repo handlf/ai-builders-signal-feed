@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sun, 05 Jul 2026 02:43:07 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 23:00:43 GMT</lastBuildDate>
+    <item>
+      <title>Cloudflare CEO：互联网商业模式已经死了</title>
+      <description>头条播客 MAD × Cloudflare CEO Matthew Prince：机器人流量已反超人类，广告驱动互联网的旧模式要重来一遍——内部用 agent 把可靠性拉了一个数量级、裁员两成换扁平组织、并用 x402 微支付协议筹备让创作者重新被 AI 经济分账。X 头条 Vercel 的 Guillermo Rauch 用真实 token 用量画出模型格局；Cat Wu 论 Fable 5 判断力提升；Nan Yu 论抓 bug 方法论。国庆长周末噪音较多，实质内容精选覆盖。</description>
+      <itunes:summary>头条播客 MAD × Cloudflare CEO Matthew Prince：机器人流量已反超人类，广告驱动互联网的旧模式要重来一遍——内部用 agent 把可靠性拉了一个数量级、裁员两成换扁平组织、并用 x402 微支付协议筹备让创作者重新被 AI 经济分账。X 头条 Vercel 的 Guillermo Rauch 用真实 token 用量画出模型格局；Cat Wu 论 Fable 5 判断力提升；Nan Yu 论抓 bug 方法论。国庆长周末噪音较多，实质内容精选覆盖。</itunes:summary>
+      <pubDate>Mon, 06 Jul 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-07-06</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-07-06/2026-07-06.mp3" length="8058804" type="audio/mpeg"/>
+      <itunes:duration>8:23</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>AI 是上下文之争 · NVIDIA 为何免费送模型</title>
       <description>头条 Aaron Levie：模型趋同后，AI 的战争变成对上下文的争夺。MAD 播客对话 NVIDIA 的 Bryan Catanzaro，揭示免费送 Nemotron 开源模型的真实动机（用做模型反哺芯片设计+养生态卖卡）。长周末 Fable 5 玩法专题；Zara Zhang 论「人们买的是专家能力、不是工具」；Vercel agent 自我改进；swyx 论 CLI 完虐花哨思维工具。共 16 位 builder 全覆盖。</description>
