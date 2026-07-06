@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sun, 05 Jul 2026 23:00:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 17:08:36 GMT</lastBuildDate>
+    <item>
+      <title>评测被 test-time compute 改写 · 只剩想法是约束｜handlf 实测 loops engineering</title>
+      <description>信号卡版：No Priors × OpenAI Noam Brown——benchmark 没控制「思考预算」，选模型别只看对比表分数；Nan Yu 说手动微操 agent 是死路；Garry Tan「AI 删掉了杠杆约束，现在只剩想法」；Cat Wu 把 Claude Code 当动态工作流引擎。结尾附 handlf 本人真声音：这两天上手 loops engineering 的实测体验。</description>
+      <itunes:summary>信号卡版：No Priors × OpenAI Noam Brown——benchmark 没控制「思考预算」，选模型别只看对比表分数；Nan Yu 说手动微操 agent 是死路；Garry Tan「AI 删掉了杠杆约束，现在只剩想法」；Cat Wu 把 Claude Code 当动态工作流引擎。结尾附 handlf 本人真声音：这两天上手 loops engineering 的实测体验。</itunes:summary>
+      <pubDate>Tue, 07 Jul 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-07-07</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-07-07/2026-07-07.mp3" length="7857517" type="audio/mpeg"/>
+      <itunes:duration>8:10</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Cloudflare CEO：互联网商业模式已经死了</title>
       <description>头条播客 MAD × Cloudflare CEO Matthew Prince：机器人流量已反超人类，广告驱动互联网的旧模式要重来一遍——内部用 agent 把可靠性拉了一个数量级、裁员两成换扁平组织、并用 x402 微支付协议筹备让创作者重新被 AI 经济分账。X 头条 Vercel 的 Guillermo Rauch 用真实 token 用量画出模型格局；Cat Wu 论 Fable 5 判断力提升；Nan Yu 论抓 bug 方法论。国庆长周末噪音较多，实质内容精选覆盖。</description>
