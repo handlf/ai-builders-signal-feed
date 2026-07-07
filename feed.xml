@@ -23,11 +23,21 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Tue, 07 Jul 2026 00:31:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 23:53:30 GMT</lastBuildDate>
     <item>
-      <title>7.7｜test-time compute 改写模型评测 ·「杠杆约束被删掉，只剩想法」｜handlf 的 loops engineering 实际使用体验</title>
-      <description>关键 AI 新闻、评估与使用建议：① test-time compute 正在让 benchmark 评测失效——为什么那张对比表不能信了（No Priors × OpenAI Noam Brown）；② 管理 agent 别用「即时战略游戏」思路，炫耀开 10 个标签页是表演（Nan Yu）；③「我们删掉了杠杆约束，现在只剩想法」（Garry Tan）；④ 把 Claude Code 当动态工作流引擎（Cat Wu）。结尾附 handlf 的 loops engineering 实际使用体验。</description>
-      <itunes:summary>关键 AI 新闻、评估与使用建议：① test-time compute 正在让 benchmark 评测失效——为什么那张对比表不能信了（No Priors × OpenAI Noam Brown）；② 管理 agent 别用「即时战略游戏」思路，炫耀开 10 个标签页是表演（Nan Yu）；③「我们删掉了杠杆约束，现在只剩想法」（Garry Tan）；④ 把 Claude Code 当动态工作流引擎（Cat Wu）。结尾附 handlf 的 loops engineering 实际使用体验。</itunes:summary>
+      <title>7月8日 AI 观察｜Claude Code 上线活页面，AGI 的学校在教什么</title>
+      <description>关键 AI 动态、评估与使用建议：① Claude Code 上线 artifacts 功能，会话直接产出可分享的活页面（PR walkthrough、故障时间线、成本地图），官方同时回顾了它从 Anthropic 安全研究里走出来的路；② Surge CEO Edwin 讲透「训练 AI 的学校在教什么」——从做题到反驳数学猜想，以及为什么优化「聊天时长」会把模型养成标题党；③ Replit CEO Amjad Masad 晒出 agent 自我改进的真实案例，一家企业靠 Replit 建的 CRM 省了十万美元；④ Anthropic 新论文证明能对模型推理做「脑手术」式介入，模型还能察觉到自己被干预过。</description>
+      <itunes:summary>关键 AI 动态、评估与使用建议：① Claude Code 上线 artifacts 功能，会话直接产出可分享的活页面（PR walkthrough、故障时间线、成本地图），官方同时回顾了它从 Anthropic 安全研究里走出来的路；② Surge CEO Edwin 讲透「训练 AI 的学校在教什么」——从做题到反驳数学猜想，以及为什么优化「聊天时长」会把模型养成标题党；③ Replit CEO Amjad Masad 晒出 agent 自我改进的真实案例，一家企业靠 Replit 建的 CRM 省了十万美元；④ Anthropic 新论文证明能对模型推理做「脑手术」式介入，模型还能察觉到自己被干预过。</itunes:summary>
+      <pubDate>Wed, 08 Jul 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-07-08</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-07-08/2026-07-08.mp3" length="15889857" type="audio/mpeg"/>
+      <itunes:duration>16:33</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>7月7日 AI 观察｜benchmark 为何失效、只剩想法是约束｜handlf 实测 loops engineering</title>
+      <description>关键 AI 动态、评估与使用建议：① test-time compute 正在让 benchmark 评测失效——为什么那张对比表不能信了（No Priors × OpenAI Noam Brown）；② 管理 agent 别用「即时战略游戏」思路，炫耀开 10 个标签页是表演（Nan Yu）；③「我们删掉了杠杆约束，现在只剩想法」（Garry Tan）；④ 把 Claude Code 当动态工作流引擎（Cat Wu）。结尾附 handlf 的 loops engineering 实际使用体验。</description>
+      <itunes:summary>关键 AI 动态、评估与使用建议：① test-time compute 正在让 benchmark 评测失效——为什么那张对比表不能信了（No Priors × OpenAI Noam Brown）；② 管理 agent 别用「即时战略游戏」思路，炫耀开 10 个标签页是表演（Nan Yu）；③「我们删掉了杠杆约束，现在只剩想法」（Garry Tan）；④ 把 Claude Code 当动态工作流引擎（Cat Wu）。结尾附 handlf 的 loops engineering 实际使用体验。</itunes:summary>
       <pubDate>Tue, 07 Jul 2026 08:00:00 GMT</pubDate>
       <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-07-07</guid>
       <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-07-07/2026-07-07.mp3" length="11227104" type="audio/mpeg"/>
