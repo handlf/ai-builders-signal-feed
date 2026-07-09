@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Tue, 07 Jul 2026 23:53:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 00:36:34 GMT</lastBuildDate>
+    <item>
+      <title>7月9日 AI 观察｜GPT-5.6 Sol 周四来，但护城河在数据不在模型 · Claude 安全事故复盘</title>
+      <description>关键 AI 动态、评估与使用建议：① Training Data × Zipline——1.4 亿英里、零事故的可靠性心法：假设每个环节都会出错，靠冗余和故障切换兜底；② Anthropic 首次公开 Claude 全家桶的安全架构与三次真实事故（钓鱼后 Claude Code 外传 AWS 密钥、Cowork 出口白名单被钻、信任对话框前执行本地配置）；③ GPT-5.6 Sol 周四发布，Claude 把 Fable 5 延长到 7/12；④ Aaron Levie 与 Madhu Guru：模型趋同后，护城河是别人拿不到的数据与上下文。</description>
+      <itunes:summary>关键 AI 动态、评估与使用建议：① Training Data × Zipline——1.4 亿英里、零事故的可靠性心法：假设每个环节都会出错，靠冗余和故障切换兜底；② Anthropic 首次公开 Claude 全家桶的安全架构与三次真实事故（钓鱼后 Claude Code 外传 AWS 密钥、Cowork 出口白名单被钻、信任对话框前执行本地配置）；③ GPT-5.6 Sol 周四发布，Claude 把 Fable 5 延长到 7/12；④ Aaron Levie 与 Madhu Guru：模型趋同后，护城河是别人拿不到的数据与上下文。</itunes:summary>
+      <pubDate>Thu, 09 Jul 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-07-09</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-07-09/2026-07-09.mp3" length="10782396" type="audio/mpeg"/>
+      <itunes:duration>11:13</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>7月8日 AI 观察｜Claude Code 上线活页面，AGI 的学校在教什么</title>
       <description>关键 AI 动态、评估与使用建议：① Claude Code 上线 artifacts 功能，会话直接产出可分享的活页面（PR walkthrough、故障时间线、成本地图），官方同时回顾了它从 Anthropic 安全研究里走出来的路；② Surge CEO Edwin 讲透「训练 AI 的学校在教什么」——从做题到反驳数学猜想，以及为什么优化「聊天时长」会把模型养成标题党；③ Replit CEO Amjad Masad 晒出 agent 自我改进的真实案例，一家企业靠 Replit 建的 CRM 省了十万美元；④ Anthropic 新论文证明能对模型推理做「脑手术」式介入，模型还能察觉到自己被干预过。</description>
