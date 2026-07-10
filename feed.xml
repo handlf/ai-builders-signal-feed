@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Thu, 09 Jul 2026 00:36:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 00:11:50 GMT</lastBuildDate>
+    <item>
+      <title>7月10日 AI 观察｜作家用 Claude 把 6.7 万美元软件账单砍到 150 美元 · Grok 4.5 进 Vercel/Cursor</title>
+      <description>关键 AI 动态、评估与使用建议：① AI &amp; I 播客——作家 Greg 用 Claude Code 重写贵而臃肿的 SaaS，把一年 6.7 万美元的邮件软件账单干到 150 美元（n-of-one software），但坚决不让 AI 碰写作正文；② Grok 4.5 同日被 Vercel 和 Cursor 接入主流工具链；③ Claude Code 新命令 /checkup 一键给配置做体检；④ Zara Zhang 警示：人手一个 agent 的副作用是团队不再交流；⑤ Nikunj：精致正在等于 slop，内容要回摆到 raw、真人感。</description>
+      <itunes:summary>关键 AI 动态、评估与使用建议：① AI &amp; I 播客——作家 Greg 用 Claude Code 重写贵而臃肿的 SaaS，把一年 6.7 万美元的邮件软件账单干到 150 美元（n-of-one software），但坚决不让 AI 碰写作正文；② Grok 4.5 同日被 Vercel 和 Cursor 接入主流工具链；③ Claude Code 新命令 /checkup 一键给配置做体检；④ Zara Zhang 警示：人手一个 agent 的副作用是团队不再交流；⑤ Nikunj：精致正在等于 slop，内容要回摆到 raw、真人感。</itunes:summary>
+      <pubDate>Fri, 10 Jul 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-07-10</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-07-10/2026-07-10.mp3" length="11681844" type="audio/mpeg"/>
+      <itunes:duration>12:10</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>7月9日 AI 观察｜GPT-5.6 Sol 周四来，但护城河在数据不在模型 · Claude 安全事故复盘</title>
       <description>关键 AI 动态、评估与使用建议：① Training Data × Zipline——1.4 亿英里、零事故的可靠性心法：假设每个环节都会出错，靠冗余和故障切换兜底；② Anthropic 首次公开 Claude 全家桶的安全架构与三次真实事故（钓鱼后 Claude Code 外传 AWS 密钥、Cowork 出口白名单被钻、信任对话框前执行本地配置）；③ GPT-5.6 Sol 周四发布，Claude 把 Fable 5 延长到 7/12；④ Aaron Levie 与 Madhu Guru：模型趋同后，护城河是别人拿不到的数据与上下文。</description>
