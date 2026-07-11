@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Fri, 10 Jul 2026 00:11:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 00:30:24 GMT</lastBuildDate>
+    <item>
+      <title>7月11日 AI 观察｜GPT-5.6 三档齐发但没人分得清怎么选 · AI教父说护城河不存在</title>
+      <description>关键 AI 动态、评估与使用建议：① OpenAI 发布 GPT-5.6 三档模型 Sol/Terra/Luna，Box 用企业真实数据集测出具体分数提升，但一线用户实测吐槽根本分不清该选哪档、该配多高努力档；② AI 教父 Jürgen Schmidhuber 罕见系统性回应：递归自我改进不会给任何公司带来护城河，上千亿美元的算力投入五年后要贬值九成，这轮 CapEx 迟早要被股市重新校准，他也从没签过任何 AI 安全联名信；③ Vercel 的 Guillermo Rauch 把这周定性为「模型发布周」，Grok 4.5、Meta Spark、GLM 5.2 扎堆发布，开源模型正在快速逼近前沿。</description>
+      <itunes:summary>关键 AI 动态、评估与使用建议：① OpenAI 发布 GPT-5.6 三档模型 Sol/Terra/Luna，Box 用企业真实数据集测出具体分数提升，但一线用户实测吐槽根本分不清该选哪档、该配多高努力档；② AI 教父 Jürgen Schmidhuber 罕见系统性回应：递归自我改进不会给任何公司带来护城河，上千亿美元的算力投入五年后要贬值九成，这轮 CapEx 迟早要被股市重新校准，他也从没签过任何 AI 安全联名信；③ Vercel 的 Guillermo Rauch 把这周定性为「模型发布周」，Grok 4.5、Meta Spark、GLM 5.2 扎堆发布，开源模型正在快速逼近前沿。</itunes:summary>
+      <pubDate>Sat, 11 Jul 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-07-11</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-07-11/2026-07-11.mp3" length="12101475" type="audio/mpeg"/>
+      <itunes:duration>12:36</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>7月10日 AI 观察｜作家用 Claude 把 6.7 万美元软件账单砍到 150 美元 · Grok 4.5 进 Vercel/Cursor</title>
       <description>关键 AI 动态、评估与使用建议：① AI &amp; I 播客——作家 Greg 用 Claude Code 重写贵而臃肿的 SaaS，把一年 6.7 万美元的邮件软件账单干到 150 美元（n-of-one software），但坚决不让 AI 碰写作正文；② Grok 4.5 同日被 Vercel 和 Cursor 接入主流工具链；③ Claude Code 新命令 /checkup 一键给配置做体检；④ Zara Zhang 警示：人手一个 agent 的副作用是团队不再交流；⑤ Nikunj：精致正在等于 slop，内容要回摆到 raw、真人感。</description>
