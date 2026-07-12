@@ -23,7 +23,7 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sun, 12 Jul 2026 10:11:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 23:44:15 GMT</lastBuildDate>
     <item>
       <title>7月12日 AI 观察｜杰文斯悖论遇上真实数据：Booking CEO说agent采用率月月翻倍</title>
       <description>关键 AI 动态、评估与使用建议：① Box 的 Aaron Levie 和独立开发者 Swyx 各自抛出「杰文斯悖论」——AI 让软件变便宜，岗位需求反而不降反升，编程只是先兆，接下来会在整个知识工作领域重演；② No Priors 访谈里，Booking Holdings CEO Glenn Fogel 给出罕见的真实生产数据：旗下 agent 助手 Penny 采用率过去几个月每月翻倍、客服成本降了一成，但他也直言最担心的是「50 岁卡车司机」这类来不及转型的人，企业该为员工做 AI 再培训；③ OpenAI 的 Thibault Sottiaux 为 GPT-5.6 Sol 的编程能力站台，还放出了一条能在 Claude Code 里白嫖它的野路子。</description>
@@ -35,13 +35,13 @@
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>7月11日 AI 观察｜GPT-5.6 三档齐发但没人分得清怎么选 · AI教父说护城河不存在</title>
-      <description>关键 AI 动态、评估与使用建议：① OpenAI 发布 GPT-5.6 三档模型 Sol/Terra/Luna，Box 用企业真实数据集测出具体分数提升，但一线用户实测吐槽根本分不清该选哪档、该配多高努力档；② AI 教父 Jürgen Schmidhuber 罕见系统性回应：递归自我改进不会给任何公司带来护城河，上千亿美元的算力投入五年后要贬值九成，这轮 CapEx 迟早要被股市重新校准，他也从没签过任何 AI 安全联名信；③ Vercel 的 Guillermo Rauch 把这周定性为「模型发布周」，Grok 4.5、Meta Spark、GLM 5.2 扎堆发布，开源模型正在快速逼近前沿。</description>
-      <itunes:summary>关键 AI 动态、评估与使用建议：① OpenAI 发布 GPT-5.6 三档模型 Sol/Terra/Luna，Box 用企业真实数据集测出具体分数提升，但一线用户实测吐槽根本分不清该选哪档、该配多高努力档；② AI 教父 Jürgen Schmidhuber 罕见系统性回应：递归自我改进不会给任何公司带来护城河，上千亿美元的算力投入五年后要贬值九成，这轮 CapEx 迟早要被股市重新校准，他也从没签过任何 AI 安全联名信；③ Vercel 的 Guillermo Rauch 把这周定性为「模型发布周」，Grok 4.5、Meta Spark、GLM 5.2 扎堆发布，开源模型正在快速逼近前沿。</itunes:summary>
+      <title>7月11日 AI 观察｜AI 教父施密德胡伯：技术会更便宜，但囤算力囤模型的生意撑不住 · GPT-5.6 三档发布</title>
+      <description>关键 AI 动态、评估与使用建议：① Unsupervised Learning 对话「AI 教父」施密德胡伯——技术乐观、公司悲观：递归自我改进的核心算法多出自小实验室和穷博士生，巨头难靠它建护城河；他还算账警告算力投资泡沫（每美元算力每 5 年涨 10 倍，数据中心硬件 5 年后价值跌九成）。② OpenAI 发布 GPT-5.6 三档（Sol/Terra/Luna），Box 实测企业场景准确率明显提升，但 Peter Yang 吐槽多档位普通人根本搞不懂——能力和易用性在往两个方向走。③ 本周成「模型发布周」：Grok 4.5、GLM 5.2、美团 1.6 万亿参数开源模型密集登场，开源在价格和速度上快速逼近前沿。④ Madhu Guru 加入 Meta 做 agent 产品——非编程类 agent 仍是蓝海。</description>
+      <itunes:summary>关键 AI 动态、评估与使用建议：① Unsupervised Learning 对话「AI 教父」施密德胡伯——技术乐观、公司悲观：递归自我改进的核心算法多出自小实验室和穷博士生，巨头难靠它建护城河；他还算账警告算力投资泡沫（每美元算力每 5 年涨 10 倍，数据中心硬件 5 年后价值跌九成）。② OpenAI 发布 GPT-5.6 三档（Sol/Terra/Luna），Box 实测企业场景准确率明显提升，但 Peter Yang 吐槽多档位普通人根本搞不懂——能力和易用性在往两个方向走。③ 本周成「模型发布周」：Grok 4.5、GLM 5.2、美团 1.6 万亿参数开源模型密集登场，开源在价格和速度上快速逼近前沿。④ Madhu Guru 加入 Meta 做 agent 产品——非编程类 agent 仍是蓝海。</itunes:summary>
       <pubDate>Sat, 11 Jul 2026 08:00:00 GMT</pubDate>
       <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-07-11</guid>
-      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-07-11/2026-07-11.mp3" length="12101475" type="audio/mpeg"/>
-      <itunes:duration>12:36</itunes:duration>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-07-11/2026-07-11.mp3" length="12012868" type="audio/mpeg"/>
+      <itunes:duration>12:30</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
