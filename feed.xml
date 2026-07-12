@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sun, 12 Jul 2026 23:44:15 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 23:58:24 GMT</lastBuildDate>
+    <item>
+      <title>7月13日 特别版·上｜AI 时代的造物者：Fable 5 提示词 8 技巧 · PM 职能演化 · AI Engineer 大会精读</title>
+      <description>特别版（上·造物者）——精读 Zara Zhang 强烈推荐的三大 AI 大会回放，讲给做产品和 builder 的人：① Anthropic 的 Thariq《Fable 实战指南：找到你的未知》——「地图不是疆域」、unhobbling（模型的限制多是我们自己加的）、四类未知，加 before/during/after 的 8 个提示词技巧（盲点扫描、让它反过来访谈你、给现成参考、做小测验等），核心是「你需要的不是更好的 prompt，是更好的 workflow」；② ChatPRD 创始人 Claire Vo 论 AI 时代 PM 职能演化——PM 变「产品创造者」、PM 与工程配比从 1:7 到 1:20、只写文档只协调的中层 PM 最危险、super IC 取代中层经理；③ AI Engineer World's Fair 2026 全景——7200 人售罄，评测与 agent 可靠性是最热两条主线。下集「手艺人」聊内容设计、Viktor 的 AI 员工与设计师分享。</description>
+      <itunes:summary>特别版（上·造物者）——精读 Zara Zhang 强烈推荐的三大 AI 大会回放，讲给做产品和 builder 的人：① Anthropic 的 Thariq《Fable 实战指南：找到你的未知》——「地图不是疆域」、unhobbling（模型的限制多是我们自己加的）、四类未知，加 before/during/after 的 8 个提示词技巧（盲点扫描、让它反过来访谈你、给现成参考、做小测验等），核心是「你需要的不是更好的 prompt，是更好的 workflow」；② ChatPRD 创始人 Claire Vo 论 AI 时代 PM 职能演化——PM 变「产品创造者」、PM 与工程配比从 1:7 到 1:20、只写文档只协调的中层 PM 最危险、super IC 取代中层经理；③ AI Engineer World's Fair 2026 全景——7200 人售罄，评测与 agent 可靠性是最热两条主线。下集「手艺人」聊内容设计、Viktor 的 AI 员工与设计师分享。</itunes:summary>
+      <pubDate>Mon, 13 Jul 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-07-13</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-07-13/2026-07-13.mp3" length="7567872" type="audio/mpeg"/>
+      <itunes:duration>7:52</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>7月12日 AI 观察｜杰文斯悖论遇上真实数据：Booking CEO说agent采用率月月翻倍</title>
       <description>关键 AI 动态、评估与使用建议：① Box 的 Aaron Levie 和独立开发者 Swyx 各自抛出「杰文斯悖论」——AI 让软件变便宜，岗位需求反而不降反升，编程只是先兆，接下来会在整个知识工作领域重演；② No Priors 访谈里，Booking Holdings CEO Glenn Fogel 给出罕见的真实生产数据：旗下 agent 助手 Penny 采用率过去几个月每月翻倍、客服成本降了一成，但他也直言最担心的是「50 岁卡车司机」这类来不及转型的人，企业该为员工做 AI 再培训；③ OpenAI 的 Thibault Sottiaux 为 GPT-5.6 Sol 的编程能力站台，还放出了一条能在 Claude Code 里白嫖它的野路子。</description>
