@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Mon, 13 Jul 2026 00:06:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 00:08:40 GMT</lastBuildDate>
+    <item>
+      <title>7月14日 特别版·下｜AI 时代的手艺人：面向人类写作 · Slack 里的 AI 员工 · Cursor/Notion/Brat 设计师</title>
+      <description>特别版（下·手艺人）——精读 Zara Zhang 推荐的三大 AI 大会回放，讲给做内容、设计、自媒体的人：① Anthropic 内容设计负责人 Chelsea Larsson《AI 时代如何面向人类写作》——工作没消失、只是往上游移了，语言从「装饰」变成塑造产品体验的「介质」，心智模型是新的设计对象，Claude 被训练成「外交式诚实而非不诚实地圆滑」；② Viktor——住在 Slack 里、有持久计算环境和组织记忆的 AI 员工（「不是工具，是一次招聘」）；③ 三位设计师：Cursor 的 Ryo Lu「万物同理、设计像在大理石里找大卫」、Notion 设计系统「趁大家吃饭把桌布换掉」的落地难题、Brat 封面设计师把一次低清导出「错误」留成格莱美经典——当 AI 让一切都精致，故意保留的不完美人味最珍贵。</description>
+      <itunes:summary>特别版（下·手艺人）——精读 Zara Zhang 推荐的三大 AI 大会回放，讲给做内容、设计、自媒体的人：① Anthropic 内容设计负责人 Chelsea Larsson《AI 时代如何面向人类写作》——工作没消失、只是往上游移了，语言从「装饰」变成塑造产品体验的「介质」，心智模型是新的设计对象，Claude 被训练成「外交式诚实而非不诚实地圆滑」；② Viktor——住在 Slack 里、有持久计算环境和组织记忆的 AI 员工（「不是工具，是一次招聘」）；③ 三位设计师：Cursor 的 Ryo Lu「万物同理、设计像在大理石里找大卫」、Notion 设计系统「趁大家吃饭把桌布换掉」的落地难题、Brat 封面设计师把一次低清导出「错误」留成格莱美经典——当 AI 让一切都精致，故意保留的不完美人味最珍贵。</itunes:summary>
+      <pubDate>Tue, 14 Jul 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-07-14</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-07-14/2026-07-14.mp3" length="8091157" type="audio/mpeg"/>
+      <itunes:duration>8:25</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>7月13日 特别版·上｜AI 时代的造物者：Fable 5 提示词 8 技巧 · PM 职能演化 · AI Engineer 大会精读</title>
       <description>特别版（上·造物者）——精读 Zara Zhang 强烈推荐的三大 AI 大会回放，讲给做产品和 builder 的人：① Anthropic 的 Thariq《Fable 实战指南：找到你的未知》——「地图不是疆域」、unhobbling（模型的限制多是我们自己加的）、四类未知，加 before/during/after 的 8 个提示词技巧（盲点扫描、让它反过来访谈你、给现成参考、做小测验等），核心是「你需要的不是更好的 prompt，是更好的 workflow」；② ChatPRD 创始人 Claire Vo 论 AI 时代 PM 职能演化——PM 变「产品创造者」、PM 与工程配比从 1:7 到 1:20、只写文档只协调的中层 PM 最危险、super IC 取代中层经理；③ AI Engineer World's Fair 2026 全景——7200 人售罄，评测与 agent 可靠性是最热两条主线。下集「手艺人」聊内容设计、Viktor 的 AI 员工与设计师分享。</description>
