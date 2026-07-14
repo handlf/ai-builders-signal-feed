@@ -23,15 +23,15 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Tue, 14 Jul 2026 07:05:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 07:07:42 GMT</lastBuildDate>
     <item>
       <title>7月14日 AI 观察｜GPT-5.6 Sol 落地一周：模型是租来的，你该攥住的是自己的数据和 IP</title>
       <description>关键 AI 动态、评估与使用建议：① GPT-5.6 Sol 发布一周——OpenAI 做了推理优化、给所有订阅降价多给约 10% 用量，9 成人已在用 Sol；Peter Yang 顺带批评 Anthropic「沟通太端着」，越被质疑越要用人话、要透明；② 拥有你自己的栈——Vercel 的 Rauch「让模型只是你自有机器里的一个齿轮」（自己的数据/评测/模型选择/软件层）、Box 的 Aaron Levie 论 21 世纪企业关键是把决策/洞察/工作流这些 IP 沉淀下来：模型是租来的、会一直变，你拥有的才是资产；③ Zara Zhang「会议记录当 PRD」——把讨论转录丢给 Codex 直接出原型，「会议就是 prompt」，还有一句「热情是最大的护城河」；④ Amjad「氛围研究」微调 Qwen 下棋、Nikunj 提醒别沉迷 tokenmaxxing 要想清为谁做什么、Claude 把 Fable 5 延长到 7/19。</description>
       <itunes:summary>关键 AI 动态、评估与使用建议：① GPT-5.6 Sol 发布一周——OpenAI 做了推理优化、给所有订阅降价多给约 10% 用量，9 成人已在用 Sol；Peter Yang 顺带批评 Anthropic「沟通太端着」，越被质疑越要用人话、要透明；② 拥有你自己的栈——Vercel 的 Rauch「让模型只是你自有机器里的一个齿轮」（自己的数据/评测/模型选择/软件层）、Box 的 Aaron Levie 论 21 世纪企业关键是把决策/洞察/工作流这些 IP 沉淀下来：模型是租来的、会一直变，你拥有的才是资产；③ Zara Zhang「会议记录当 PRD」——把讨论转录丢给 Codex 直接出原型，「会议就是 prompt」，还有一句「热情是最大的护城河」；④ Amjad「氛围研究」微调 Qwen 下棋、Nikunj 提醒别沉迷 tokenmaxxing 要想清为谁做什么、Claude 把 Fable 5 延长到 7/19。</itunes:summary>
       <pubDate>Tue, 14 Jul 2026 08:00:00 GMT</pubDate>
       <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-07-14</guid>
-      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-07-14/2026-07-14.mp3" length="5915261" type="audio/mpeg"/>
-      <itunes:duration>6:09</itunes:duration>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-07-14/2026-07-14.mp3" length="7917286" type="audio/mpeg"/>
+      <itunes:duration>8:14</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
