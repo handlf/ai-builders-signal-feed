@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Tue, 14 Jul 2026 07:07:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 15:57:05 GMT</lastBuildDate>
+    <item>
+      <title>7月15日 AI 观察｜Aaron Levie：AI 生态四层论，把 Fable 当经理用反而更省钱</title>
+      <description>关键 AI 动态、评估与使用建议：① Box 的 Aaron Levie 把 AI 生态拆成前沿实验室/开源权重/应用 AI 层/企业自身四层，讲清楚各自护城河在哪，还转发实证——把 Fable 当经理只定约束、把执行交给便宜模型，总成本反而降低，他说这就是以后模型路由该有的样子；② 独立开发者 Nikunj Kothari 用 Ramp CLI + Claude Code 做了个开源的自动理报销 skill，能自动找收据、填会议备注、学你的分类习惯，一次处理了积压六十天的报销单；③ Vercel 的 Guillermo Rauch 分享开源权重模型已跑网关 29% 的 token 流量（四月才 11%），Claude Artifacts 今天升级，Cursor 的 Ryo Lu 用 AI 给电子阅读器做了套定制固件。</description>
+      <itunes:summary>关键 AI 动态、评估与使用建议：① Box 的 Aaron Levie 把 AI 生态拆成前沿实验室/开源权重/应用 AI 层/企业自身四层，讲清楚各自护城河在哪，还转发实证——把 Fable 当经理只定约束、把执行交给便宜模型，总成本反而降低，他说这就是以后模型路由该有的样子；② 独立开发者 Nikunj Kothari 用 Ramp CLI + Claude Code 做了个开源的自动理报销 skill，能自动找收据、填会议备注、学你的分类习惯，一次处理了积压六十天的报销单；③ Vercel 的 Guillermo Rauch 分享开源权重模型已跑网关 29% 的 token 流量（四月才 11%），Claude Artifacts 今天升级，Cursor 的 Ryo Lu 用 AI 给电子阅读器做了套定制固件。</itunes:summary>
+      <pubDate>Wed, 15 Jul 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-07-15</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-07-15/2026-07-15.mp3" length="11852371" type="audio/mpeg"/>
+      <itunes:duration>12:20</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>7月14日 AI 观察｜GPT-5.6 Sol 落地一周：模型是租来的，你该攥住的是自己的数据和 IP</title>
       <description>关键 AI 动态、评估与使用建议：① GPT-5.6 Sol 发布一周——OpenAI 做了推理优化、给所有订阅降价多给约 10% 用量，9 成人已在用 Sol；Peter Yang 顺带批评 Anthropic「沟通太端着」，越被质疑越要用人话、要透明；② 拥有你自己的栈——Vercel 的 Rauch「让模型只是你自有机器里的一个齿轮」（自己的数据/评测/模型选择/软件层）、Box 的 Aaron Levie 论 21 世纪企业关键是把决策/洞察/工作流这些 IP 沉淀下来：模型是租来的、会一直变，你拥有的才是资产；③ Zara Zhang「会议记录当 PRD」——把讨论转录丢给 Codex 直接出原型，「会议就是 prompt」，还有一句「热情是最大的护城河」；④ Amjad「氛围研究」微调 Qwen 下棋、Nikunj 提醒别沉迷 tokenmaxxing 要想清为谁做什么、Claude 把 Fable 5 延长到 7/19。</description>
