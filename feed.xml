@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Wed, 15 Jul 2026 15:57:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 23:56:13 GMT</lastBuildDate>
+    <item>
+      <title>7月16日 AI 观察｜第一波 AI 应用只是入口，护城河是「下一个」· AI 味正在遭反噬</title>
+      <description>关键 AI 动态、评估与使用建议：① AI &amp; I 播客——15 亿美元 AI 公司 Granola 创始人 Chris 聊「第一波 AI 应用之后」：会议记录不是终局、创业顺风逆风都是「刀战」、被抄不可怕，护城河是你能不能在「下一个东西」上做到最好；② AI 味的反噬——Meta 的 Madhu Guru 描述「读到 AI 写作时大脑的原始反感」、只在头脑风暴用 AI 终稿保持人写，Garry Tan 号召「把破折号夺回来」，真人味成稀缺资产；③ 提示词技巧（Thariq）：薄提示、厚产物+上下文、薄技能；④ 摆脱前沿模型依赖——skill 文件可移植、Levie 论「前沿模型当编排+开源模型执行」；⑤ Zara Zhang：把公司设计成 agent 能读懂的样子（Shopify 只用公开频道）。另含 Claude Code 官宣支持 artifacts、Vercel Sandbox 每天 350 万沙箱、GPT-5.6 误删文件的安全提醒。</description>
+      <itunes:summary>关键 AI 动态、评估与使用建议：① AI &amp; I 播客——15 亿美元 AI 公司 Granola 创始人 Chris 聊「第一波 AI 应用之后」：会议记录不是终局、创业顺风逆风都是「刀战」、被抄不可怕，护城河是你能不能在「下一个东西」上做到最好；② AI 味的反噬——Meta 的 Madhu Guru 描述「读到 AI 写作时大脑的原始反感」、只在头脑风暴用 AI 终稿保持人写，Garry Tan 号召「把破折号夺回来」，真人味成稀缺资产；③ 提示词技巧（Thariq）：薄提示、厚产物+上下文、薄技能；④ 摆脱前沿模型依赖——skill 文件可移植、Levie 论「前沿模型当编排+开源模型执行」；⑤ Zara Zhang：把公司设计成 agent 能读懂的样子（Shopify 只用公开频道）。另含 Claude Code 官宣支持 artifacts、Vercel Sandbox 每天 350 万沙箱、GPT-5.6 误删文件的安全提醒。</itunes:summary>
+      <pubDate>Thu, 16 Jul 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-07-16</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-07-16/2026-07-16.mp3" length="7602980" type="audio/mpeg"/>
+      <itunes:duration>7:55</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>7月15日 AI 观察｜Aaron Levie：AI 生态四层论，把 Fable 当经理用反而更省钱</title>
       <description>关键 AI 动态、评估与使用建议：① Box 的 Aaron Levie 把 AI 生态拆成前沿实验室/开源权重/应用 AI 层/企业自身四层，讲清楚各自护城河在哪，还转发实证——把 Fable 当经理只定约束、把执行交给便宜模型，总成本反而降低，他说这就是以后模型路由该有的样子；② 独立开发者 Nikunj Kothari 用 Ramp CLI + Claude Code 做了个开源的自动理报销 skill，能自动找收据、填会议备注、学你的分类习惯，一次处理了积压六十天的报销单；③ Vercel 的 Guillermo Rauch 分享开源权重模型已跑网关 29% 的 token 流量（四月才 11%），Claude Artifacts 今天升级，Cursor 的 Ryo Lu 用 AI 给电子阅读器做了套定制固件。</description>
