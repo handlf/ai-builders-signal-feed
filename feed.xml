@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Thu, 16 Jul 2026 23:56:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 23:57:19 GMT</lastBuildDate>
+    <item>
+      <title>7月17日 AI 观察｜Granola CEO对谈Dan Shipper：Agent该长在应用里还是长在你身上</title>
+      <description>关键 AI 动态、评估与使用建议：① Every 的 Dan Shipper 对话 Granola CEO Chris Pedregal，两人激辩 agent 该由每个应用自建，还是用户自带通用 agent、应用只开放上下文——Dan 已经几乎活在 Codex 的应用内浏览器里处理邮件和生活琐事；② Claude Code 的 Boris Cherny 发长文，把"写 CLAUDE.md、skill、lint 规则"定义为 agent 时代工程师最高杠杆的自动化实践；③ OpenAI 的 Thibault Sottiaux 罕见公开 Codex 误删文件事故复盘，提醒高权限 agent 的安全边界；另有 Box CEO Aaron Levie 的企业 agent 落地现状笔记，以及 Claude Code 新上线的 Artifacts 功能。</description>
+      <itunes:summary>关键 AI 动态、评估与使用建议：① Every 的 Dan Shipper 对话 Granola CEO Chris Pedregal，两人激辩 agent 该由每个应用自建，还是用户自带通用 agent、应用只开放上下文——Dan 已经几乎活在 Codex 的应用内浏览器里处理邮件和生活琐事；② Claude Code 的 Boris Cherny 发长文，把"写 CLAUDE.md、skill、lint 规则"定义为 agent 时代工程师最高杠杆的自动化实践；③ OpenAI 的 Thibault Sottiaux 罕见公开 Codex 误删文件事故复盘，提醒高权限 agent 的安全边界；另有 Box CEO Aaron Levie 的企业 agent 落地现状笔记，以及 Claude Code 新上线的 Artifacts 功能。</itunes:summary>
+      <pubDate>Fri, 17 Jul 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-07-17</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-07-17/2026-07-17.mp3" length="13745308" type="audio/mpeg"/>
+      <itunes:duration>14:18</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>7月16日 AI 观察｜第一波 AI 应用只是入口，护城河是「下一个」· AI 味正在遭反噬</title>
       <description>关键 AI 动态、评估与使用建议：① AI &amp; I 播客——15 亿美元 AI 公司 Granola 创始人 Chris 聊「第一波 AI 应用之后」：会议记录不是终局、创业顺风逆风都是「刀战」、被抄不可怕，护城河是你能不能在「下一个东西」上做到最好；② AI 味的反噬——Meta 的 Madhu Guru 描述「读到 AI 写作时大脑的原始反感」、只在头脑风暴用 AI 终稿保持人写，Garry Tan 号召「把破折号夺回来」，真人味成稀缺资产；③ 提示词技巧（Thariq）：薄提示、厚产物+上下文、薄技能；④ 摆脱前沿模型依赖——skill 文件可移植、Levie 论「前沿模型当编排+开源模型执行」；⑤ Zara Zhang：把公司设计成 agent 能读懂的样子（Shopify 只用公开频道）。另含 Claude Code 官宣支持 artifacts、Vercel Sandbox 每天 350 万沙箱、GPT-5.6 误删文件的安全提醒。</description>
