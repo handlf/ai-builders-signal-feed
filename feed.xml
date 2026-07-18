@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Thu, 16 Jul 2026 23:57:19 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 01:38:47 GMT</lastBuildDate>
+    <item>
+      <title>7月18日 AI 观察｜Benedict Evans谈AI到底多大：开源Kimi K3反超闭源模型</title>
+      <description>关键 AI 动态、评估与使用建议：① 科技分析师 Benedict Evans 对话 Redpoint 的 Jacob Efron，提出别争论 AI 有多大、要看历史平台转移规律的分析框架，并指出多数人即便模型能力完美也不会自己造工具的三层障碍；② Vercel CEO Guillermo Rauch 晒出数据，开源模型 Kimi K3 在综合网页工程基准上反超所有闭源模型，Box CEO Aaron Levie、Every CEO Dan Shipper、Aditya Agarwal 各自给出成本、怀疑、换模型三种不同反应；③ Claude Code 的 Boris Cherny 给出衡量 agent ROI 的具体框架，别只看用量看人力成本；另有 Anthropic Engineering 罕见公开 Claude 三大产品的权限隔离设计与两起真实安全事故复盘。</description>
+      <itunes:summary>关键 AI 动态、评估与使用建议：① 科技分析师 Benedict Evans 对话 Redpoint 的 Jacob Efron，提出别争论 AI 有多大、要看历史平台转移规律的分析框架，并指出多数人即便模型能力完美也不会自己造工具的三层障碍；② Vercel CEO Guillermo Rauch 晒出数据，开源模型 Kimi K3 在综合网页工程基准上反超所有闭源模型，Box CEO Aaron Levie、Every CEO Dan Shipper、Aditya Agarwal 各自给出成本、怀疑、换模型三种不同反应；③ Claude Code 的 Boris Cherny 给出衡量 agent ROI 的具体框架，别只看用量看人力成本；另有 Anthropic Engineering 罕见公开 Claude 三大产品的权限隔离设计与两起真实安全事故复盘。</itunes:summary>
+      <pubDate>Sat, 18 Jul 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-07-18</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-07-18/2026-07-18.mp3" length="18922569" type="audio/mpeg"/>
+      <itunes:duration>19:42</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>7月17日 AI 观察｜Granola CEO对谈Dan Shipper：Agent该长在应用里还是长在你身上</title>
       <description>关键 AI 动态、评估与使用建议：① Every 的 Dan Shipper 对话 Granola CEO Chris Pedregal，两人激辩 agent 该由每个应用自建，还是用户自带通用 agent、应用只开放上下文——Dan 已经几乎活在 Codex 的应用内浏览器里处理邮件和生活琐事；② Claude Code 的 Boris Cherny 发长文，把"写 CLAUDE.md、skill、lint 规则"定义为 agent 时代工程师最高杠杆的自动化实践；③ OpenAI 的 Thibault Sottiaux 罕见公开 Codex 误删文件事故复盘，提醒高权限 agent 的安全边界；另有 Box CEO Aaron Levie 的企业 agent 落地现状笔记，以及 Claude Code 新上线的 Artifacts 功能。</description>
