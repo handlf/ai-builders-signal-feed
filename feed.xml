@@ -23,7 +23,25 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Mon, 20 Jul 2026 09:33:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 22:41:31 GMT</lastBuildDate>
+    <item>
+      <title>7月21日｜Stripe揭秘智能体电商全基建，AI越便宜大家反而花得更多</title>
+      <description>今天最重要的一条来自播客：Stripe 数据与 AI 负责人 Emily Sense 详解这一年 agentic commerce 从假设走到落地的全过程——ACP 协议、Link Wallet、共享支付令牌、解决"vibe coding 之后怎么上线"的 Stripe Projects，以及 AI 时代为什么必须从订阅制转向用量计费，还有一种叫"token 盗窃"的新型欺诈正在威胁 AI 公司的生死线。
+
+①Box CEO Aaron Levie 抛出反直觉判断：AI 成本下降，总支出不会跟着降，反而会因为用得更多而上升。
+②Every CEO Dan Shipper 说，AI 这周第一次真正接管了他们七成的人工文案校对工作。
+③Claude Cowork、Vercel、OpenAI 等多位 builder 分享了具体的实战提示词和产品体验反馈。</description>
+      <itunes:summary>今天最重要的一条来自播客：Stripe 数据与 AI 负责人 Emily Sense 详解这一年 agentic commerce 从假设走到落地的全过程——ACP 协议、Link Wallet、共享支付令牌、解决"vibe coding 之后怎么上线"的 Stripe Projects，以及 AI 时代为什么必须从订阅制转向用量计费，还有一种叫"token 盗窃"的新型欺诈正在威胁 AI 公司的生死线。
+
+①Box CEO Aaron Levie 抛出反直觉判断：AI 成本下降，总支出不会跟着降，反而会因为用得更多而上升。
+②Every CEO Dan Shipper 说，AI 这周第一次真正接管了他们七成的人工文案校对工作。
+③Claude Cowork、Vercel、OpenAI 等多位 builder 分享了具体的实战提示词和产品体验反馈。</itunes:summary>
+      <pubDate>Tue, 21 Jul 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-07-21</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-07-21/2026-07-21.mp3" length="15988077" type="audio/mpeg"/>
+      <itunes:duration>16:39</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>7月20日｜AI教父警告数据中心是泡沫，开源模型网络安全反超闭源</title>
       <description>今天最重要的一条来自播客：被称为"AI教父"的 Jürgen Schmidhuber 罕见开腔，讲了三个反直觉判断——现在的数据中心投资五年内可能贬值九成、机器人硬件才是通用AI真正的瓶颈、闭源模型公司几乎没有护城河。
