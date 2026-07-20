@@ -23,7 +23,7 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Mon, 20 Jul 2026 09:32:32 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 09:33:23 GMT</lastBuildDate>
     <item>
       <title>7月20日｜AI教父警告数据中心是泡沫，开源模型网络安全反超闭源</title>
       <description>今天最重要的一条来自播客：被称为"AI教父"的 Jürgen Schmidhuber 罕见开腔，讲了三个反直觉判断——现在的数据中心投资五年内可能贬值九成、机器人硬件才是通用AI真正的瓶颈、闭源模型公司几乎没有护城河。
@@ -40,6 +40,16 @@
       <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-07-20</guid>
       <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-07-20/2026-07-20.mp3" length="15455597" type="audio/mpeg"/>
       <itunes:duration>16:05</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>7月19日 AI 观察｜OpenAI算力负责人：需求远超供给，AI已经在设计自己的芯片</title>
+      <description>关键 AI 动态、评估与落地建议：① MAD Podcast 深访 OpenAI 工业级算力负责人 Sachin Katti（前 Intel CTO）——「任何时候以为算力够了、可以慢下来，事后都被打脸」；数据中心是把电子变成 token 的巨型工厂，散热能力直接换算成智能产出；自研芯片 Jalapeno 九个月流片，关键原因之一是 AI 已在辅助设计芯片，他断言「AI 设计出训练下一代 AI 所需系统」的递归世界并不遥远；② Anthropic 官宣 7 月 20 日起 Fable 5 纳入 Max 与 Team Premium（50% 额度），Pro 用户获一次性 100 美元额度；③ Meta 的 Madhu Guru：企业走不出聊天机器人阶段，卡的是评测、harness 与人才这三层；④ Aaron Levie：AI 越便宜、前沿模型反而可能卖得更多，强模型编排 + 便宜模型执行；⑤ Anthropic 三篇工程博客——Claude Code 质量下降的三个具体原因复盘、Managed Agents「大脑与手分离」架构、自托管沙箱与 MCP 隧道。另含 Swyx 的 SEO 自动化红利、Thariq 的省 token 经验、Zara Zhang 谈 build in public。</description>
+      <itunes:summary>关键 AI 动态、评估与落地建议：① MAD Podcast 深访 OpenAI 工业级算力负责人 Sachin Katti（前 Intel CTO）——「任何时候以为算力够了、可以慢下来，事后都被打脸」；数据中心是把电子变成 token 的巨型工厂，散热能力直接换算成智能产出；自研芯片 Jalapeno 九个月流片，关键原因之一是 AI 已在辅助设计芯片，他断言「AI 设计出训练下一代 AI 所需系统」的递归世界并不遥远；② Anthropic 官宣 7 月 20 日起 Fable 5 纳入 Max 与 Team Premium（50% 额度），Pro 用户获一次性 100 美元额度；③ Meta 的 Madhu Guru：企业走不出聊天机器人阶段，卡的是评测、harness 与人才这三层；④ Aaron Levie：AI 越便宜、前沿模型反而可能卖得更多，强模型编排 + 便宜模型执行；⑤ Anthropic 三篇工程博客——Claude Code 质量下降的三个具体原因复盘、Managed Agents「大脑与手分离」架构、自托管沙箱与 MCP 隧道。另含 Swyx 的 SEO 自动化红利、Thariq 的省 token 经验、Zara Zhang 谈 build in public。</itunes:summary>
+      <pubDate>Sun, 19 Jul 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-07-19</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-07-19/2026-07-19.mp3" length="18558944" type="audio/mpeg"/>
+      <itunes:duration>19:19</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
