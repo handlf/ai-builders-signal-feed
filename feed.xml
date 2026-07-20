@@ -23,7 +23,25 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sat, 18 Jul 2026 01:38:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 09:32:32 GMT</lastBuildDate>
+    <item>
+      <title>7月20日｜AI教父警告数据中心是泡沫，开源模型网络安全反超闭源</title>
+      <description>今天最重要的一条来自播客：被称为"AI教父"的 Jürgen Schmidhuber 罕见开腔，讲了三个反直觉判断——现在的数据中心投资五年内可能贬值九成、机器人硬件才是通用AI真正的瓶颈、闭源模型公司几乎没有护城河。
+
+①Vercel CEO 放出内部安全评测，开源模型 Kimi K3 和新模型 Sol 在网络安全能力上表现强势，反倒是闭源模型 Fable 在测试里几乎全程拒绝配合。
+②OpenAI 负责 Codex 和 ChatGPT 的 Thibault Sottiaux 分享了他怎么用一段口述指令，让 ChatGPT Work 把几千条私信自动分类打分，一个可以直接照抄的实战案例。
+③Box CEO Aaron Levie 判断 AI 生态正在从赢家通吃走向多层分化，并直言封锁模型这条路走不通。</description>
+      <itunes:summary>今天最重要的一条来自播客：被称为"AI教父"的 Jürgen Schmidhuber 罕见开腔，讲了三个反直觉判断——现在的数据中心投资五年内可能贬值九成、机器人硬件才是通用AI真正的瓶颈、闭源模型公司几乎没有护城河。
+
+①Vercel CEO 放出内部安全评测，开源模型 Kimi K3 和新模型 Sol 在网络安全能力上表现强势，反倒是闭源模型 Fable 在测试里几乎全程拒绝配合。
+②OpenAI 负责 Codex 和 ChatGPT 的 Thibault Sottiaux 分享了他怎么用一段口述指令，让 ChatGPT Work 把几千条私信自动分类打分，一个可以直接照抄的实战案例。
+③Box CEO Aaron Levie 判断 AI 生态正在从赢家通吃走向多层分化，并直言封锁模型这条路走不通。</itunes:summary>
+      <pubDate>Mon, 20 Jul 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-07-20</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-07-20/2026-07-20.mp3" length="15455597" type="audio/mpeg"/>
+      <itunes:duration>16:05</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>7月18日 AI 观察｜Benedict Evans谈AI到底多大：开源Kimi K3反超闭源模型</title>
       <description>关键 AI 动态、评估与使用建议：① 科技分析师 Benedict Evans 对话 Redpoint 的 Jacob Efron，提出别争论 AI 有多大、要看历史平台转移规律的分析框架，并指出多数人即便模型能力完美也不会自己造工具的三层障碍；② Vercel CEO Guillermo Rauch 晒出数据，开源模型 Kimi K3 在综合网页工程基准上反超所有闭源模型，Box CEO Aaron Levie、Every CEO Dan Shipper、Aditya Agarwal 各自给出成本、怀疑、换模型三种不同反应；③ Claude Code 的 Boris Cherny 给出衡量 agent ROI 的具体框架，别只看用量看人力成本；另有 Anthropic Engineering 罕见公开 Claude 三大产品的权限隔离设计与两起真实安全事故复盘。</description>
