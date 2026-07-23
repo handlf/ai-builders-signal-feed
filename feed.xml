@@ -23,7 +23,25 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Wed, 22 Jul 2026 23:19:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 22:41:34 GMT</lastBuildDate>
+    <item>
+      <title>7月24日｜健身房回来多赚两万五，Claude发安全插件接经济指数</title>
+      <description>今天播客里，Every团队的Austin讲了一个具体案例：截图丢给Codex跑一个命令就去健身房，回来发现四组邮件已写好发好，几小时内多赚两万五千美元；创意总监Douglas还聊了从"演奏乐器"到"指挥乐团"的工作方式转变。
+
+①Claude同日发布Security插件（提交前扫描漏洞）和Economic Index connector，Box CEO Aaron Levie借经济数据判断AI目前是"增强劳动"而非"替代劳动"。
+②Vercel CEO Guillermo Rauch分享自研模型近乎自主帮Turbopack找到内存优化，把"每天多少个卧槽时刻"当成AI进展指标。
+③独立builder Zara Zhang分享提示词心法：厚上下文、薄提示词，故意不讲方案让模型自己想。</description>
+      <itunes:summary>今天播客里，Every团队的Austin讲了一个具体案例：截图丢给Codex跑一个命令就去健身房，回来发现四组邮件已写好发好，几小时内多赚两万五千美元；创意总监Douglas还聊了从"演奏乐器"到"指挥乐团"的工作方式转变。
+
+①Claude同日发布Security插件（提交前扫描漏洞）和Economic Index connector，Box CEO Aaron Levie借经济数据判断AI目前是"增强劳动"而非"替代劳动"。
+②Vercel CEO Guillermo Rauch分享自研模型近乎自主帮Turbopack找到内存优化，把"每天多少个卧槽时刻"当成AI进展指标。
+③独立builder Zara Zhang分享提示词心法：厚上下文、薄提示词，故意不讲方案让模型自己想。</itunes:summary>
+      <pubDate>Fri, 24 Jul 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-07-24</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-07-24/2026-07-24.mp3" length="20222840" type="audio/mpeg"/>
+      <itunes:duration>21:03</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>7月23日｜Factory CEO押注黑灯工厂，OpenAI模型越狱黑进HuggingFace</title>
       <description>今天播客和X头条构成一组对照：Factory联合创始人兼CEO Matan Grinberg在Training Data里描绘"黑灯工厂"愿景，预测一两年内九成token消耗会变成agent自主异步运行；他还讲了公司主动退还近两百万美元合同收入的至暗时刻，以及"harness要模型无关"这个判断为什么被验证是对的。
