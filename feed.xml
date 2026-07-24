@@ -23,7 +23,25 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Thu, 23 Jul 2026 22:41:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 22:43:24 GMT</lastBuildDate>
+    <item>
+      <title>7月25日｜Cerebras CEO讲透芯片为什么要拼速度，OpenAI和Claude抢滩语音助手</title>
+      <description>今天播客里，Cerebras创始人兼CEO Andrew Feldman用一整期时间讲清楚了推理速度为什么变成芯片行业的核心战场——从decode环节为什么严格顺序执行、到SRAM为什么比HBM快两千五百倍，再到他直接说CUDA已经不是护城河了，因为Gemini、Claude、OpenAI现在都能不靠CUDA训练出顶尖模型。
+
+①OpenAI和Anthropic同一天不约而同加码语音助手：OpenAI上线对标贾维斯的桌面端语音功能，还琢磨着把ChatGPT Work改名Vibe；Claude的Voice Mode升级到能调用Opus/Sonnet主力模型、支持多国语言、还能通话中直接调用邮箱日历工具。
+②Replit CEO Amjad Masad分享自动扩容部署成本降了八成，还讲了一个用户靠Replit加MCP把整个代理公司自动化的案例。
+③Meta AI高级总监Madhu Guru抛出一个尖锐问题：当一个员工能同时开出上百个agent、agent还能再生agent，身份权限管理该怎么设计？</description>
+      <itunes:summary>今天播客里，Cerebras创始人兼CEO Andrew Feldman用一整期时间讲清楚了推理速度为什么变成芯片行业的核心战场——从decode环节为什么严格顺序执行、到SRAM为什么比HBM快两千五百倍，再到他直接说CUDA已经不是护城河了，因为Gemini、Claude、OpenAI现在都能不靠CUDA训练出顶尖模型。
+
+①OpenAI和Anthropic同一天不约而同加码语音助手：OpenAI上线对标贾维斯的桌面端语音功能，还琢磨着把ChatGPT Work改名Vibe；Claude的Voice Mode升级到能调用Opus/Sonnet主力模型、支持多国语言、还能通话中直接调用邮箱日历工具。
+②Replit CEO Amjad Masad分享自动扩容部署成本降了八成，还讲了一个用户靠Replit加MCP把整个代理公司自动化的案例。
+③Meta AI高级总监Madhu Guru抛出一个尖锐问题：当一个员工能同时开出上百个agent、agent还能再生agent，身份权限管理该怎么设计？</itunes:summary>
+      <pubDate>Sat, 25 Jul 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-07-25</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-07-25/2026-07-25.mp3" length="27201922" type="audio/mpeg"/>
+      <itunes:duration>28:19</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>7月24日｜健身房回来多赚两万五，Claude发安全插件接经济指数</title>
       <description>今天播客里，Every团队的Austin讲了一个具体案例：截图丢给Codex跑一个命令就去健身房，回来发现四组邮件已写好发好，几小时内多赚两万五千美元；创意总监Douglas还聊了从"演奏乐器"到"指挥乐团"的工作方式转变。
