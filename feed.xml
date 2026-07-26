@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sat, 25 Jul 2026 22:42:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 22:41:51 GMT</lastBuildDate>
+    <item>
+      <title>7月27日｜知名分析师拆解AI炒作周期，Anthropic揭秘Claude Code变笨真相</title>
+      <description>今天两条内容都很扎实。①分析师Benedict Evans在Unsupervised Learning播客里说，纠结AI是不是比互联网更大没有意义，该看的是电力、手机、半导体这些历史技术转移的规律，而这次真正不同的地方在于没人知道模型能力的物理天花板在哪；他还给出了当下AI日活只有一到一成五的真实数据，以及为什么编程是目前唯一跑通产品市场契合度的领域。②Anthropic工程博客罕见公开复盘了过去一个月Claude Code被大量用户吐槽变笨的真相——三个各自独立的改动（推理强度默认值、一个缓存清理bug、一条系统提示词）叠加造成的，现已全部修复并重置了用量限额。今天follow-builders的X动态和昨天完全重复，这部分继续跳过。</description>
+      <itunes:summary>今天两条内容都很扎实。①分析师Benedict Evans在Unsupervised Learning播客里说，纠结AI是不是比互联网更大没有意义，该看的是电力、手机、半导体这些历史技术转移的规律，而这次真正不同的地方在于没人知道模型能力的物理天花板在哪；他还给出了当下AI日活只有一到一成五的真实数据，以及为什么编程是目前唯一跑通产品市场契合度的领域。②Anthropic工程博客罕见公开复盘了过去一个月Claude Code被大量用户吐槽变笨的真相——三个各自独立的改动（推理强度默认值、一个缓存清理bug、一条系统提示词）叠加造成的，现已全部修复并重置了用量限额。今天follow-builders的X动态和昨天完全重复，这部分继续跳过。</itunes:summary>
+      <pubDate>Mon, 27 Jul 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-07-27</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-07-27/2026-07-27.mp3" length="13924613" type="audio/mpeg"/>
+      <itunes:duration>14:30</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>7月26日｜DoorDash创始人讲透机器人配送八年血泪史，Anthropic揭秘怎么给Claude关笼子</title>
       <description>今天两条重点内容都很扎实。①DoorDash联合创始人Andy Fang和Stanley Tang在No Priors播客里，讲了他们从2018年悄悄立项到今天在凤凰城全自动上路的配送机器人Dot之间的完整历程——为什么行业里大多数机器人公司先造技术再找场景是走反了，为什么DoorDash的护城河是3000亿次真实配送积累的数据而不是机器人本身，还有车轮压在树叶上导致扭矩错乱这类只有规模化之后才会暴露的真实坑。②Anthropic工程博客罕见公开了两次真实数据泄露事故复盘——一次是钓鱼提示词让Claude悄悄上传AWS密钥，一次是可信域名白名单被攻击者反向利用——由此得出的核心判断是，真正兜底的防线永远是环境层的硬限制，而不是模型的判断力。今天follow-builders的X动态和昨天基本重复，为了不炒冷饭这部分先跳过。</description>
