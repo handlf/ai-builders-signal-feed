@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sun, 26 Jul 2026 22:41:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 01:15:29 GMT</lastBuildDate>
+    <item>
+      <title>7月27日｜Codex生成｜开源权重成共识，软件工厂就是产品</title>
+      <description>Codex重新核验后补发：今天上游X动态不是重复，tweet id机械对比显示 today=31、yesterday=48、same=0。①Aaron Levie和Madhu Guru把Google加入开源权重阵营解读为行业共识形成，重点不只是模型开源，而是企业和builder需要可替换、可审计、可迁移的模型层。②Vercel CEO Guillermo Rauch提出“软件工厂就是产品”，他的agent CLI + research文件夹 + AGENTS.md工作流，对个人知识库和自媒体自动化很有参考价值。③Nan Yu继续追问真正的SoftwareFactory为什么还没出现，提示我们要补齐需求入口、评测标准和发布检查清单。④Anthropic三篇官方博客从Claude Code质量复盘、Managed Agents架构，到自托管sandbox和MCP tunnels，说明agent正在从demo走向生产基础设施。</description>
+      <itunes:summary>Codex重新核验后补发：今天上游X动态不是重复，tweet id机械对比显示 today=31、yesterday=48、same=0。①Aaron Levie和Madhu Guru把Google加入开源权重阵营解读为行业共识形成，重点不只是模型开源，而是企业和builder需要可替换、可审计、可迁移的模型层。②Vercel CEO Guillermo Rauch提出“软件工厂就是产品”，他的agent CLI + research文件夹 + AGENTS.md工作流，对个人知识库和自媒体自动化很有参考价值。③Nan Yu继续追问真正的SoftwareFactory为什么还没出现，提示我们要补齐需求入口、评测标准和发布检查清单。④Anthropic三篇官方博客从Claude Code质量复盘、Managed Agents架构，到自托管sandbox和MCP tunnels，说明agent正在从demo走向生产基础设施。</itunes:summary>
+      <pubDate>Mon, 27 Jul 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-07-27-codex</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-07-27-codex/2026-07-27-codex.mp3" length="14587914" type="audio/mpeg"/>
+      <itunes:duration>15:11</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>7月27日｜知名分析师拆解AI炒作周期，Anthropic揭秘Claude Code变笨真相</title>
       <description>今天两条内容都很扎实。①分析师Benedict Evans在Unsupervised Learning播客里说，纠结AI是不是比互联网更大没有意义，该看的是电力、手机、半导体这些历史技术转移的规律，而这次真正不同的地方在于没人知道模型能力的物理天花板在哪；他还给出了当下AI日活只有一到一成五的真实数据，以及为什么编程是目前唯一跑通产品市场契合度的领域。②Anthropic工程博客罕见公开复盘了过去一个月Claude Code被大量用户吐槽变笨的真相——三个各自独立的改动（推理强度默认值、一个缓存清理bug、一条系统提示词）叠加造成的，现已全部修复并重置了用量限额。今天follow-builders的X动态和昨天完全重复，这部分继续跳过。</description>
