@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Mon, 27 Jul 2026 01:15:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 00:02:53 GMT</lastBuildDate>
+    <item>
+      <title>7月28日｜OpenAI算力负责人揭秘500亿美元怎么烧，奥特曼一句话搞定全流程旅行</title>
+      <description>①OpenAI算力负责人Sachin Katti系统拆解算力基建：需求远超供给，自研芯片Jalapeno九个月流片，网络协议MRC扛住十万卡容错，guaranteed capacity把token做成企业级供应品——评估：这是目前少见把算力基建讲透的一期，值得做infra和企业AI产品的人认真听。②Sam Altman晒出一句prompt跑通策划旅行、建站协调、订好预定、写邮件的全流程，OpenAI团队评价这值二十小时的人力；同一时间Peter Yang观察到普通用户的顾虑已经从「token够不够用」转向「敢不敢把Gmail、日历授权给ChatGPT」——评估：agentic能力落地的速度已经跑在用户信任建设前面。③Box CEO Aaron Levie谈企业AI落地必须依赖的应用层机会，Vercel CEO Guillermo Rauch演示用AI把CLI代码编译成1.28MB原生二进制，独立builder Zara Zhang给出两条挺扎实的产品判断——评估：大家的关注点开始从模型能力本身转向怎么真正落地。</description>
+      <itunes:summary>①OpenAI算力负责人Sachin Katti系统拆解算力基建：需求远超供给，自研芯片Jalapeno九个月流片，网络协议MRC扛住十万卡容错，guaranteed capacity把token做成企业级供应品——评估：这是目前少见把算力基建讲透的一期，值得做infra和企业AI产品的人认真听。②Sam Altman晒出一句prompt跑通策划旅行、建站协调、订好预定、写邮件的全流程，OpenAI团队评价这值二十小时的人力；同一时间Peter Yang观察到普通用户的顾虑已经从「token够不够用」转向「敢不敢把Gmail、日历授权给ChatGPT」——评估：agentic能力落地的速度已经跑在用户信任建设前面。③Box CEO Aaron Levie谈企业AI落地必须依赖的应用层机会，Vercel CEO Guillermo Rauch演示用AI把CLI代码编译成1.28MB原生二进制，独立builder Zara Zhang给出两条挺扎实的产品判断——评估：大家的关注点开始从模型能力本身转向怎么真正落地。</itunes:summary>
+      <pubDate>Tue, 28 Jul 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-07-28</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-07-28/2026-07-28.mp3" length="11760420" type="audio/mpeg"/>
+      <itunes:duration>12:14</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>7月27日｜Codex生成｜开源权重成共识，软件工厂就是产品</title>
       <description>Codex重新核验后补发：今天上游X动态不是重复，tweet id机械对比显示 today=31、yesterday=48、same=0。①Aaron Levie和Madhu Guru把Google加入开源权重阵营解读为行业共识形成，重点不只是模型开源，而是企业和builder需要可替换、可审计、可迁移的模型层。②Vercel CEO Guillermo Rauch提出“软件工厂就是产品”，他的agent CLI + research文件夹 + AGENTS.md工作流，对个人知识库和自媒体自动化很有参考价值。③Nan Yu继续追问真正的SoftwareFactory为什么还没出现，提示我们要补齐需求入口、评测标准和发布检查清单。④Anthropic三篇官方博客从Claude Code质量复盘、Managed Agents架构，到自托管sandbox和MCP tunnels，说明agent正在从demo走向生产基础设施。</description>
