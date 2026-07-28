@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Tue, 28 Jul 2026 00:02:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 00:15:49 GMT</lastBuildDate>
+    <item>
+      <title>7月28日｜Codex生成｜算力工厂与一句话Agent闭环</title>
+      <description>Codex补发版：今天主线从“模型能力”收束到“生产系统”。①OpenAI Head of Industrial Compute Sachin Katti在The MAD Podcast里把智能还原成工业供应链：500亿美元算力计划、燃气轮机和变压器瓶颈、自研芯片Jalapeno、十万卡容错协议MRC，以及把token变成企业关键供应品的guaranteed capacity。②Sam Altman晒出一句prompt跑通旅行规划、协调网站、预定和Gmail通知，Thibault评价这值20小时人力；同一时间Peter Yang指出普通用户真正担心的是敢不敢授权Gmail、日历和Office。③Aaron Levie强调企业AI落地仍需要应用层，Guillermo Rauch演示用AI把Vercel CLI编译成1.28MB原生二进制，Zara Zhang提醒不要看token消耗，要看从需求到上线隔了多久。</description>
+      <itunes:summary>Codex补发版：今天主线从“模型能力”收束到“生产系统”。①OpenAI Head of Industrial Compute Sachin Katti在The MAD Podcast里把智能还原成工业供应链：500亿美元算力计划、燃气轮机和变压器瓶颈、自研芯片Jalapeno、十万卡容错协议MRC，以及把token变成企业关键供应品的guaranteed capacity。②Sam Altman晒出一句prompt跑通旅行规划、协调网站、预定和Gmail通知，Thibault评价这值20小时人力；同一时间Peter Yang指出普通用户真正担心的是敢不敢授权Gmail、日历和Office。③Aaron Levie强调企业AI落地仍需要应用层，Guillermo Rauch演示用AI把Vercel CLI编译成1.28MB原生二进制，Zara Zhang提醒不要看token消耗，要看从需求到上线隔了多久。</itunes:summary>
+      <pubDate>Tue, 28 Jul 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-07-28-codex</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-07-28-codex/2026-07-28-codex.mp3" length="14771816" type="audio/mpeg"/>
+      <itunes:duration>15:23</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>7月28日｜OpenAI算力负责人揭秘500亿美元怎么烧，奥特曼一句话搞定全流程旅行</title>
       <description>①OpenAI算力负责人Sachin Katti系统拆解算力基建：需求远超供给，自研芯片Jalapeno九个月流片，网络协议MRC扛住十万卡容错，guaranteed capacity把token做成企业级供应品——评估：这是目前少见把算力基建讲透的一期，值得做infra和企业AI产品的人认真听。②Sam Altman晒出一句prompt跑通策划旅行、建站协调、订好预定、写邮件的全流程，OpenAI团队评价这值二十小时的人力；同一时间Peter Yang观察到普通用户的顾虑已经从「token够不够用」转向「敢不敢把Gmail、日历授权给ChatGPT」——评估：agentic能力落地的速度已经跑在用户信任建设前面。③Box CEO Aaron Levie谈企业AI落地必须依赖的应用层机会，Vercel CEO Guillermo Rauch演示用AI把CLI代码编译成1.28MB原生二进制，独立builder Zara Zhang给出两条挺扎实的产品判断——评估：大家的关注点开始从模型能力本身转向怎么真正落地。</description>
