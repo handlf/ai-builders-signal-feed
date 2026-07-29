@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Wed, 29 Jul 2026 00:10:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 22:46:21 GMT</lastBuildDate>
+    <item>
+      <title>7月30日｜OpenAI亲自复盘Codex额度为什么掉得快，两个今天就能照做的AI工作流实验</title>
+      <description>①OpenAI的Thibault Sottiaux公开解释Codex/Sol模型额度消耗过快的三个技术原因，重置全体用户额度并预计典型场景多撑18%，同日还开源了代码安全扫描CLI和SDK——评估：给出了一份今天就能对照自查的AI用量审计清单。②Peter Yang用Claude Design加Claude Code从零做出打分产品Tastemaker，Dan Shipper全程用ChatGPT语音模式写完Codex诞生史——评估：一个开发者、一个内容创作者，两条今天都能照抄的AI原生工作流。③Swyx观察到招聘市场剧烈分裂，AI原生独立贡献者比纯管理岗更值钱——评估：目前只是个人观察，缺数据支撑，先记下来别当结论。</description>
+      <itunes:summary>①OpenAI的Thibault Sottiaux公开解释Codex/Sol模型额度消耗过快的三个技术原因，重置全体用户额度并预计典型场景多撑18%，同日还开源了代码安全扫描CLI和SDK——评估：给出了一份今天就能对照自查的AI用量审计清单。②Peter Yang用Claude Design加Claude Code从零做出打分产品Tastemaker，Dan Shipper全程用ChatGPT语音模式写完Codex诞生史——评估：一个开发者、一个内容创作者，两条今天都能照抄的AI原生工作流。③Swyx观察到招聘市场剧烈分裂，AI原生独立贡献者比纯管理岗更值钱——评估：目前只是个人观察，缺数据支撑，先记下来别当结论。</itunes:summary>
+      <pubDate>Thu, 30 Jul 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-07-30</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-07-30/2026-07-30.mp3" length="10328910" type="audio/mpeg"/>
+      <itunes:duration>10:45</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>7月29日｜Codex生成｜别看token单价，要看每个任务多少钱</title>
       <description>Codex补发版：今天上游X动态有29条新增、覆盖14位builder，播客源为7月17日已讲过的Granola旧内容，本集明确标注后不重复展开。①Swyx指出按输入/输出token计价已经不是关键指标，应该看每个任务多少钱；这直接适合用来改造AI播客生产，记录从raw到digest、QA、TTS、发布的耗时、成本和失败次数。②Peter Yang分享OpenAI DevEx工程师骑车时用手机远程让Codex修发布视频，说明任务入口正在移动化、异步化。③Nikunj Kothari把Claude Code当旅行主界面，回来让它做完整复盘，提示AI应从一次性工具升级成过程记录和复盘系统。④Zara Zhang、Madhu Guru、Guillermo Rauch、Aaron Levie等人的动态共同指向：AI builder的竞争焦点正在从模型单点能力转向任务闭环、上下文资产、安全边界和组织学习速度。</description>
