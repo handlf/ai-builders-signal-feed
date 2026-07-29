@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Tue, 28 Jul 2026 00:15:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 00:10:45 GMT</lastBuildDate>
+    <item>
+      <title>7月29日｜Codex生成｜别看token单价，要看每个任务多少钱</title>
+      <description>Codex补发版：今天上游X动态有29条新增、覆盖14位builder，播客源为7月17日已讲过的Granola旧内容，本集明确标注后不重复展开。①Swyx指出按输入/输出token计价已经不是关键指标，应该看每个任务多少钱；这直接适合用来改造AI播客生产，记录从raw到digest、QA、TTS、发布的耗时、成本和失败次数。②Peter Yang分享OpenAI DevEx工程师骑车时用手机远程让Codex修发布视频，说明任务入口正在移动化、异步化。③Nikunj Kothari把Claude Code当旅行主界面，回来让它做完整复盘，提示AI应从一次性工具升级成过程记录和复盘系统。④Zara Zhang、Madhu Guru、Guillermo Rauch、Aaron Levie等人的动态共同指向：AI builder的竞争焦点正在从模型单点能力转向任务闭环、上下文资产、安全边界和组织学习速度。</description>
+      <itunes:summary>Codex补发版：今天上游X动态有29条新增、覆盖14位builder，播客源为7月17日已讲过的Granola旧内容，本集明确标注后不重复展开。①Swyx指出按输入/输出token计价已经不是关键指标，应该看每个任务多少钱；这直接适合用来改造AI播客生产，记录从raw到digest、QA、TTS、发布的耗时、成本和失败次数。②Peter Yang分享OpenAI DevEx工程师骑车时用手机远程让Codex修发布视频，说明任务入口正在移动化、异步化。③Nikunj Kothari把Claude Code当旅行主界面，回来让它做完整复盘，提示AI应从一次性工具升级成过程记录和复盘系统。④Zara Zhang、Madhu Guru、Guillermo Rauch、Aaron Levie等人的动态共同指向：AI builder的竞争焦点正在从模型单点能力转向任务闭环、上下文资产、安全边界和组织学习速度。</itunes:summary>
+      <pubDate>Wed, 29 Jul 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-07-29-codex</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-07-29-codex/2026-07-29-codex.mp3" length="13574363" type="audio/mpeg"/>
+      <itunes:duration>14:08</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>7月28日｜Codex生成｜算力工厂与一句话Agent闭环</title>
       <description>Codex补发版：今天主线从“模型能力”收束到“生产系统”。①OpenAI Head of Industrial Compute Sachin Katti在The MAD Podcast里把智能还原成工业供应链：500亿美元算力计划、燃气轮机和变压器瓶颈、自研芯片Jalapeno、十万卡容错协议MRC，以及把token变成企业关键供应品的guaranteed capacity。②Sam Altman晒出一句prompt跑通旅行规划、协调网站、预定和Gmail通知，Thibault评价这值20小时人力；同一时间Peter Yang指出普通用户真正担心的是敢不敢授权Gmail、日历和Office。③Aaron Levie强调企业AI落地仍需要应用层，Guillermo Rauch演示用AI把Vercel CLI编译成1.28MB原生二进制，Zara Zhang提醒不要看token消耗，要看从需求到上线隔了多久。</description>
