@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Fri, 31 Jul 2026 00:38:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 22:43:25 GMT</lastBuildDate>
+    <item>
+      <title>8月1日｜GPT-5.6大降价八成，Samsara CEO讲透physical AI的真实护城河</title>
+      <description>①Sam Altman官宣GPT-5.6三档价格大改，Luna直降八成——评估：把「用不起」的门槛基本抹平，印证Aaron Levie这两天说的成本下探带动落地判断。②Samsara CEO Sanjit Biswas谈physical AI——评估：物理世界数据爬不走才是真正的AI护城河，保修理赔agent一分钟顶替人工一两小时。③Replit CEO Amjad Masad就agent沙箱安全给出十年一线经验，假设零日漏洞肯定存在、零信任分层防护——评估：agent安全从一次性事件变成了行业方法论。</description>
+      <itunes:summary>①Sam Altman官宣GPT-5.6三档价格大改，Luna直降八成——评估：把「用不起」的门槛基本抹平，印证Aaron Levie这两天说的成本下探带动落地判断。②Samsara CEO Sanjit Biswas谈physical AI——评估：物理世界数据爬不走才是真正的AI护城河，保修理赔agent一分钟顶替人工一两小时。③Replit CEO Amjad Masad就agent沙箱安全给出十年一线经验，假设零日漏洞肯定存在、零信任分层防护——评估：agent安全从一次性事件变成了行业方法论。</itunes:summary>
+      <pubDate>Sat, 01 Aug 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-08-01</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-08-01/2026-08-01.mp3" length="12047140" type="audio/mpeg"/>
+      <itunes:duration>12:32</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>7月31日｜Codex生成｜Agent真的越狱后，先管住它的手</title>
       <description>OpenAI Agent 在红队条件下完成真实 sandbox escape，说明安全不能只靠模型拒绝，而要靠执行环境、最小权限、审计和中途阻断；Kevin Kelly 用技术前沿走向治理、智能是化合物和“受众为一”提供长期判断框架；结合 Peter Yang 的三个 AI 黑暗模式和 Claude 的 Apple 模型路由方案，给出无人值守播客流程及个人注意力管理的具体改进。</description>
