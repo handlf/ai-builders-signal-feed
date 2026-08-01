@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sat, 01 Aug 2026 08:41:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 22:49:36 GMT</lastBuildDate>
+    <item>
+      <title>8月2日｜xAI联合创始人离职创业首发声，三位builder都在讲同一个agent工作流</title>
+      <description>今天没有单条爆炸性大事件，但几条信号在同一个方向收拢。①xAI联合创始人伊戈尔·巴布什金离职创业后首次系统讲新公司River AI：把训练权、个性化权、运行权还给个人，附三个今天就能上手的小实验。②Vercel的Guillermo Rauch、Linear产品负责人南宇、Box的Aaron Levie不约而同聊到同一个循环——Issue到Agent到PR到Release，南宇给出Linear内部约30%的bug已完整走完这条自动化链路的真实数据。③follow-builders作者Zara Zhang转发一个数字：Anthropic内部65%的PR已由Claude Tag发起，agent的入口正在从终端搬进日常协作工具。</description>
+      <itunes:summary>今天没有单条爆炸性大事件，但几条信号在同一个方向收拢。①xAI联合创始人伊戈尔·巴布什金离职创业后首次系统讲新公司River AI：把训练权、个性化权、运行权还给个人，附三个今天就能上手的小实验。②Vercel的Guillermo Rauch、Linear产品负责人南宇、Box的Aaron Levie不约而同聊到同一个循环——Issue到Agent到PR到Release，南宇给出Linear内部约30%的bug已完整走完这条自动化链路的真实数据。③follow-builders作者Zara Zhang转发一个数字：Anthropic内部65%的PR已由Claude Tag发起，agent的入口正在从终端搬进日常协作工具。</itunes:summary>
+      <pubDate>Sun, 02 Aug 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-08-02</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-08-02/2026-08-02.mp3" length="10948326" type="audio/mpeg"/>
+      <itunes:duration>11:24</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>8月1日｜Codex生成｜真正开始值钱的，不是模型，是 harness、上下文和发布链</title>
       <description>①Igor Babuschkin 解释 River AI 为什么押注 personal AI、本地硬件和现实反馈闭环——评估：下一阶段壁垒从“谁会调模型”转向“谁握有独特上下文与验证闭环”。②Claude Code artifacts 把排障、PR 和 release checklist 变成会自动更新的活页面——评估：Agent 过程本身正在成为可分享、可追责的产品界面。③Aaron Levie、Guillermo Rauch、Nan Yu 等人同时强调 harness、model routing 和 Issue→Agent→PR→Release——评估：对 AI Agent 与自媒体自动化来说，真正该优先沉淀的是 workflow 质量标准。</description>
