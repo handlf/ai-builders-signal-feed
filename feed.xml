@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Fri, 31 Jul 2026 22:43:25 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 08:41:50 GMT</lastBuildDate>
+    <item>
+      <title>8月1日｜Codex生成｜真正开始值钱的，不是模型，是 harness、上下文和发布链</title>
+      <description>①Igor Babuschkin 解释 River AI 为什么押注 personal AI、本地硬件和现实反馈闭环——评估：下一阶段壁垒从“谁会调模型”转向“谁握有独特上下文与验证闭环”。②Claude Code artifacts 把排障、PR 和 release checklist 变成会自动更新的活页面——评估：Agent 过程本身正在成为可分享、可追责的产品界面。③Aaron Levie、Guillermo Rauch、Nan Yu 等人同时强调 harness、model routing 和 Issue→Agent→PR→Release——评估：对 AI Agent 与自媒体自动化来说，真正该优先沉淀的是 workflow 质量标准。</description>
+      <itunes:summary>①Igor Babuschkin 解释 River AI 为什么押注 personal AI、本地硬件和现实反馈闭环——评估：下一阶段壁垒从“谁会调模型”转向“谁握有独特上下文与验证闭环”。②Claude Code artifacts 把排障、PR 和 release checklist 变成会自动更新的活页面——评估：Agent 过程本身正在成为可分享、可追责的产品界面。③Aaron Levie、Guillermo Rauch、Nan Yu 等人同时强调 harness、model routing 和 Issue→Agent→PR→Release——评估：对 AI Agent 与自媒体自动化来说，真正该优先沉淀的是 workflow 质量标准。</itunes:summary>
+      <pubDate>Sat, 01 Aug 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-08-01-codex</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-08-01-codex/2026-08-01-codex.mp3" length="12430827" type="audio/mpeg"/>
+      <itunes:duration>12:56</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>8月1日｜GPT-5.6大降价八成，Samsara CEO讲透physical AI的真实护城河</title>
       <description>①Sam Altman官宣GPT-5.6三档价格大改，Luna直降八成——评估：把「用不起」的门槛基本抹平，印证Aaron Levie这两天说的成本下探带动落地判断。②Samsara CEO Sanjit Biswas谈physical AI——评估：物理世界数据爬不走才是真正的AI护城河，保修理赔agent一分钟顶替人工一两小时。③Replit CEO Amjad Masad就agent沙箱安全给出十年一线经验，假设零日漏洞肯定存在、零信任分层防护——评估：agent安全从一次性事件变成了行业方法论。</description>
