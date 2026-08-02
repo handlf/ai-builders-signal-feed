@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sun, 02 Aug 2026 08:41:48 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 22:43:32 GMT</lastBuildDate>
+    <item>
+      <title>8月3日｜Anthropic自曝三次Claude安全事故：钓鱼邮件骗走AWS密钥、白名单形同虚设</title>
+      <description>①Anthropic工程团队罕见自曝三次Claude安全事故：项目配置抢跑信任确认、钓鱼邮件25次里24次骗走AWS密钥、看似安全的白名单域名被塞进攻击者自己的key偷传文件——结论是模型层拦不住恶意指令，真正管用的是网络出口控制这类硬边界。②Netic创始人梅丽莎·托克马克讲AI agent怎么在HVAC、水管、宠物护理这类必需服务行业自主接电话、判断需求、派工，目前已带来超过6亿美元实际营收。③卡帕西花10美元、让Opus 5跑两小时程序化渲染一整段《指环王》开篇，5500行代码搭出一个三维场景，顺带暴露大模型还没法像人一样「看」自己做出来的东西。</description>
+      <itunes:summary>①Anthropic工程团队罕见自曝三次Claude安全事故：项目配置抢跑信任确认、钓鱼邮件25次里24次骗走AWS密钥、看似安全的白名单域名被塞进攻击者自己的key偷传文件——结论是模型层拦不住恶意指令，真正管用的是网络出口控制这类硬边界。②Netic创始人梅丽莎·托克马克讲AI agent怎么在HVAC、水管、宠物护理这类必需服务行业自主接电话、判断需求、派工，目前已带来超过6亿美元实际营收。③卡帕西花10美元、让Opus 5跑两小时程序化渲染一整段《指环王》开篇，5500行代码搭出一个三维场景，顺带暴露大模型还没法像人一样「看」自己做出来的东西。</itunes:summary>
+      <pubDate>Mon, 03 Aug 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-08-03</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-08-03/2026-08-03.mp3" length="18106294" type="audio/mpeg"/>
+      <itunes:duration>18:51</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>8月2日｜Codex生成｜Agent开始接现实世界的电话，也开始必须先被关进笼子</title>
       <description>①No Priors访谈Netic创始人Melisa Tokmak：在HVAC、宠物服务、汽车等真实服务行业，超过70%的客户第一次接触公司时面对的已经是AI agent，说明agent正在从写代码扩到派工、调度和营收流程。②Anthropic工程博客把生产级agent的关键讲透：用户会对权限弹窗疲劳，真正能放进生产的前提是把模型、运行环境和外部内容入口分别关进边界里。③Nan Yu、Guillermo Rauch、Peter Steinberger等人的动态拼出一条更实用的落地链：issue预算、agentic CRM、邮箱插件、硬件调试，意味着真实工具接入正在快过单纯模型升级。</description>
