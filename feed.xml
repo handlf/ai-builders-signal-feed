@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Mon, 03 Aug 2026 22:42:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 15:40:16 GMT</lastBuildDate>
+    <item>
+      <title>8月5日｜Codex生成｜别先省模型钱，先证明这个任务值得做</title>
+      <description>①Training Data对话Chai Discovery：AI药物设计不是取消实验室，而是提高真实验证的回报率；受访者称CHAI-2早期实验命中约15%，但这不是临床疗效。②Meta的Madhu Guru给出两阶段方法：先用最强前沿模型验证用户体验，再用模型路由、harness、小模型和微调降低生产成本。③Aaron Levie与Zara Zhang补全落地逻辑：企业AI会长期多路线并存，而让团队看见Agent真实工作过程，比抽象培训更能推动采用。</description>
+      <itunes:summary>①Training Data对话Chai Discovery：AI药物设计不是取消实验室，而是提高真实验证的回报率；受访者称CHAI-2早期实验命中约15%，但这不是临床疗效。②Meta的Madhu Guru给出两阶段方法：先用最强前沿模型验证用户体验，再用模型路由、harness、小模型和微调降低生产成本。③Aaron Levie与Zara Zhang补全落地逻辑：企业AI会长期多路线并存，而让团队看见Agent真实工作过程，比抽象培训更能推动采用。</itunes:summary>
+      <pubDate>Wed, 05 Aug 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-08-05-codex</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-08-05-codex/2026-08-05-codex.mp3" length="13120459" type="audio/mpeg"/>
+      <itunes:duration>13:39</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>8月4日｜前OpenAI推理负责人+Gemini预训练负责人联手创业，要找transformer的替代品</title>
       <description>①前OpenAI推理团队负责人Jerry Tworek和前Gemini预训练负责人之一Rohan Anil创立新实验室Core Automation，判断transformer架构从根子上没法做持续学习，还晒出一个自己造出60倍加速、但Anthropic/OpenAI/Gemini前沿模型全部解不出来的内核优化案例。②Vercel CEO Guillermo Rauch公开了公司内部真在用、用量指数增长的公司级agent「v」，取代了原本各团队各自搭建的一堆孤立agent，成了统一的调度路由层。③Box CEO Aaron Levie提出反直觉判断：最先被自动化的反而是数学、代码这类看起来最难但答案可验证的领域，法务、销售这类没有唯一答案的工作会因为缺乏可验证性更晚被自动化。</description>
