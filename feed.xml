@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Wed, 05 Aug 2026 15:40:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 07:41:52 GMT</lastBuildDate>
+    <item>
+      <title>8月6日｜Codex生成｜别让用户学提示词，下一波 AI 产品要像同事一样出现</title>
+      <description>① AI &amp; I 的判断是，下一波真正爆款的 AI 产品会更像带社交传播和共同使用感的产品，而不是更强的单人聊天框。② Madhu Guru、Google Labs 和 Peter Yang 给出同一条产品线索：别逼用户先学 prompt、model、agent、memory 这些实验室词汇，先把任务做完。③ Aaron Levie、Swyx、Peter Steinberger 和 Guillermo Rauch 则把工程侧补齐了：企业扩散取决于工作流重构、控制面、线程编排、人工 reset 和真实环境执行，而不只是模型本身。</description>
+      <itunes:summary>① AI &amp; I 的判断是，下一波真正爆款的 AI 产品会更像带社交传播和共同使用感的产品，而不是更强的单人聊天框。② Madhu Guru、Google Labs 和 Peter Yang 给出同一条产品线索：别逼用户先学 prompt、model、agent、memory 这些实验室词汇，先把任务做完。③ Aaron Levie、Swyx、Peter Steinberger 和 Guillermo Rauch 则把工程侧补齐了：企业扩散取决于工作流重构、控制面、线程编排、人工 reset 和真实环境执行，而不只是模型本身。</itunes:summary>
+      <pubDate>Thu, 06 Aug 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-08-06-codex</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-08-06-codex/2026-08-06-codex.mp3" length="11908378" type="audio/mpeg"/>
+      <itunes:duration>12:24</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>8月5日｜Codex生成｜别先省模型钱，先证明这个任务值得做</title>
       <description>①Training Data对话Chai Discovery：AI药物设计不是取消实验室，而是提高真实验证的回报率；受访者称CHAI-2早期实验命中约15%，但这不是临床疗效。②Meta的Madhu Guru给出两阶段方法：先用最强前沿模型验证用户体验，再用模型路由、harness、小模型和微调降低生产成本。③Aaron Levie与Zara Zhang补全落地逻辑：企业AI会长期多路线并存，而让团队看见Agent真实工作过程，比抽象培训更能推动采用。</description>
