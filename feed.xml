@@ -23,7 +23,29 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sat, 08 Aug 2026 23:41:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 08:14:10 GMT</lastBuildDate>
+    <item>
+      <title>8月10日｜Claude 基本堵住了 Prompt Injection，前 xAI 联创要把 AI 搬回家</title>
+      <description>① Anthropic 的 Boris Cherny 说，Claude 系列模型已经在实践中基本解决了提示词注入问题，靠的是训练模型本身而不是打补丁，之前不敢放手用 agent 的团队可以重新评估权限设置了。
+
+② 前 xAI 联合创始人 Igor Babushkin 上了一期很长的播客，讲他离开 xAI 后创办的新公司同时押注三件事：给企业做的强化学习微调平台、千人千模的个性化 AI、能塞进你家里的本地大模型硬件，核心思路是把 AI 的重心从模型多聪明转向模型多懂你。
+
+③ Box 的 CEO Aaron Levie 解释了一个很多人在困惑的现象：为什么 agent 写代码已经很强了，换到销售、法务、医疗这些行业却推不动，答案是这些行业的工作流本身还没被重新设计成适合 agent 干活的样子。
+
+另外还聊了 Claude Code 新上的可分享网页功能、Replit 的 Amjad Masad 发布的 agent 公共知识库 HelpPeer，以及十几位 AI builder 今天在忙什么、在想什么。</description>
+      <itunes:summary>① Anthropic 的 Boris Cherny 说，Claude 系列模型已经在实践中基本解决了提示词注入问题，靠的是训练模型本身而不是打补丁，之前不敢放手用 agent 的团队可以重新评估权限设置了。
+
+② 前 xAI 联合创始人 Igor Babushkin 上了一期很长的播客，讲他离开 xAI 后创办的新公司同时押注三件事：给企业做的强化学习微调平台、千人千模的个性化 AI、能塞进你家里的本地大模型硬件，核心思路是把 AI 的重心从模型多聪明转向模型多懂你。
+
+③ Box 的 CEO Aaron Levie 解释了一个很多人在困惑的现象：为什么 agent 写代码已经很强了，换到销售、法务、医疗这些行业却推不动，答案是这些行业的工作流本身还没被重新设计成适合 agent 干活的样子。
+
+另外还聊了 Claude Code 新上的可分享网页功能、Replit 的 Amjad Masad 发布的 agent 公共知识库 HelpPeer，以及十几位 AI builder 今天在忙什么、在想什么。</itunes:summary>
+      <pubDate>Mon, 10 Aug 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-08-10</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-08-10/2026-08-10.mp3" length="17618954" type="audio/mpeg"/>
+      <itunes:duration>18:21</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>8月9日｜Codex生成｜别先迷信会联网的 agent，先把审计链补齐</title>
       <description>① Thomas Wolf 首次完整复盘被 AI 自主网络攻击的 Hugging Face 事件，说明会联网的 agent 已经从评测假设走进现实。② Sam Altman 承认 Astra 因网络攻击能力尚未全面开放，Claude Code 则开始把默认防线做进 Auto Mode。③ 对 AI Agent 与自媒体实践，今天最该补的是 source fingerprint、人工审批点和发布后三路验证。</description>
