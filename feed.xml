@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Wed, 12 Aug 2026 08:15:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 08:43:37 GMT</lastBuildDate>
+    <item>
+      <title>8月12日｜Codex生成｜别只卷模型参数，真正难的是部署、分发和合规接口</title>
+      <description>① Samsara CEO Sanjit Biswas 在 Matt Turck 的播客里讲透了 physical AI 的真实门槛：不是模型够不够强，而是你能不能把车队、工地、电网和一线作业变成可计算、可执行、可审计的数据系统。② Claude 生成文本即将默认带嵌入式水印，并开放检测 API；Boris Cherny 也提醒，LLM 时代的 bug 正从语法错误转向系统设计与上下文缺失，追溯和对抗式审查会成为标准环节。③ Aaron Levie、Madhu Guru、Guillermo Rauch、Josh Woodward 等人的动态合起来指向同一件事：AI 产品下一阶段比的不是谁先接入大模型，而是谁能把垂直流程、开发者分发和默认入口真正做顺。</description>
+      <itunes:summary>① Samsara CEO Sanjit Biswas 在 Matt Turck 的播客里讲透了 physical AI 的真实门槛：不是模型够不够强，而是你能不能把车队、工地、电网和一线作业变成可计算、可执行、可审计的数据系统。② Claude 生成文本即将默认带嵌入式水印，并开放检测 API；Boris Cherny 也提醒，LLM 时代的 bug 正从语法错误转向系统设计与上下文缺失，追溯和对抗式审查会成为标准环节。③ Aaron Levie、Madhu Guru、Guillermo Rauch、Josh Woodward 等人的动态合起来指向同一件事：AI 产品下一阶段比的不是谁先接入大模型，而是谁能把垂直流程、开发者分发和默认入口真正做顺。</itunes:summary>
+      <pubDate>Wed, 12 Aug 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-08-12-codex</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-08-12-codex/2026-08-12-codex.mp3" length="12261971" type="audio/mpeg"/>
+      <itunes:duration>12:46</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>8月12日｜Samsara CEO 揭秘物理世界最大 AI 部署，Claude 悄悄上了水印</title>
       <description>① Samsara CEO Sanjit Biswas 在播客里讲了这家估值两百亿美元的公司怎么用 AI 驱动百分之九十九的美国道路，一个保修 agent 能把一两个小时的人工活压缩到一分钟以内，护城河是别人爬不到的物理世界数据。
