@@ -23,7 +23,29 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Tue, 11 Aug 2026 16:10:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 08:15:05 GMT</lastBuildDate>
+    <item>
+      <title>8月12日｜Samsara CEO 揭秘物理世界最大 AI 部署，Claude 悄悄上了水印</title>
+      <description>① Samsara CEO Sanjit Biswas 在播客里讲了这家估值两百亿美元的公司怎么用 AI 驱动百分之九十九的美国道路，一个保修 agent 能把一两个小时的人工活压缩到一分钟以内，护城河是别人爬不到的物理世界数据。
+
+② Anthropic 官宣所有 Claude 生成内容都会带上嵌入式水印，配套开放文本检测 API，对接欧盟 AI 法案的合规要求；Claude Code 的 Boris Cherny 也提醒，LLM 写代码的 bug 已经从低级语法错误升级成系统设计问题，对抗式代码审查是现阶段最有效的解法。
+
+③ Box CEO Aaron Levie 深入聊了前向部署工程师为什么是长期刚需而不是过渡岗位，Meta 的 Madhu Guru 则认为开源权重模型在无聊但具体的垂直行业里藏着大机会。
+
+另外还有 Codex 桌面端登陆 Linux、Gemini 用户破亿、Vercel 的 AI SDK 下载量数据，以及十几位 AI builder 今天在忙什么、在想什么。</description>
+      <itunes:summary>① Samsara CEO Sanjit Biswas 在播客里讲了这家估值两百亿美元的公司怎么用 AI 驱动百分之九十九的美国道路，一个保修 agent 能把一两个小时的人工活压缩到一分钟以内，护城河是别人爬不到的物理世界数据。
+
+② Anthropic 官宣所有 Claude 生成内容都会带上嵌入式水印，配套开放文本检测 API，对接欧盟 AI 法案的合规要求；Claude Code 的 Boris Cherny 也提醒，LLM 写代码的 bug 已经从低级语法错误升级成系统设计问题，对抗式代码审查是现阶段最有效的解法。
+
+③ Box CEO Aaron Levie 深入聊了前向部署工程师为什么是长期刚需而不是过渡岗位，Meta 的 Madhu Guru 则认为开源权重模型在无聊但具体的垂直行业里藏着大机会。
+
+另外还有 Codex 桌面端登陆 Linux、Gemini 用户破亿、Vercel 的 AI SDK 下载量数据，以及十几位 AI builder 今天在忙什么、在想什么。</itunes:summary>
+      <pubDate>Wed, 12 Aug 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-08-12</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-08-12/2026-08-12.mp3" length="12058007" type="audio/mpeg"/>
+      <itunes:duration>12:33</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>8月11日｜Codex生成｜Agent 安全不能只靠模型，先把爆炸半径锁住</title>
       <description>① Anthropic 公开 Claude 三类产品的 containment 设计与三次真实事故，说明模型拒绝只是概率防御，文件、网络和凭证边界才负责锁住最坏结果。② Linear 的生产 agent 方法强调先画真实工作流、给工具而不是塞上下文、先用最强模型跑通，再把真实失败变成评测。③ Netic 在暖通、水管等传统服务业证明，垂直 agent 的护城河是运营决策、长尾例外和可验证结果。对 AI Agent 与自媒体实践，今天最该补的是权限表、变体独立记账和发布后三路核验。</description>
