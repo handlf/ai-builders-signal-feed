@@ -23,7 +23,29 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Wed, 12 Aug 2026 08:43:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 08:17:04 GMT</lastBuildDate>
+    <item>
+      <title>8月13日｜微软CTO谈Agentic Web，Claude Code质量翻车全解剖</title>
+      <description>① 微软 CTO Kevin Scott 上播客聊 agentic web，说 MCP 之于智能体就像 HTTP 之于互联网，还聊了 agent 记忆缺口、安全模型和写代码的手艺感。
+
+② Anthropic 罕见发文自曝家丑，拆解过去一个月 Claude Code 变笨变健忘的三个真实原因——一个缓存优化 bug 让模型持续丢失自己的思考记录，已修复并给全体订阅用户重置了用量额度。
+
+③ Anthropic 同时把 Managed Agents 架构重做成大脑、手、session 三分离，新增自托管沙箱和私有 MCP 连接；Box CEO Aaron Levie 从 DeepSeek、Grok 新模型的性价比跃迁里读出 Jevons 悖论，YC 总裁 Garry Tan 的个人 AI 项目 GBrain 也更新了。
+
+另外还有 Gemini 一口气接入十几个热门 App、Claude 会话跨设备同步、以及十几位 AI builder 今天在忙什么、在想什么。</description>
+      <itunes:summary>① 微软 CTO Kevin Scott 上播客聊 agentic web，说 MCP 之于智能体就像 HTTP 之于互联网，还聊了 agent 记忆缺口、安全模型和写代码的手艺感。
+
+② Anthropic 罕见发文自曝家丑，拆解过去一个月 Claude Code 变笨变健忘的三个真实原因——一个缓存优化 bug 让模型持续丢失自己的思考记录，已修复并给全体订阅用户重置了用量额度。
+
+③ Anthropic 同时把 Managed Agents 架构重做成大脑、手、session 三分离，新增自托管沙箱和私有 MCP 连接；Box CEO Aaron Levie 从 DeepSeek、Grok 新模型的性价比跃迁里读出 Jevons 悖论，YC 总裁 Garry Tan 的个人 AI 项目 GBrain 也更新了。
+
+另外还有 Gemini 一口气接入十几个热门 App、Claude 会话跨设备同步、以及十几位 AI builder 今天在忙什么、在想什么。</itunes:summary>
+      <pubDate>Thu, 13 Aug 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-08-13</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-08-13/2026-08-13.mp3" length="20436835" type="audio/mpeg"/>
+      <itunes:duration>21:17</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>8月12日｜Codex生成｜别只卷模型参数，真正难的是部署、分发和合规接口</title>
       <description>① Samsara CEO Sanjit Biswas 在 Matt Turck 的播客里讲透了 physical AI 的真实门槛：不是模型够不够强，而是你能不能把车队、工地、电网和一线作业变成可计算、可执行、可审计的数据系统。② Claude 生成文本即将默认带嵌入式水印，并开放检测 API；Boris Cherny 也提醒，LLM 时代的 bug 正从语法错误转向系统设计与上下文缺失，追溯和对抗式审查会成为标准环节。③ Aaron Levie、Madhu Guru、Guillermo Rauch、Josh Woodward 等人的动态合起来指向同一件事：AI 产品下一阶段比的不是谁先接入大模型，而是谁能把垂直流程、开发者分发和默认入口真正做顺。</description>
