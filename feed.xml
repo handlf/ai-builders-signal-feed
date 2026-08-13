@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Thu, 13 Aug 2026 08:17:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 08:39:19 GMT</lastBuildDate>
+    <item>
+      <title>8月13日｜Codex生成｜别急着做 agentic web，先把身份、记忆和权限链补齐</title>
+      <description>① 微软 CTO Kevin Scott 在播客里把 MCP 比作智能体时代的 HTTP，但他真正点破的是另一个问题：模型能力已经跑到产品使用能力前面，agent 要想真正接管任务，必须先补身份、记忆和权限体系。② Anthropic 罕见连发三篇内容，把 Claude Code 最近为什么会变笨变健忘、Managed Agents 为什么必须拆成 session、大脑和手，以及为什么企业要把沙箱和凭证留在自己边界里，一次讲透。③ Aaron Levie、Madhu Guru、Josh Woodward、Guillermo Rauch 这些应用层信号合起来说明，下一阶段比的不是谁先接模型，而是谁能把工作流、路由、入口和审计链真正跑顺。</description>
+      <itunes:summary>① 微软 CTO Kevin Scott 在播客里把 MCP 比作智能体时代的 HTTP，但他真正点破的是另一个问题：模型能力已经跑到产品使用能力前面，agent 要想真正接管任务，必须先补身份、记忆和权限体系。② Anthropic 罕见连发三篇内容，把 Claude Code 最近为什么会变笨变健忘、Managed Agents 为什么必须拆成 session、大脑和手，以及为什么企业要把沙箱和凭证留在自己边界里，一次讲透。③ Aaron Levie、Madhu Guru、Josh Woodward、Guillermo Rauch 这些应用层信号合起来说明，下一阶段比的不是谁先接模型，而是谁能把工作流、路由、入口和审计链真正跑顺。</itunes:summary>
+      <pubDate>Thu, 13 Aug 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-08-13-codex</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-08-13-codex/2026-08-13-codex.mp3" length="12288721" type="audio/mpeg"/>
+      <itunes:duration>12:47</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>8月13日｜微软CTO谈Agentic Web，Claude Code质量翻车全解剖</title>
       <description>① 微软 CTO Kevin Scott 上播客聊 agentic web，说 MCP 之于智能体就像 HTTP 之于互联网，还聊了 agent 记忆缺口、安全模型和写代码的手艺感。
