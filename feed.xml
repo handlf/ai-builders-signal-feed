@@ -23,7 +23,25 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Thu, 13 Aug 2026 08:39:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 10:13:37 GMT</lastBuildDate>
+    <item>
+      <title>8月14日｜Claude自动维护388个PR，Chess.com CEO讲透"超人类AI"时代</title>
+      <description>① Chess.com CEO Erik Allebest 上 No Priors 播客，讲AI三十年前就在棋类领域碾压人类，但人类反而比任何时候都更爱下棋——AI教练把学习效率拉满，但人和人较量这件事没被替代，内部还聊了作弊攻防和agentic development怎么落地。
+
+② Anthropic 的 Boris Cherny 分享让 Claude 在 Slack 里自动维护公司全平台App，三周开出388个PR，人工合并180个，具体到崩溃模糊测试、死代码清理这类日常琐事怎么交给agent长期跑。
+
+③ Box CEO Aaron Levie、独立builder Zara Zhang、VC Matt Turck 三人从企业需求、招聘市场、创投格局三个角度不约而同得出同一个结论：工程师没被AI淘汰，反而更值钱了；另外还有 Replit CEO Amjad Masad 关于编程能力驱动泛化推理的判断、Vercel CEO Guillermo Rauch 预测统一token配置层、以及"prompt debt"这个值得记住的新概念。</description>
+      <itunes:summary>① Chess.com CEO Erik Allebest 上 No Priors 播客，讲AI三十年前就在棋类领域碾压人类，但人类反而比任何时候都更爱下棋——AI教练把学习效率拉满，但人和人较量这件事没被替代，内部还聊了作弊攻防和agentic development怎么落地。
+
+② Anthropic 的 Boris Cherny 分享让 Claude 在 Slack 里自动维护公司全平台App，三周开出388个PR，人工合并180个，具体到崩溃模糊测试、死代码清理这类日常琐事怎么交给agent长期跑。
+
+③ Box CEO Aaron Levie、独立builder Zara Zhang、VC Matt Turck 三人从企业需求、招聘市场、创投格局三个角度不约而同得出同一个结论：工程师没被AI淘汰，反而更值钱了；另外还有 Replit CEO Amjad Masad 关于编程能力驱动泛化推理的判断、Vercel CEO Guillermo Rauch 预测统一token配置层、以及"prompt debt"这个值得记住的新概念。</itunes:summary>
+      <pubDate>Fri, 14 Aug 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-08-14</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-08-14/2026-08-14.mp3" length="19215140" type="audio/mpeg"/>
+      <itunes:duration>20:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>8月13日｜Codex生成｜别急着做 agentic web，先把身份、记忆和权限链补齐</title>
       <description>① 微软 CTO Kevin Scott 在播客里把 MCP 比作智能体时代的 HTTP，但他真正点破的是另一个问题：模型能力已经跑到产品使用能力前面，agent 要想真正接管任务，必须先补身份、记忆和权限体系。② Anthropic 罕见连发三篇内容，把 Claude Code 最近为什么会变笨变健忘、Managed Agents 为什么必须拆成 session、大脑和手，以及为什么企业要把沙箱和凭证留在自己边界里，一次讲透。③ Aaron Levie、Madhu Guru、Josh Woodward、Guillermo Rauch 这些应用层信号合起来说明，下一阶段比的不是谁先接模型，而是谁能把工作流、路由、入口和审计链真正跑顺。</description>
