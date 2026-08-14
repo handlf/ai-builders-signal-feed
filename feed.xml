@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Fri, 14 Aug 2026 10:13:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 10:15:05 GMT</lastBuildDate>
+    <item>
+      <title>8月14日｜Codex生成｜工程师不会消失，先把维护自动化和提示词减债做起来</title>
+      <description>① Anthropic 的 Boris Cherny 披露，Claude 已经在日常维护环节跨多端跑 crash fuzz、重复抽象合并、死代码清理等 routine，几周内开出 388 个 PR、合并 180 个，这说明最先被 agent 大规模吃掉的不是战略决策，而是持续维护与工程卫生。② Aaron Levie 反驳“工程师会被消灭”，Madhu Guru 提醒 prompt debt 已经变成新技术债，再加上 Josh Woodward 说模型三周内做到更快且便宜一半，结论是专家不会贬值，真正该优化的是提示词减债、模型路由和 review 机制。③ Guillermo Rauch、Thibault Sottiaux、Peter Yang 这些信号拼起来看，统一控制面、能直接操作文档和表格的 agent 工作流、以及同时写给人和 agent 的规格文本，正在变成下一阶段的默认能力。</description>
+      <itunes:summary>① Anthropic 的 Boris Cherny 披露，Claude 已经在日常维护环节跨多端跑 crash fuzz、重复抽象合并、死代码清理等 routine，几周内开出 388 个 PR、合并 180 个，这说明最先被 agent 大规模吃掉的不是战略决策，而是持续维护与工程卫生。② Aaron Levie 反驳“工程师会被消灭”，Madhu Guru 提醒 prompt debt 已经变成新技术债，再加上 Josh Woodward 说模型三周内做到更快且便宜一半，结论是专家不会贬值，真正该优化的是提示词减债、模型路由和 review 机制。③ Guillermo Rauch、Thibault Sottiaux、Peter Yang 这些信号拼起来看，统一控制面、能直接操作文档和表格的 agent 工作流、以及同时写给人和 agent 的规格文本，正在变成下一阶段的默认能力。</itunes:summary>
+      <pubDate>Fri, 14 Aug 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-08-14-codex</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-08-14-codex/2026-08-14-codex.mp3" length="13492443" type="audio/mpeg"/>
+      <itunes:duration>14:03</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>8月14日｜Claude自动维护388个PR，Chess.com CEO讲透"超人类AI"时代</title>
       <description>① Chess.com CEO Erik Allebest 上 No Priors 播客，讲AI三十年前就在棋类领域碾压人类，但人类反而比任何时候都更爱下棋——AI教练把学习效率拉满，但人和人较量这件事没被替代，内部还聊了作弊攻防和agentic development怎么落地。
