@@ -23,7 +23,25 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Fri, 14 Aug 2026 10:15:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 08:13:10 GMT</lastBuildDate>
+    <item>
+      <title>8月15日｜Basis联合创始人讲透长时程agent方法论，Aaron Levie复盘Cursor打法</title>
+      <description>① Basis 联合创始人 Mitch Troyanovsky 上 MAD Podcast，系统讲了他们怎么让 agent 自主完成整份税务申报——为什么只看结果的评测会骗人、"behavior spec"行为规范怎么写、judge 怎么造，一份少见的长时程 agent 工程笔记。
+
+② Box CEO Aaron Levie 复盘 Cursor 的退出，判断应用层 AI 的市场规模被严重低估，总结出一套"中立层+针对性post-training+匹配基础设施+强GTM"的打法。
+
+③ 前 Google Gemini 负责人、现 Meta AI 高级总监 Madhu Guru 用蒸汽机、编程语言、电子表格三个历史案例论证：成本下降会释放一整批新用例，AI+软件工程会重演同一个模式；另外 OpenClaw 团队的 Peter Steinberger 分享了两条实用的 agent 协作细节。</description>
+      <itunes:summary>① Basis 联合创始人 Mitch Troyanovsky 上 MAD Podcast，系统讲了他们怎么让 agent 自主完成整份税务申报——为什么只看结果的评测会骗人、"behavior spec"行为规范怎么写、judge 怎么造，一份少见的长时程 agent 工程笔记。
+
+② Box CEO Aaron Levie 复盘 Cursor 的退出，判断应用层 AI 的市场规模被严重低估，总结出一套"中立层+针对性post-training+匹配基础设施+强GTM"的打法。
+
+③ 前 Google Gemini 负责人、现 Meta AI 高级总监 Madhu Guru 用蒸汽机、编程语言、电子表格三个历史案例论证：成本下降会释放一整批新用例，AI+软件工程会重演同一个模式；另外 OpenClaw 团队的 Peter Steinberger 分享了两条实用的 agent 协作细节。</itunes:summary>
+      <pubDate>Sat, 15 Aug 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-08-15</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-08-15/2026-08-15.mp3" length="14195032" type="audio/mpeg"/>
+      <itunes:duration>14:47</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>8月14日｜Codex生成｜工程师不会消失，先把维护自动化和提示词减债做起来</title>
       <description>① Anthropic 的 Boris Cherny 披露，Claude 已经在日常维护环节跨多端跑 crash fuzz、重复抽象合并、死代码清理等 routine，几周内开出 388 个 PR、合并 180 个，这说明最先被 agent 大规模吃掉的不是战略决策，而是持续维护与工程卫生。② Aaron Levie 反驳“工程师会被消灭”，Madhu Guru 提醒 prompt debt 已经变成新技术债，再加上 Josh Woodward 说模型三周内做到更快且便宜一半，结论是专家不会贬值，真正该优化的是提示词减债、模型路由和 review 机制。③ Guillermo Rauch、Thibault Sottiaux、Peter Yang 这些信号拼起来看，统一控制面、能直接操作文档和表格的 agent 工作流、以及同时写给人和 agent 的规格文本，正在变成下一阶段的默认能力。</description>
