@@ -23,7 +23,25 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sat, 15 Aug 2026 08:13:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 08:41:55 GMT</lastBuildDate>
+    <item>
+      <title>8月15日｜Codex生成｜先别追求万能 agent，先把行为规范、分发入口和内容筛选做硬</title>
+      <description>① Basis 联合创始人 Mitch Troyanovsky 讲透长时程 agent 的真实难点：不是结果偶尔做对，而是过程能不能被约束、被观察、被持续纠偏；behavior spec 和 judge 这套方法，值得所有 agent 团队直接借鉴。
+
+② Aaron Levie 复盘 Cursor 的应用层 AI 打法，Madhu Guru 用成本下降释放新用例的逻辑补上解释，两条线合起来说明：真正的机会不只在模型，而在入口、分发、工作流基础设施和执行力。
+
+③ Peter Yang 拆 X 的 anti-slop 算法、Peter Steinberger 强调共享规则和会话可回看，给内容和 agent 都敲了一次警钟：模板化输出越来越不值钱，真正该补的是证据位、轨迹和可核验链路。</description>
+      <itunes:summary>① Basis 联合创始人 Mitch Troyanovsky 讲透长时程 agent 的真实难点：不是结果偶尔做对，而是过程能不能被约束、被观察、被持续纠偏；behavior spec 和 judge 这套方法，值得所有 agent 团队直接借鉴。
+
+② Aaron Levie 复盘 Cursor 的应用层 AI 打法，Madhu Guru 用成本下降释放新用例的逻辑补上解释，两条线合起来说明：真正的机会不只在模型，而在入口、分发、工作流基础设施和执行力。
+
+③ Peter Yang 拆 X 的 anti-slop 算法、Peter Steinberger 强调共享规则和会话可回看，给内容和 agent 都敲了一次警钟：模板化输出越来越不值钱，真正该补的是证据位、轨迹和可核验链路。</itunes:summary>
+      <pubDate>Sat, 15 Aug 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-08-15-codex</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-08-15-codex/2026-08-15-codex.mp3" length="11034425" type="audio/mpeg"/>
+      <itunes:duration>11:29</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>8月15日｜Basis联合创始人讲透长时程agent方法论，Aaron Levie复盘Cursor打法</title>
       <description>① Basis 联合创始人 Mitch Troyanovsky 上 MAD Podcast，系统讲了他们怎么让 agent 自主完成整份税务申报——为什么只看结果的评测会骗人、"behavior spec"行为规范怎么写、judge 怎么造，一份少见的长时程 agent 工程笔记。
