@@ -23,7 +23,25 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sat, 15 Aug 2026 08:41:55 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 08:12:33 GMT</lastBuildDate>
+    <item>
+      <title>8月16日｜Benchmark合伙人Sarah谈下一个AI爆款会是社交的，OpenAI拆解token定价猫腻</title>
+      <description>① Benchmark 合伙人 Sarah（前 Pinterest）在 Every 的播客 AI and I 上提出：消费科技的每一波浪潮，创始人画像都会从深度技术型滑向产品天才型，AI 目前还偏技术驱动早期，下一个真正的消费级爆款会是社交的——她还聊了怎么判断网络效应真假、以及自己作为 VC 用 AI 复盘决策的方法。
+
+② OpenAI 的 Thibault Sottiaux 用披萨类比拆穿每 token 价格这个指标的猫腻：不同模型的分词器切出的 token 数量不一样，真正该比的是每次成功完成任务的价格。
+
+③ Vercel CEO Guillermo Rauch 提出 React 真正的杀手级应用其实是 shadcn，代码摊开给你改写才是 AI 时代开发者工具该有的样子；另外 Replit CEO Amjad Masad、FPV Ventures 的 Nikunj Kothari 等十位 builder 也带来了各自的观察。</description>
+      <itunes:summary>① Benchmark 合伙人 Sarah（前 Pinterest）在 Every 的播客 AI and I 上提出：消费科技的每一波浪潮，创始人画像都会从深度技术型滑向产品天才型，AI 目前还偏技术驱动早期，下一个真正的消费级爆款会是社交的——她还聊了怎么判断网络效应真假、以及自己作为 VC 用 AI 复盘决策的方法。
+
+② OpenAI 的 Thibault Sottiaux 用披萨类比拆穿每 token 价格这个指标的猫腻：不同模型的分词器切出的 token 数量不一样，真正该比的是每次成功完成任务的价格。
+
+③ Vercel CEO Guillermo Rauch 提出 React 真正的杀手级应用其实是 shadcn，代码摊开给你改写才是 AI 时代开发者工具该有的样子；另外 Replit CEO Amjad Masad、FPV Ventures 的 Nikunj Kothari 等十位 builder 也带来了各自的观察。</itunes:summary>
+      <pubDate>Sun, 16 Aug 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-08-16</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-08-16/2026-08-16.mp3" length="13288479" type="audio/mpeg"/>
+      <itunes:duration>13:50</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>8月15日｜Codex生成｜先别追求万能 agent，先把行为规范、分发入口和内容筛选做硬</title>
       <description>① Basis 联合创始人 Mitch Troyanovsky 讲透长时程 agent 的真实难点：不是结果偶尔做对，而是过程能不能被约束、被观察、被持续纠偏；behavior spec 和 judge 这套方法，值得所有 agent 团队直接借鉴。
