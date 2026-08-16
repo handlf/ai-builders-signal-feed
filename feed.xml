@@ -23,7 +23,25 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sun, 16 Aug 2026 08:12:33 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 08:42:52 GMT</lastBuildDate>
+    <item>
+      <title>8月16日｜Codex生成｜别再只卷模型，把 AI 做成可分享、可计价、可信任的工作流</title>
+      <description>① Benchmark 合伙人 Sarah 判断，下一个真正的 AI 消费级爆款更可能是“社交的工作流”而不是更强的单人聊天框，关键不只在模型，而在高手用法能不能被别人看见、跟用和信任。
+
+② OpenAI 的 Thibault Sottiaux 拆穿“每 token 价格”这个常用指标的误导性：不同 tokenizer 切法不同，真正该比的是一次真实任务的总成本、成功率和返工量。
+
+③ Vercel CEO Guillermo Rauch、Peter Yang 和 Madhu Guru 共同指向同一件事：AI 时代真正拉开差距的，不是黑盒封装，而是可改写的组件、打通的入口，以及能被人和 AI 一起复用的开放模板。</description>
+      <itunes:summary>① Benchmark 合伙人 Sarah 判断，下一个真正的 AI 消费级爆款更可能是“社交的工作流”而不是更强的单人聊天框，关键不只在模型，而在高手用法能不能被别人看见、跟用和信任。
+
+② OpenAI 的 Thibault Sottiaux 拆穿“每 token 价格”这个常用指标的误导性：不同 tokenizer 切法不同，真正该比的是一次真实任务的总成本、成功率和返工量。
+
+③ Vercel CEO Guillermo Rauch、Peter Yang 和 Madhu Guru 共同指向同一件事：AI 时代真正拉开差距的，不是黑盒封装，而是可改写的组件、打通的入口，以及能被人和 AI 一起复用的开放模板。</itunes:summary>
+      <pubDate>Sun, 16 Aug 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-08-16-codex</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-08-16-codex/2026-08-16-codex.mp3" length="10022546" type="audio/mpeg"/>
+      <itunes:duration>10:26</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>8月16日｜Benchmark合伙人Sarah谈下一个AI爆款会是社交的，OpenAI拆解token定价猫腻</title>
       <description>① Benchmark 合伙人 Sarah（前 Pinterest）在 Every 的播客 AI and I 上提出：消费科技的每一波浪潮，创始人画像都会从深度技术型滑向产品天才型，AI 目前还偏技术驱动早期，下一个真正的消费级爆款会是社交的——她还聊了怎么判断网络效应真假、以及自己作为 VC 用 AI 复盘决策的方法。
