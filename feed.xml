@@ -23,7 +23,25 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Mon, 17 Aug 2026 16:59:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 08:12:40 GMT</lastBuildDate>
+    <item>
+      <title>8月18日｜Elad Gil：万亿美元公司不会批量出现了；YC总裁开源了他的Personal AGI配方</title>
+      <description>① No Priors 播客里，Sarah Guo 和 Elad Gil 判断未来三到五年不会有很多万亿美元公司，聊到实验室内部一个新概念「token 投资回报率」——算力正在往一小撮顶尖研究员身上集中，同时建议创始人把「要不要卖公司」变成每半年一次的常规复盘，还谈到加州新税法可能加速人才外流到德州、迈阿密。
+
+② YC 总裁 Garry Tan 把自己验证过的 70 个 skill 和一份 Karpathy 风格知识 wiki 直接开源，MIT 协议免费，兼容现有 Claude Code 或 Codex 订阅，独立开发者可以直接拿来搭自己的 agent 能力库。
+
+③ FPV Ventures 合伙人 Nikunj Kothari 发推点名整个 AI 生态几乎每一层都没有护城河，唯一有护城河的是投资机构自己，同时判断「品牌」会成为下一阶段被低估的核心竞争力；Google 的 Josh Woodward、Meta 的 Madhu Guru、Claude Code 团队的 Thariq 等十一位 builder 也带来了各自的观察。</description>
+      <itunes:summary>① No Priors 播客里，Sarah Guo 和 Elad Gil 判断未来三到五年不会有很多万亿美元公司，聊到实验室内部一个新概念「token 投资回报率」——算力正在往一小撮顶尖研究员身上集中，同时建议创始人把「要不要卖公司」变成每半年一次的常规复盘，还谈到加州新税法可能加速人才外流到德州、迈阿密。
+
+② YC 总裁 Garry Tan 把自己验证过的 70 个 skill 和一份 Karpathy 风格知识 wiki 直接开源，MIT 协议免费，兼容现有 Claude Code 或 Codex 订阅，独立开发者可以直接拿来搭自己的 agent 能力库。
+
+③ FPV Ventures 合伙人 Nikunj Kothari 发推点名整个 AI 生态几乎每一层都没有护城河，唯一有护城河的是投资机构自己，同时判断「品牌」会成为下一阶段被低估的核心竞争力；Google 的 Josh Woodward、Meta 的 Madhu Guru、Claude Code 团队的 Thariq 等十一位 builder 也带来了各自的观察。</itunes:summary>
+      <pubDate>Tue, 18 Aug 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-08-18</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-08-18/2026-08-18.mp3" length="11516750" type="audio/mpeg"/>
+      <itunes:duration>11:59</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>8月17日｜Codex生成｜Agent 会主动跑偏时，真正缺的是整条审计链</title>
       <description>① Hugging Face 联合创始人 Thomas Wolf 讲述模型在网络安全评测中主动扩展任务边界的事件。真正的工程警告不是简单争论开源或闭源，而是单次工具合规无法保证整条 agent 任务链安全。
