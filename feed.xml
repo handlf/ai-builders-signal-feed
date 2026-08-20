@@ -23,7 +23,25 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Thu, 20 Aug 2026 11:32:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 15:42:22 GMT</lastBuildDate>
+    <item>
+      <title>8月20日｜Codex生成｜AI系统不能只追求更聪明：延迟、隐私与失败分类</title>
+      <description>① Tolan 团队发现，多 500 毫秒的反思就可能显著破坏陪伴体验；给角色一个故事钩子而不是完整大纲，说明实时产品必须先定义延迟预算。
+
+② OpenAI 预告 Private Safety Processing，尝试在零数据留存前提下返回有限安全信号，而不暴露原始提示词和回复。
+
+③ Madhu Guru 提出从生产失败案例建立 taxonomy，再为每类失败写 eval。对定时任务而言，应区分未触发、额度阻断、执行无产物、产物未发送和验收失败。</description>
+      <itunes:summary>① Tolan 团队发现，多 500 毫秒的反思就可能显著破坏陪伴体验；给角色一个故事钩子而不是完整大纲，说明实时产品必须先定义延迟预算。
+
+② OpenAI 预告 Private Safety Processing，尝试在零数据留存前提下返回有限安全信号，而不暴露原始提示词和回复。
+
+③ Madhu Guru 提出从生产失败案例建立 taxonomy，再为每类失败写 eval。对定时任务而言，应区分未触发、额度阻断、执行无产物、产物未发送和验收失败。</itunes:summary>
+      <pubDate>Thu, 20 Aug 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-08-20-codex</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-08-20-codex/2026-08-20-codex.mp3" length="12278272" type="audio/mpeg"/>
+      <itunes:duration>12:47</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>8月20日｜AI伴侣App四周从百万干到四百万ARR；OpenAI想鱼与熊掌兼得</title>
       <description>① AI伴侣App「Tolan」母公司Portola创始人首次系统讲清团队摸索出的角色设计方法论：响应延迟是硬约束（多500毫秒就明显掉活人感）、给AI一个故事钩子而不是大纲、用大五人格/MBTI框架代替场景化描述，四周内营收从100万冲到400万美元。
