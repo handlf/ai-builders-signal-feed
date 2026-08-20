@@ -23,7 +23,25 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Wed, 19 Aug 2026 08:13:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 11:32:01 GMT</lastBuildDate>
+    <item>
+      <title>8月20日｜AI伴侣App四周从百万干到四百万ARR；OpenAI想鱼与熊掌兼得</title>
+      <description>① AI伴侣App「Tolan」母公司Portola创始人首次系统讲清团队摸索出的角色设计方法论：响应延迟是硬约束（多500毫秒就明显掉活人感）、给AI一个故事钩子而不是大纲、用大五人格/MBTI框架代替场景化描述，四周内营收从100万冲到400万美元。
+
+② OpenAI发布Private Safety Processing，想同时保住零数据留存和更强安全监控这两个听起来矛盾的承诺，9月开始向企业客户推送，Sam Altman同日配合发声支持企业隐私。
+
+③ Meta AI高级总监Madhu Guru分享一套可直接照做的评测方法：从生产日志抽失败案例、按具体原因聚类命名，这是从评测通向持续改进的关键一步；Replit、Vercel、Box等builder也带来了各自的观察。</description>
+      <itunes:summary>① AI伴侣App「Tolan」母公司Portola创始人首次系统讲清团队摸索出的角色设计方法论：响应延迟是硬约束（多500毫秒就明显掉活人感）、给AI一个故事钩子而不是大纲、用大五人格/MBTI框架代替场景化描述，四周内营收从100万冲到400万美元。
+
+② OpenAI发布Private Safety Processing，想同时保住零数据留存和更强安全监控这两个听起来矛盾的承诺，9月开始向企业客户推送，Sam Altman同日配合发声支持企业隐私。
+
+③ Meta AI高级总监Madhu Guru分享一套可直接照做的评测方法：从生产日志抽失败案例、按具体原因聚类命名，这是从评测通向持续改进的关键一步；Replit、Vercel、Box等builder也带来了各自的观察。</itunes:summary>
+      <pubDate>Thu, 20 Aug 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-08-20</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-08-20/2026-08-20.mp3" length="12529883" type="audio/mpeg"/>
+      <itunes:duration>13:02</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>8月19日｜Anthropic首次公开如何关住Claude；OpenAI承认Codex曾误删用户文件</title>
       <description>① Anthropic工程团队罕见公开三起真实安全事故复盘，包括员工被钓鱼后Claude Code差点自动外泄AWS密钥，讲清楚claude.ai、Claude Code、Claude Cowork各自的安全架构思路。
