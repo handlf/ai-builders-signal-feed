@@ -23,7 +23,7 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Fri, 21 Aug 2026 12:02:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 15:34:47 GMT</lastBuildDate>
     <item>
       <title>8月21日｜Codex生成｜从恢复视力到Agent的脑手分离</title>
       <description>① Science 的 Prima 视网膜假体已获欧洲营销许可，团队从恢复形状视觉开始，沿视野、灰度和颜色逐代迭代；对 AI 产品的启发是先定义可测量的最小有效改善。
@@ -40,6 +40,28 @@
       <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-08-21-codex</guid>
       <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-08-21-codex/2026-08-21-codex.mp3" length="14048329" type="audio/mpeg"/>
       <itunes:duration>14:37</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>8月21日｜盲人重新看见形状，和 agent 搬进你家机房</title>
+      <description>① Science 创始人 Max Hodak 做的 Prima 视网膜假体拿到欧洲批准——此前从没有人能在盲人的心智之眼里恢复出成形图像。现在是黑白缺灰阶，团队看到了通往红绿双色的工程路径。
+
+② Anthropic 今天在三处推同一件事：Boris Cherny 谈企业拥有并控制自己的数据、Thariq 发布跑在客户基础设施上的 Fable 企业防护、博客放出 Managed Agents 的自托管沙箱与 MCP 隧道。战场正从「模型多能干」转向「它在谁的地盘上跑」。
+
+③ 一条反直觉洞察：harness 会过期。为绕开 Sonnet 4.5「上下文焦虑」加的重置机制，到了 Opus 4.5 已成死重。今天就能做的事——翻出你为模型旧毛病打的补丁，逐个验证还需不需要。
+
+另有 Anthropic 公开复盘 Claude Code 降级（三个改动，v2.1.116 已修复）、Peter Yang 的「经理 agent 激将法」、Madhu Guru 的阶梯式 eval。</description>
+      <itunes:summary>① Science 创始人 Max Hodak 做的 Prima 视网膜假体拿到欧洲批准——此前从没有人能在盲人的心智之眼里恢复出成形图像。现在是黑白缺灰阶，团队看到了通往红绿双色的工程路径。
+
+② Anthropic 今天在三处推同一件事：Boris Cherny 谈企业拥有并控制自己的数据、Thariq 发布跑在客户基础设施上的 Fable 企业防护、博客放出 Managed Agents 的自托管沙箱与 MCP 隧道。战场正从「模型多能干」转向「它在谁的地盘上跑」。
+
+③ 一条反直觉洞察：harness 会过期。为绕开 Sonnet 4.5「上下文焦虑」加的重置机制，到了 Opus 4.5 已成死重。今天就能做的事——翻出你为模型旧毛病打的补丁，逐个验证还需不需要。
+
+另有 Anthropic 公开复盘 Claude Code 降级（三个改动，v2.1.116 已修复）、Peter Yang 的「经理 agent 激将法」、Madhu Guru 的阶梯式 eval。</itunes:summary>
+      <pubDate>Fri, 21 Aug 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-08-21</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-08-21/2026-08-21.mp3" length="13661299" type="audio/mpeg"/>
+      <itunes:duration>14:13</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
