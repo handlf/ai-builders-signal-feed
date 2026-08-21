@@ -23,7 +23,25 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Thu, 20 Aug 2026 15:42:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 12:02:53 GMT</lastBuildDate>
+    <item>
+      <title>8月21日｜Codex生成｜从恢复视力到Agent的脑手分离</title>
+      <description>① Science 的 Prima 视网膜假体已获欧洲营销许可，团队从恢复形状视觉开始，沿视野、灰度和颜色逐代迭代；对 AI 产品的启发是先定义可测量的最小有效改善。
+
+② Anthropic 将 Managed Agents 拆成 session、harness 与 sandbox，并开放自托管 sandbox 和 MCP tunnels。状态、编排和执行分离后，长任务才能恢复、替换和审计。
+
+③ Madhu Guru 提出 smoke、regression、hill-climbing、launch 四层 eval；Aaron Levie 则提醒，只有任务重复、数据足够且成本真实时，垂直后训练才值得做。</description>
+      <itunes:summary>① Science 的 Prima 视网膜假体已获欧洲营销许可，团队从恢复形状视觉开始，沿视野、灰度和颜色逐代迭代；对 AI 产品的启发是先定义可测量的最小有效改善。
+
+② Anthropic 将 Managed Agents 拆成 session、harness 与 sandbox，并开放自托管 sandbox 和 MCP tunnels。状态、编排和执行分离后，长任务才能恢复、替换和审计。
+
+③ Madhu Guru 提出 smoke、regression、hill-climbing、launch 四层 eval；Aaron Levie 则提醒，只有任务重复、数据足够且成本真实时，垂直后训练才值得做。</itunes:summary>
+      <pubDate>Fri, 21 Aug 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-08-21-codex</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-08-21-codex/2026-08-21-codex.mp3" length="14048329" type="audio/mpeg"/>
+      <itunes:duration>14:37</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>8月20日｜Codex生成｜AI系统不能只追求更聪明：延迟、隐私与失败分类</title>
       <description>① Tolan 团队发现，多 500 毫秒的反思就可能显著破坏陪伴体验；给角色一个故事钩子而不是完整大纲，说明实时产品必须先定义延迟预算。
