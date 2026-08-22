@@ -23,7 +23,29 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Fri, 21 Aug 2026 15:34:47 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 12:40:51 GMT</lastBuildDate>
+    <item>
+      <title>8月22日｜Chess.com 二十年没融资做到两亿营收，和 Claude 自己扫代码找漏洞</title>
+      <description>① Chess.com 创始人 Erik Allebest：二十年前被所有投资人劝退的“不可投资”爱好项目，靠不融资、赚了就雇人，滚成了两亿五千万用户、年营收两亿美元的公司，现在靠 agentic 开发把“发现问题到代码上线”的周期压到最短。
+
+② Claude Security 上线：把 Claude 指向一个 GitHub 仓库，它会跨文件追踪漏洞，给出分类、置信度和修复建议，补丁直接在网页版 Claude Code 打开。
+
+③ 投资人 Nikunj Kothari 让 Claude Code 十分钟逆向出女儿学校午餐菜单的未鉴权 API，接进自己家的机器人，每天早上自动播报吃什么。
+
+另有 Madhu Guru 谈为什么好的 eval 不该压成一个分数、Swyx 聊“仿真是新的 scaling law”、Peter Yang 实测新 AI 助理 Instinct。</description>
+      <itunes:summary>① Chess.com 创始人 Erik Allebest：二十年前被所有投资人劝退的“不可投资”爱好项目，靠不融资、赚了就雇人，滚成了两亿五千万用户、年营收两亿美元的公司，现在靠 agentic 开发把“发现问题到代码上线”的周期压到最短。
+
+② Claude Security 上线：把 Claude 指向一个 GitHub 仓库，它会跨文件追踪漏洞，给出分类、置信度和修复建议，补丁直接在网页版 Claude Code 打开。
+
+③ 投资人 Nikunj Kothari 让 Claude Code 十分钟逆向出女儿学校午餐菜单的未鉴权 API，接进自己家的机器人，每天早上自动播报吃什么。
+
+另有 Madhu Guru 谈为什么好的 eval 不该压成一个分数、Swyx 聊“仿真是新的 scaling law”、Peter Yang 实测新 AI 助理 Instinct。</itunes:summary>
+      <pubDate>Sat, 22 Aug 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-08-22</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-08-22/2026-08-22.mp3" length="11904198" type="audio/mpeg"/>
+      <itunes:duration>12:23</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>8月21日｜Codex生成｜从恢复视力到Agent的脑手分离</title>
       <description>① Science 的 Prima 视网膜假体已获欧洲营销许可，团队从恢复形状视觉开始，沿视野、灰度和颜色逐代迭代；对 AI 产品的启发是先定义可测量的最小有效改善。
