@@ -23,7 +23,25 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sat, 22 Aug 2026 12:40:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 12:50:38 GMT</lastBuildDate>
+    <item>
+      <title>8月22日｜Codex生成｜机器早已赢棋，人为什么还要练</title>
+      <description>① Chess.com 在机器棋力超越人类三十年后仍增长到约一千万日活：AI 可以降低反馈成本，但人的练习、等级分与共同体验仍是长期产品价值。
+
+② Madhu Guru 反对用平均分掩盖前沿能力退步；Guillermo Rauch 用明确的 agentic rubric 循环补产品缺口。总分看趋势，事实错误、关键遗漏和发布缺口必须单列。
+
+③ Codex 缓存命中下降可能加速额度消耗；Instinct 的邮件保留争议提醒 builder，顺滑 onboarding 不能替代数据删除、导出和断开后的生命周期检查。</description>
+      <itunes:summary>① Chess.com 在机器棋力超越人类三十年后仍增长到约一千万日活：AI 可以降低反馈成本，但人的练习、等级分与共同体验仍是长期产品价值。
+
+② Madhu Guru 反对用平均分掩盖前沿能力退步；Guillermo Rauch 用明确的 agentic rubric 循环补产品缺口。总分看趋势，事实错误、关键遗漏和发布缺口必须单列。
+
+③ Codex 缓存命中下降可能加速额度消耗；Instinct 的邮件保留争议提醒 builder，顺滑 onboarding 不能替代数据删除、导出和断开后的生命周期检查。</itunes:summary>
+      <pubDate>Sat, 22 Aug 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-08-22-codex</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-08-22-codex/2026-08-22-codex.mp3" length="13181899" type="audio/mpeg"/>
+      <itunes:duration>13:43</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>8月22日｜Chess.com 二十年没融资做到两亿营收，和 Claude 自己扫代码找漏洞</title>
       <description>① Chess.com 创始人 Erik Allebest：二十年前被所有投资人劝退的“不可投资”爱好项目，靠不融资、赚了就雇人，滚成了两亿五千万用户、年营收两亿美元的公司，现在靠 agentic 开发把“发现问题到代码上线”的周期压到最短。
