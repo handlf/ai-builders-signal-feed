@@ -23,7 +23,25 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sat, 22 Aug 2026 12:50:38 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 08:39:09 GMT</lastBuildDate>
+    <item>
+      <title>8月23日｜Codex生成｜Agent 落地的瓶颈，开始从模型转向协议、记忆和评测</title>
+      <description>① Kevin Scott 判断模型能力已部分跑在产品前面，Agent 下一阶段拼的是 agentic memory、统一协议、权限与安全模型，而不是只比模型更聪明。
+
+② Aaron Levie 和 Madhu Guru 同时强调，好 eval 才是 AI 扩散的真正瓶颈。通用 benchmark 只告诉你趋势，真实工作流能否稳定变好，必须靠分场景验收和 failure taxonomy。
+
+③ Peter Yang、Thibault Sottiaux、Zara Zhang 分别把焦点拉回隐私删除、长会话成本和组织结构：外部数据要能断开与删除，额度异常常来自产品细节，AI 也更容易先放大个人 owner 而不是大组织。</description>
+      <itunes:summary>① Kevin Scott 判断模型能力已部分跑在产品前面，Agent 下一阶段拼的是 agentic memory、统一协议、权限与安全模型，而不是只比模型更聪明。
+
+② Aaron Levie 和 Madhu Guru 同时强调，好 eval 才是 AI 扩散的真正瓶颈。通用 benchmark 只告诉你趋势，真实工作流能否稳定变好，必须靠分场景验收和 failure taxonomy。
+
+③ Peter Yang、Thibault Sottiaux、Zara Zhang 分别把焦点拉回隐私删除、长会话成本和组织结构：外部数据要能断开与删除，额度异常常来自产品细节，AI 也更容易先放大个人 owner 而不是大组织。</itunes:summary>
+      <pubDate>Sun, 23 Aug 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-08-23-codex</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-08-23-codex/2026-08-23-codex.mp3" length="11751643" type="audio/mpeg"/>
+      <itunes:duration>12:14</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>8月22日｜Codex生成｜机器早已赢棋，人为什么还要练</title>
       <description>① Chess.com 在机器棋力超越人类三十年后仍增长到约一千万日活：AI 可以降低反馈成本，但人的练习、等级分与共同体验仍是长期产品价值。
