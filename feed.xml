@@ -23,7 +23,25 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sun, 23 Aug 2026 08:39:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 08:11:39 GMT</lastBuildDate>
+    <item>
+      <title>8月24日｜Eval 怎么切、基建怎么拼：Vercel、Meta 和 OpenAI 今天讲的都是基本功</title>
+      <description>① Vercel CEO Guillermo Rauch：Sol 降价加网关折扣让智能需求弹性显现，同时把 fx 的开放协议哲学(MCP、Skills、Plugins)对标 Unix，网关和协议是 Agent 基建下一层。
+
+② Meta AI 高级总监 Madhu Guru 的 eval 系列更新到第七部分：好评测要按任务的各个阶段分层设计，而不是只看最终答案，才能诊断出问题出在哪一步。
+
+③ Peter Yang 转述播客嘉宾观点：eval 分自上而下和自下而上两类，Claude 只擅长前一半，从真实样本里提炼判断仍然得靠人；另有 OpenAI 的 Thibault Sottiaux 通报 Codex 额度重置已推送，并判断 2026 年模型效率和可靠性会成为关键基础设施。</description>
+      <itunes:summary>① Vercel CEO Guillermo Rauch：Sol 降价加网关折扣让智能需求弹性显现，同时把 fx 的开放协议哲学(MCP、Skills、Plugins)对标 Unix，网关和协议是 Agent 基建下一层。
+
+② Meta AI 高级总监 Madhu Guru 的 eval 系列更新到第七部分：好评测要按任务的各个阶段分层设计，而不是只看最终答案，才能诊断出问题出在哪一步。
+
+③ Peter Yang 转述播客嘉宾观点：eval 分自上而下和自下而上两类，Claude 只擅长前一半，从真实样本里提炼判断仍然得靠人；另有 OpenAI 的 Thibault Sottiaux 通报 Codex 额度重置已推送，并判断 2026 年模型效率和可靠性会成为关键基础设施。</itunes:summary>
+      <pubDate>Mon, 24 Aug 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-08-24</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-08-24/2026-08-24.mp3" length="10525351" type="audio/mpeg"/>
+      <itunes:duration>10:57</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>8月23日｜Codex生成｜Agent 落地的瓶颈，开始从模型转向协议、记忆和评测</title>
       <description>① Kevin Scott 判断模型能力已部分跑在产品前面，Agent 下一阶段拼的是 agentic memory、统一协议、权限与安全模型，而不是只比模型更聪明。
