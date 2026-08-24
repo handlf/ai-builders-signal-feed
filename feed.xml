@@ -23,7 +23,25 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Mon, 24 Aug 2026 08:11:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 08:42:16 GMT</lastBuildDate>
+    <item>
+      <title>8月24日｜Codex生成｜别再只盯最终答案，Agent 开始卷评测颗粒度和接入层</title>
+      <description>① Guillermo Rauch 把更便宜的 Sol、gateway 路由和 MCP/Skills/Plugins 放到同一张图里：下一阶段 agent 基建比的不是谁喊得响，而是谁先把协议和接入层做成标准件。
+
+② Madhu Guru 和 Peter Yang 今天把 eval 这门基本功讲透了：不要只盯最终答案，要按阶段拆评测；而从真实样本里提炼规则的那一半，暂时还离不开人。
+
+③ Anthropic 把 Claude 接进 Apple 的 Foundation Models framework，Thibault、Garry Tan、Peter Steinberger 又分别补上可靠性、system of record 和可视化协作信号：能长期留下来的 agent，得会接系统、会暴露过程、会被验证。</description>
+      <itunes:summary>① Guillermo Rauch 把更便宜的 Sol、gateway 路由和 MCP/Skills/Plugins 放到同一张图里：下一阶段 agent 基建比的不是谁喊得响，而是谁先把协议和接入层做成标准件。
+
+② Madhu Guru 和 Peter Yang 今天把 eval 这门基本功讲透了：不要只盯最终答案，要按阶段拆评测；而从真实样本里提炼规则的那一半，暂时还离不开人。
+
+③ Anthropic 把 Claude 接进 Apple 的 Foundation Models framework，Thibault、Garry Tan、Peter Steinberger 又分别补上可靠性、system of record 和可视化协作信号：能长期留下来的 agent，得会接系统、会暴露过程、会被验证。</itunes:summary>
+      <pubDate>Mon, 24 Aug 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-08-24-codex</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-08-24-codex/2026-08-24-codex.mp3" length="10015023" type="audio/mpeg"/>
+      <itunes:duration>10:26</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>8月24日｜Eval 怎么切、基建怎么拼：Vercel、Meta 和 OpenAI 今天讲的都是基本功</title>
       <description>① Vercel CEO Guillermo Rauch：Sol 降价加网关折扣让智能需求弹性显现，同时把 fx 的开放协议哲学(MCP、Skills、Plugins)对标 Unix，网关和协议是 Agent 基建下一层。
