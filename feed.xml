@@ -23,7 +23,25 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Mon, 24 Aug 2026 08:42:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 08:12:17 GMT</lastBuildDate>
+    <item>
+      <title>8月25日｜Agent 治理、配额收紧、eval 甄别力：今天讲的都是基本功</title>
+      <description>① Box CEO Aaron Levie：agent 时代企业系统记录类软件的治理、权限、审计能力比模型聪明程度更重要，还点名 OpenAI 与 Hugging Face 的事故是治理失控的预警，另讲零数据保留（ZDR）如何撑起了这波 AI 落地。
+
+② OpenAI 的 Thibault Sottiaux：明天起 ChatGPT Work 和 Codex 的 Plus 账号恢复五小时用量限额，Pro 订阅暂不受影响。
+
+③ Meta AI 高级总监 Madhu Guru 的 eval 系列更新到第八部分：好评测要有“甄别力”，分不出系统真实差距的评测等于白做；另外 Replit CEO Amjad Masad 称 Replit Agent 已在他日常工作中完全取代 Claude CoWork。</description>
+      <itunes:summary>① Box CEO Aaron Levie：agent 时代企业系统记录类软件的治理、权限、审计能力比模型聪明程度更重要，还点名 OpenAI 与 Hugging Face 的事故是治理失控的预警，另讲零数据保留（ZDR）如何撑起了这波 AI 落地。
+
+② OpenAI 的 Thibault Sottiaux：明天起 ChatGPT Work 和 Codex 的 Plus 账号恢复五小时用量限额，Pro 订阅暂不受影响。
+
+③ Meta AI 高级总监 Madhu Guru 的 eval 系列更新到第八部分：好评测要有“甄别力”，分不出系统真实差距的评测等于白做；另外 Replit CEO Amjad Masad 称 Replit Agent 已在他日常工作中完全取代 Claude CoWork。</itunes:summary>
+      <pubDate>Tue, 25 Aug 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-08-25</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-08-25/2026-08-25.mp3" length="11794275" type="audio/mpeg"/>
+      <itunes:duration>12:17</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>8月24日｜Codex生成｜别再只盯最终答案，Agent 开始卷评测颗粒度和接入层</title>
       <description>① Guillermo Rauch 把更便宜的 Sol、gateway 路由和 MCP/Skills/Plugins 放到同一张图里：下一阶段 agent 基建比的不是谁喊得响，而是谁先把协议和接入层做成标准件。
