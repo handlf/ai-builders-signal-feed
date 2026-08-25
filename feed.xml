@@ -23,7 +23,25 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Tue, 25 Aug 2026 08:12:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 08:37:56 GMT</lastBuildDate>
+    <item>
+      <title>8月25日｜Codex生成｜Agent 治理、配额收紧、eval 甄别力：今天讲的都是基本功</title>
+      <description>① Box CEO Aaron Levie：agent 时代真正值钱的不是更会答，而是 system of record 的治理、权限、审计和 ZDR 这类合规底座，谁先补齐，谁更容易接住 AI 落地。
+
+② OpenAI 的 Thibault Sottiaux：明天起 ChatGPT Work 和 Codex 的 Plus 账号恢复五小时限额，说明算力分配和用户节奏管理已经是正式产品能力；Meta 的 Madhu Guru 则提醒，好 eval 的关键是有甄别力，能分出真强和普通。
+
+③ Peter Yang、Peter Steinberger、Amjad Masad 这几条合起来很实用：用户要的不是网页里的聊天壳，而是能穿过登录、旧软件和多步骤收尾去办事的 agent；比较 coding agent，也该多看持续执行和最后十米，而不只看第一轮回答。</description>
+      <itunes:summary>① Box CEO Aaron Levie：agent 时代真正值钱的不是更会答，而是 system of record 的治理、权限、审计和 ZDR 这类合规底座，谁先补齐，谁更容易接住 AI 落地。
+
+② OpenAI 的 Thibault Sottiaux：明天起 ChatGPT Work 和 Codex 的 Plus 账号恢复五小时限额，说明算力分配和用户节奏管理已经是正式产品能力；Meta 的 Madhu Guru 则提醒，好 eval 的关键是有甄别力，能分出真强和普通。
+
+③ Peter Yang、Peter Steinberger、Amjad Masad 这几条合起来很实用：用户要的不是网页里的聊天壳，而是能穿过登录、旧软件和多步骤收尾去办事的 agent；比较 coding agent，也该多看持续执行和最后十米，而不只看第一轮回答。</itunes:summary>
+      <pubDate>Tue, 25 Aug 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-08-25-codex</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-08-25-codex/2026-08-25-codex.mp3" length="11080819" type="audio/mpeg"/>
+      <itunes:duration>11:32</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>8月25日｜Agent 治理、配额收紧、eval 甄别力：今天讲的都是基本功</title>
       <description>① Box CEO Aaron Levie：agent 时代企业系统记录类软件的治理、权限、审计能力比模型聪明程度更重要，还点名 OpenAI 与 Hugging Face 的事故是治理失控的预警，另讲零数据保留（ZDR）如何撑起了这波 AI 落地。
