@@ -23,7 +23,25 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Tue, 25 Aug 2026 08:37:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 08:13:28 GMT</lastBuildDate>
+    <item>
+      <title>8月26日｜Claude 记忆合一、OpenAI 芯片首秀、Agent 内容怎么变现</title>
+      <description>① Anthropic 统一了 Claude Chat 和 Cowork 的记忆，账户级记忆默认开启，敏感话题需手动打开，Boris Cherny、Cat Wu 同步放大。
+
+② Sam Altman 官宣 OpenAI 自研芯片“很快”，同时 Thibault Sottiaux 发布不限时长的团队套餐；Vercel 的 Guillermo Rauch 一天发布两个 agent 基础设施产品：Run SDK 安全执行代码、Connect 正式 GA。
+
+③ 前 Twitter CEO Parag Agrawal 在播客里讲 Parallel 怎么用 Shapley value 给 agent 时代的内容创作者算账；Peter Yang 开源 /fuck-cancer skill，把 agent 能力用在重病照护这种生活刚需上。</description>
+      <itunes:summary>① Anthropic 统一了 Claude Chat 和 Cowork 的记忆，账户级记忆默认开启，敏感话题需手动打开，Boris Cherny、Cat Wu 同步放大。
+
+② Sam Altman 官宣 OpenAI 自研芯片“很快”，同时 Thibault Sottiaux 发布不限时长的团队套餐；Vercel 的 Guillermo Rauch 一天发布两个 agent 基础设施产品：Run SDK 安全执行代码、Connect 正式 GA。
+
+③ 前 Twitter CEO Parag Agrawal 在播客里讲 Parallel 怎么用 Shapley value 给 agent 时代的内容创作者算账；Peter Yang 开源 /fuck-cancer skill，把 agent 能力用在重病照护这种生活刚需上。</itunes:summary>
+      <pubDate>Wed, 26 Aug 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-08-26</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-08-26/2026-08-26.mp3" length="12983787" type="audio/mpeg"/>
+      <itunes:duration>13:31</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>8月25日｜Codex生成｜Agent 治理、配额收紧、eval 甄别力：今天讲的都是基本功</title>
       <description>① Box CEO Aaron Levie：agent 时代真正值钱的不是更会答，而是 system of record 的治理、权限、审计和 ZDR 这类合规底座，谁先补齐，谁更容易接住 AI 落地。
