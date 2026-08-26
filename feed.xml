@@ -23,7 +23,25 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Wed, 26 Aug 2026 08:13:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 08:41:40 GMT</lastBuildDate>
+    <item>
+      <title>8月26日｜Codex生成｜Agent 要真正落地，先把记忆、执行和评测接成闭环</title>
+      <description>① Claude 把 Chat 和 Cowork 记忆合一，说明 agent 的长期上下文开始变成账户级资产，但敏感信息和记忆污染必须手动治理。
+
+② Vercel 的 Run SDK 和 Connect、Madhu Guru 的动态 eval、Swyx 的钥匙串事故一起提醒：执行层要轻、连接层要稳、评测要跟着真实任务升级。
+
+③ Parag Agrawal 的 agentic search 分账思路和 Peter Yang 的癌症照护 skill 给了两种实战模板：一边把内容做成 agent 可计价资产，一边在高风险场景坚持结构化人审。</description>
+      <itunes:summary>① Claude 把 Chat 和 Cowork 记忆合一，说明 agent 的长期上下文开始变成账户级资产，但敏感信息和记忆污染必须手动治理。
+
+② Vercel 的 Run SDK 和 Connect、Madhu Guru 的动态 eval、Swyx 的钥匙串事故一起提醒：执行层要轻、连接层要稳、评测要跟着真实任务升级。
+
+③ Parag Agrawal 的 agentic search 分账思路和 Peter Yang 的癌症照护 skill 给了两种实战模板：一边把内容做成 agent 可计价资产，一边在高风险场景坚持结构化人审。</itunes:summary>
+      <pubDate>Wed, 26 Aug 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-08-26-codex</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-08-26-codex/2026-08-26-codex.mp3" length="12471369" type="audio/mpeg"/>
+      <itunes:duration>12:59</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>8月26日｜Claude 记忆合一、OpenAI 芯片首秀、Agent 内容怎么变现</title>
       <description>① Anthropic 统一了 Claude Chat 和 Cowork 的记忆，账户级记忆默认开启，敏感话题需手动打开，Boris Cherny、Cat Wu 同步放大。
