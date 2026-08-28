@@ -23,7 +23,25 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Wed, 26 Aug 2026 08:41:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 10:31:53 GMT</lastBuildDate>
+    <item>
+      <title>8月28日｜Codex生成｜别再把Agent关在聊天框里：安全、入口和评测都要重做</title>
+      <description>① Anthropic 公开 agent containment 手册，把风险从提示词工程拉回环境层系统工程：真正能上生产的关键，是把文件、网络、凭证和外部工具的爆炸半径先锁死，而不是只相信模型会更听话。
+
+② Peter Yang、OpenAI、Google、Vercel 同时给出一组分发信号：用户不想为新 AI 产品重建账户和上下文，能代用户做真实动作、接入主 harness 和真实系统、并为 agent 而不是只为人设计的工具，才更容易长期被采用。
+
+③ Madhu Guru 主张企业要自己拥有 eval 和后训练能力，Ryan Greenblatt 则把 AI 治理时间表压到 2029 附近；对 AI agent 和自媒体工作流来说，下一步该补的是权限边界、独立验收和可追踪交付，而不是再多一个会聊天的前端。</description>
+      <itunes:summary>① Anthropic 公开 agent containment 手册，把风险从提示词工程拉回环境层系统工程：真正能上生产的关键，是把文件、网络、凭证和外部工具的爆炸半径先锁死，而不是只相信模型会更听话。
+
+② Peter Yang、OpenAI、Google、Vercel 同时给出一组分发信号：用户不想为新 AI 产品重建账户和上下文，能代用户做真实动作、接入主 harness 和真实系统、并为 agent 而不是只为人设计的工具，才更容易长期被采用。
+
+③ Madhu Guru 主张企业要自己拥有 eval 和后训练能力，Ryan Greenblatt 则把 AI 治理时间表压到 2029 附近；对 AI agent 和自媒体工作流来说，下一步该补的是权限边界、独立验收和可追踪交付，而不是再多一个会聊天的前端。</itunes:summary>
+      <pubDate>Fri, 28 Aug 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-08-28-codex</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-08-28-codex/2026-08-28-codex.mp3" length="15119412" type="audio/mpeg"/>
+      <itunes:duration>15:44</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>8月26日｜Codex生成｜Agent 要真正落地，先把记忆、执行和评测接成闭环</title>
       <description>① Claude 把 Chat 和 Cowork 记忆合一，说明 agent 的长期上下文开始变成账户级资产，但敏感信息和记忆污染必须手动治理。
