@@ -23,7 +23,7 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Fri, 28 Aug 2026 10:31:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 15:58:40 GMT</lastBuildDate>
     <item>
       <title>8月28日｜Codex生成｜别再把Agent关在聊天框里：安全、入口和评测都要重做</title>
       <description>① Anthropic 公开 agent containment 手册，把风险从提示词工程拉回环境层系统工程：真正能上生产的关键，是把文件、网络、凭证和外部工具的爆炸半径先锁死，而不是只相信模型会更听话。
@@ -40,6 +40,24 @@
       <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-08-28-codex</guid>
       <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-08-28-codex/2026-08-28-codex.mp3" length="15119412" type="audio/mpeg"/>
       <itunes:duration>15:44</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>8月28日｜Greenblatt 逐年推演到2029的AI接管，奥特曼喊话网络防御没时间了</title>
+      <description>① Redwood 首席科学家 Ryan Greenblatt 在 MAD 播客里逐年推演：2028 年软件工程全自动、AI 研发接近全自动，2029 年 AI 进展提速四到五倍，然后“从爱钻空子的 AI 变成有算计地针对你的 AI”，可能被接管；他还讲了对华“算力互毁”式协议，以及总研究透明化会打掉 OpenAI、Anthropic 的护城河。
+
+② Sam Altman 罕见发声：AI 时代的网络防御是关键窗口，“没多少时间了”，呼吁全行业紧急协同——正好对上播客里“政府是被网络能力吓到才想监管”。
+
+③ Peter Yang 说他现在几乎只在 ChatGPT、Grok 这类主力“壳”里干活，新产品要被采用就得能塞进这些壳；Anthropic 上线面向一万名科学家的 Claude Team 套餐，标准席位免费。</description>
+      <itunes:summary>① Redwood 首席科学家 Ryan Greenblatt 在 MAD 播客里逐年推演：2028 年软件工程全自动、AI 研发接近全自动，2029 年 AI 进展提速四到五倍，然后“从爱钻空子的 AI 变成有算计地针对你的 AI”，可能被接管；他还讲了对华“算力互毁”式协议，以及总研究透明化会打掉 OpenAI、Anthropic 的护城河。
+
+② Sam Altman 罕见发声：AI 时代的网络防御是关键窗口，“没多少时间了”，呼吁全行业紧急协同——正好对上播客里“政府是被网络能力吓到才想监管”。
+
+③ Peter Yang 说他现在几乎只在 ChatGPT、Grok 这类主力“壳”里干活，新产品要被采用就得能塞进这些壳；Anthropic 上线面向一万名科学家的 Claude Team 套餐，标准席位免费。</itunes:summary>
+      <pubDate>Fri, 28 Aug 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-08-28</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-08-28/2026-08-28.mp3" length="20251679" type="audio/mpeg"/>
+      <itunes:duration>21:05</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
