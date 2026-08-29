@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Fri, 28 Aug 2026 15:58:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 08:20:03 GMT</lastBuildDate>
+    <item>
+      <title>8月29日 OpenAI掐断Cursor的模型访问，三方连夜站队｜为什么AI里的判断半年就翻</title>
+      <description>① OpenAI宣布11月12日起停止通过Cursor提供自家模型，理由只有'信任'二字——编程外壳之争摆到明面，Anthropic的Thariq表态继续和Cursor合作，Replit的Amjad Masad喊话出钱帮企业迁移。② Box的Aaron Levie和Meta的Madhu Guru同日转发同一条推，都说AI里的强观点半衰期只有半年、产品打法半衰期只有三个月，别把结论焊死。③ No Priors播客里Eon两位创始人讲：模型算力都是易耗品，数据才是唯一护城河，Google花一千万美元买破产航司的数据训模型；而拿着合法权限的agent正在成为新的'内部威胁'。另有Vercel的Guillermo Rauch判断web裂成两极、中间地带会被agent即时生成的界面吃掉，以及Anthropic两篇工程博客（Managed Agents架构、Claude Code质量复盘）。</description>
+      <itunes:summary>① OpenAI宣布11月12日起停止通过Cursor提供自家模型，理由只有'信任'二字——编程外壳之争摆到明面，Anthropic的Thariq表态继续和Cursor合作，Replit的Amjad Masad喊话出钱帮企业迁移。② Box的Aaron Levie和Meta的Madhu Guru同日转发同一条推，都说AI里的强观点半衰期只有半年、产品打法半衰期只有三个月，别把结论焊死。③ No Priors播客里Eon两位创始人讲：模型算力都是易耗品，数据才是唯一护城河，Google花一千万美元买破产航司的数据训模型；而拿着合法权限的agent正在成为新的'内部威胁'。另有Vercel的Guillermo Rauch判断web裂成两极、中间地带会被agent即时生成的界面吃掉，以及Anthropic两篇工程博客（Managed Agents架构、Claude Code质量复盘）。</itunes:summary>
+      <pubDate>Sat, 29 Aug 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-08-29</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-08-29/2026-08-29.mp3" length="23097981" type="audio/mpeg"/>
+      <itunes:duration>24:03</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>8月28日｜Codex生成｜别再把Agent关在聊天框里：安全、入口和评测都要重做</title>
       <description>① Anthropic 公开 agent containment 手册，把风险从提示词工程拉回环境层系统工程：真正能上生产的关键，是把文件、网络、凭证和外部工具的爆炸半径先锁死，而不是只相信模型会更听话。
