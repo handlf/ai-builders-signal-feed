@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sun, 30 Aug 2026 08:42:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 08:40:48 GMT</lastBuildDate>
+    <item>
+      <title>8月31日｜Codex生成｜共享 agent 开始吃掉本地工作流，成本和安全一起上桌</title>
+      <description>① Peter Steinberger 说团队已从各自本地 harness 迁到共享 agent OpenClaw，说明 coding agent 正从个人副驾驶走向团队级编排层。\n\n② Aaron Levie 用 token 版 Jevons paradox 解释为什么成本下降会放大企业自动化需求；Thibault Sottiaux 则把 Codex 周额度、重置和二千五百万活跃用户讲成正式产品机制。\n\n③ Dan Shipper、Amjad Masad 与 Guillermo Rauch 共同提醒：高权限 agent 上线后，异常推理、CoT 监控、DDoS 与流量防守都得纳入主链路，而 Every 重推的 Tolan 旧播客则补了一课差异化入口和增长叙事。</description>
+      <itunes:summary>① Peter Steinberger 说团队已从各自本地 harness 迁到共享 agent OpenClaw，说明 coding agent 正从个人副驾驶走向团队级编排层。\n\n② Aaron Levie 用 token 版 Jevons paradox 解释为什么成本下降会放大企业自动化需求；Thibault Sottiaux 则把 Codex 周额度、重置和二千五百万活跃用户讲成正式产品机制。\n\n③ Dan Shipper、Amjad Masad 与 Guillermo Rauch 共同提醒：高权限 agent 上线后，异常推理、CoT 监控、DDoS 与流量防守都得纳入主链路，而 Every 重推的 Tolan 旧播客则补了一课差异化入口和增长叙事。</itunes:summary>
+      <pubDate>Mon, 31 Aug 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-08-31-codex</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-08-31-codex/2026-08-31-codex.mp3" length="11467013" type="audio/mpeg"/>
+      <itunes:duration>11:56</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>8月30日｜Codex生成｜硬科技开始卖货，agent 先把入口和成本账做硬</title>
       <description>① Max Hodak 在 No Priors 里把 Prima 视网膜假体讲成了一条真正进入监管与销售阶段的硬科技产品线，也把“大脑就是计算机”和表征对齐这条研究路径讲得更工程化。
