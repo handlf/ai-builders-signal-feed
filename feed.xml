@@ -23,7 +23,25 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Tue, 01 Sep 2026 08:14:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 08:39:31 GMT</lastBuildDate>
+    <item>
+      <title>9月1日｜Codex生成｜记忆不是学习，agent 得把模型地图和治理层补上</title>
+      <description>① Rich Sutton 在 Training Data 长访谈里把当前大模型定义成“上线后不再学习”的死系统，点名合成数据和外挂记忆都绕不开真学习问题。
+
+② Madhu Guru 与 Aaron Levie 连成一条线：模型会越来越碎、越来越专，PM 和 builder 得维护自己的模型前沿地图，而不是一直无脑选最强那个。
+
+③ Guillermo Rauch 的 DESIGN.md 与 per-user budget、再加上 Peter Yang 的 trust、Garry Tan 的 memory eval、Nan Yu 与 Thibault 的 Codex adoption 信号，共同说明 agent 下一步得把规则、治理和最后一公里体验一起补上。</description>
+      <itunes:summary>① Rich Sutton 在 Training Data 长访谈里把当前大模型定义成“上线后不再学习”的死系统，点名合成数据和外挂记忆都绕不开真学习问题。
+
+② Madhu Guru 与 Aaron Levie 连成一条线：模型会越来越碎、越来越专，PM 和 builder 得维护自己的模型前沿地图，而不是一直无脑选最强那个。
+
+③ Guillermo Rauch 的 DESIGN.md 与 per-user budget、再加上 Peter Yang 的 trust、Garry Tan 的 memory eval、Nan Yu 与 Thibault 的 Codex adoption 信号，共同说明 agent 下一步得把规则、治理和最后一公里体验一起补上。</itunes:summary>
+      <pubDate>Tue, 01 Sep 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-09-01-codex</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-09-01-codex/2026-09-01-codex.mp3" length="11759166" type="audio/mpeg"/>
+      <itunes:duration>12:14</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>9月1日 Rich Sutton长访谈：大模型"跑起来就不再学习"、合成数据是"大错误"；PM要吃透模型前沿地图；DESIGN.md治AI的slop</title>
       <description>深度访谈压场的一天。① 强化学习之父 Rich Sutton 和联合创始人 Khurram Javed 在 Training Data 播客里说，当前大模型是"预训练加后训练一次成型、权重再也不动"的死系统，"从不学习"；合成数据这条路是"大错误"，因为真实世界无限复杂、任何模拟都只是它的微观切片；他们的 continual backprop 要在两年内做出新一代持续深度学习。评估：这是一份能落地的技术议程，不是唱衰——对做 agent 记忆的人是当头一问，你的"记忆"是真改了模型行为，还是只在管上下文。② Meta 的 Madhu Guru：PM 现在的核心功课，是比前沿实验室的人更懂"你这个用例的模型前沿地图"——每个尺寸档能做好什么、在哪失败、怎么绕、三个月后会怎样。③ Vercel 的 Guillermo Rauch 讲 DESIGN.md，把设计品味写进一个 markdown 文件让 agent 生成 UI 时遵守、专治 slop，同日还上线 AI Gateway 的按用户预算。另有 Box 的 Aaron Levie 判断垂直自有模型会爆发、Nan Yu 从 Linear 转投 OpenAI 做 Codex、Garry Tan 给 agent 记忆检索层 GBrain 做新评测。</description>
