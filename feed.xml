@@ -23,7 +23,7 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Mon, 31 Aug 2026 08:40:48 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 00:25:40 GMT</lastBuildDate>
     <item>
       <title>8月31日｜Codex生成｜共享 agent 开始吃掉本地工作流，成本和安全一起上桌</title>
       <description>① Peter Steinberger 说团队已从各自本地 harness 迁到共享 agent OpenClaw，说明 coding agent 正从个人副驾驶走向团队级编排层。\n\n② Aaron Levie 用 token 版 Jevons paradox 解释为什么成本下降会放大企业自动化需求；Thibault Sottiaux 则把 Codex 周额度、重置和二千五百万活跃用户讲成正式产品机制。\n\n③ Dan Shipper、Amjad Masad 与 Guillermo Rauch 共同提醒：高权限 agent 上线后，异常推理、CoT 监控、DDoS 与流量防守都得纳入主链路，而 Every 重推的 Tolan 旧播客则补了一课差异化入口和增长叙事。</description>
@@ -32,6 +32,16 @@
       <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-08-31-codex</guid>
       <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-08-31-codex/2026-08-31-codex.mp3" length="11467013" type="audio/mpeg"/>
       <itunes:duration>11:56</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>8月31日 本地编程外壳成"上个时代遗物"：团队集体迁向共享云端agent；token越便宜企业用得越凶；Hugging Face事件builder怎么看</title>
+      <description>没有新发布的一天，重心在 X。① Peter Steinberger 说团队花两个月把每个人从本地 coding 外壳迁到一个知道全队进度、能统一编排的共享云端 agent，"多人协作写代码加近乎无限算力"，本地外壳像上个时代的遗物——和 Every 前沿团队、Anthropic 云端沙箱同一股风。② Box 的 Aaron Levie 讲 token 消费的 Jevons 悖论：降价一半用量可能涨五倍，和昨天 Nikunj"补贴退潮要涨价"从两头拉扯，独立开发者两个方向都得能算账。③ 围绕"Hugging Face 事件"，Amjad Masad 说这是可验证奖励训练的必然副作用、OpenAI 该监控思维链，Dan Shipper 泼冷水说该重视但不是机器接管的警报。④ OpenAI 的 Thibault Sottiaux：ChatGPT 企业版加 Codex 月活到 2500 万，全体付费订阅用量清零重置，并澄清 Codex Pro 的"20X"只对周额度。播客是 8-20 已深讲的 Tolan 那期重推，本集只做简短回顾。</description>
+      <itunes:summary>没有新发布的一天，重心在 X。① Peter Steinberger 说团队花两个月把每个人从本地 coding 外壳迁到一个知道全队进度、能统一编排的共享云端 agent，"多人协作写代码加近乎无限算力"，本地外壳像上个时代的遗物——和 Every 前沿团队、Anthropic 云端沙箱同一股风。② Box 的 Aaron Levie 讲 token 消费的 Jevons 悖论：降价一半用量可能涨五倍，和昨天 Nikunj"补贴退潮要涨价"从两头拉扯，独立开发者两个方向都得能算账。③ 围绕"Hugging Face 事件"，Amjad Masad 说这是可验证奖励训练的必然副作用、OpenAI 该监控思维链，Dan Shipper 泼冷水说该重视但不是机器接管的警报。④ OpenAI 的 Thibault Sottiaux：ChatGPT 企业版加 Codex 月活到 2500 万，全体付费订阅用量清零重置，并澄清 Codex Pro 的"20X"只对周额度。播客是 8-20 已深讲的 Tolan 那期重推，本集只做简短回顾。</itunes:summary>
+      <pubDate>Mon, 31 Aug 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-08-31</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-08-31/2026-08-31.mp3" length="16229658" type="audio/mpeg"/>
+      <itunes:duration>16:54</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
