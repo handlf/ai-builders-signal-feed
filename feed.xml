@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Wed, 02 Sep 2026 08:20:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 08:42:00 GMT</lastBuildDate>
+    <item>
+      <title>9月2日｜Codex生成｜别只卷模型更强，先把 agent 的烦人感、治理层和脏活自动化做掉</title>
+      <description>① Fable 5.1 今天最值得看的不是跑分，而是三件更接近交付层的变化：写作在削“Claude 味”、切换 effort 不再打断 prompt cache、cache read 从每百万 token 一美元降到两毛五，典型 Claude Code 会话最多便宜 38%。② Training Data 这期 Peregrine 长访谈给了一个更硬的 agent 落地标准：用户敲问题前 95% 的活已经发生，约 90% 的数据集成已交给 agent，最先被吃掉的是那些又长又脏、但能判对错的任务。③ Anthropic 的 EFS、Sam Altman 对 Astra 的谨慎表态、Aaron Levie 的 AI for cyber 以及 Guillermo Rauch 的统一安全边界，合起来说明下一阶段不是只卷更强模型，而是把烦人感、治理层、审计和执行边界一起做扎实。</description>
+      <itunes:summary>① Fable 5.1 今天最值得看的不是跑分，而是三件更接近交付层的变化：写作在削“Claude 味”、切换 effort 不再打断 prompt cache、cache read 从每百万 token 一美元降到两毛五，典型 Claude Code 会话最多便宜 38%。② Training Data 这期 Peregrine 长访谈给了一个更硬的 agent 落地标准：用户敲问题前 95% 的活已经发生，约 90% 的数据集成已交给 agent，最先被吃掉的是那些又长又脏、但能判对错的任务。③ Anthropic 的 EFS、Sam Altman 对 Astra 的谨慎表态、Aaron Levie 的 AI for cyber 以及 Guillermo Rauch 的统一安全边界，合起来说明下一阶段不是只卷更强模型，而是把烦人感、治理层、审计和执行边界一起做扎实。</itunes:summary>
+      <pubDate>Wed, 02 Sep 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-09-02-codex</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-09-02-codex/2026-09-02-codex.mp3" length="13874458" type="audio/mpeg"/>
+      <itunes:duration>14:27</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>9月2日 Claude Fable 5.1发布：头条卖点是"写得不那么烦"、缓存降价、切effort不废缓存；Peregrine把90%数据集成交给agent、cold case agent复刻真实平反</title>
       <description>① Claude 家族新模型 Fable 5.1 全平台上线，但 Anthropic 和一圈 builder 挑出来讲的不是跑分，是三件工程实事：写作在削"Claude 味"（Boris Cherny、Nan Yu、官方都点了）、切换 effort 不再打断 prompt cache、cache read 从每百万 token 一美元降到两毛五、一次典型 Claude Code 会话最多便宜 38%。评估：前沿模型竞争正从"能不能做对"往"用起来烦不烦、贵不贵"挪。② 和模型同批发布的 Enterprise Frontier Safeguards（EFS）——Alex Albert 叫它"ZDR++"，数据留在企业自己云里、一个自动监控层标记 agent 跨会话的可疑模式；同时生物学类误拦截降约 85%、网络安全类降约 60%，官方在明确把"错误拒绝"当负指标调。③ Nan Yu：让 agent"不那么烦"里有大量 alpha，用户会 rage-quit，UX 设计师该转型做"对话/修辞设计师"。播客：Training Data 聊 Peregrine（给美国市县做公共安全 AI）——用户敲问题前 95% 的活在数据准备，约 90% 的数据集成交给 agent（因为"可验证"），cold case agent 拿一桩真实冤案平反去复刻、现在能从散在 300GB 里的手机基站记录把嫌疑人定位到抛尸地点；整门生意刻意做成"反网络效应"，不采集新数据、只治理客户已有数据。另有 Aaron Levie（AI for cyber 要垂直起飞、Box 跑 Fable 5.1 eval 非结构化任务涨 7 个百分点）、Madhu Guru（"自我改进产品"的 5 件套清单）、Peter Yang（skill 只留十来个、定期删、跑 /claude-api prompt-audit）、Nikunj Kothari（别再睡 WebMCP）、Sam Altman（OpenAI 在"按需要放慢"、下一个模型 Astra 已训练完成）。</description>
