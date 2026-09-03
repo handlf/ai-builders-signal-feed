@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Wed, 02 Sep 2026 08:42:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 08:17:22 GMT</lastBuildDate>
+    <item>
+      <title>9月3日 Claude 后台电脑操作上线：可以边干别的边让它点鼠标；Every 写手把职业教练做成 Codex 常驻项目、开源 Compound Writing 写作插件</title>
+      <description>今天一条清楚的暗线：AI 正在离开聊天框。① Anthropic 官方头条是"后台电脑操作"——Claude 现在能在 Cowork 和 Claude Code 里后台点鼠标、敲键盘、开应用，你同时干别的（Pro/Max 的 macOS beta）；Boris Cherny：后台电脑操作被低估了。评估：computer use 从演示级往"日常后台并行跑"挪了一步，适合那些"有网页、没 API、又很烦"的流程。② 播客 AI &amp; I（Every）——专职撰稿人 Katie Parrott 讲两年多的 AI 写作演进：从每月 20 美元的 ChatGPT 职业教练，进化成跑在 Codex 里的常驻项目（帮她排优先级、维护看板、订三年没约上的家庭医生、报保险）；她开源的 Compound Writing 插件是直接 fork 同事 Kieran Klassen 的 Compound Engineering 改的，把冯内古特、希区柯克、Sorkin 的方法论做成可调用的"审稿 skill"；她的比方是"这插件是个健身房"。可搬走的三点：地基文档先行、让常驻项目承接你的决策记忆、把别人的方法论蒸馏成审稿视角。③ Madhu Guru：每个 AI 产品都该把"选模型"从用户面前抹掉，给了三个前提（懂模型前沿、有覆盖工作流的 eval、AI 原生团队）；同日 Josh Woodward 发 Gemini 3.8 Flash"质量好价格好"、推向 Gemini App——一个说别让用户选，一个把不用选的那档往前推。另有 Thariq（effort 切换不废缓存已上 API、一两天内上 Claude Code）、Peter Yang（Fable 额度告罄、职级名称通胀观察）、Aditya Agarwal（用开源模型保数据隐私）、Zara Zhang（录逐字稿是为了喂 agent）、Aaron Levie（Muse 模型更新、能力逼近逃逸速度）、Amjad Masad（Replit 伦敦办公室活动）。</description>
+      <itunes:summary>今天一条清楚的暗线：AI 正在离开聊天框。① Anthropic 官方头条是"后台电脑操作"——Claude 现在能在 Cowork 和 Claude Code 里后台点鼠标、敲键盘、开应用，你同时干别的（Pro/Max 的 macOS beta）；Boris Cherny：后台电脑操作被低估了。评估：computer use 从演示级往"日常后台并行跑"挪了一步，适合那些"有网页、没 API、又很烦"的流程。② 播客 AI &amp; I（Every）——专职撰稿人 Katie Parrott 讲两年多的 AI 写作演进：从每月 20 美元的 ChatGPT 职业教练，进化成跑在 Codex 里的常驻项目（帮她排优先级、维护看板、订三年没约上的家庭医生、报保险）；她开源的 Compound Writing 插件是直接 fork 同事 Kieran Klassen 的 Compound Engineering 改的，把冯内古特、希区柯克、Sorkin 的方法论做成可调用的"审稿 skill"；她的比方是"这插件是个健身房"。可搬走的三点：地基文档先行、让常驻项目承接你的决策记忆、把别人的方法论蒸馏成审稿视角。③ Madhu Guru：每个 AI 产品都该把"选模型"从用户面前抹掉，给了三个前提（懂模型前沿、有覆盖工作流的 eval、AI 原生团队）；同日 Josh Woodward 发 Gemini 3.8 Flash"质量好价格好"、推向 Gemini App——一个说别让用户选，一个把不用选的那档往前推。另有 Thariq（effort 切换不废缓存已上 API、一两天内上 Claude Code）、Peter Yang（Fable 额度告罄、职级名称通胀观察）、Aditya Agarwal（用开源模型保数据隐私）、Zara Zhang（录逐字稿是为了喂 agent）、Aaron Levie（Muse 模型更新、能力逼近逃逸速度）、Amjad Masad（Replit 伦敦办公室活动）。</itunes:summary>
+      <pubDate>Thu, 03 Sep 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-09-03</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-09-03/2026-09-03.mp3" length="24626040" type="audio/mpeg"/>
+      <itunes:duration>25:38</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>9月2日｜Codex生成｜别只卷模型更强，先把 agent 的烦人感、治理层和脏活自动化做掉</title>
       <description>① Fable 5.1 今天最值得看的不是跑分，而是三件更接近交付层的变化：写作在削“Claude 味”、切换 effort 不再打断 prompt cache、cache read 从每百万 token 一美元降到两毛五，典型 Claude Code 会话最多便宜 38%。② Training Data 这期 Peregrine 长访谈给了一个更硬的 agent 落地标准：用户敲问题前 95% 的活已经发生，约 90% 的数据集成已交给 agent，最先被吃掉的是那些又长又脏、但能判对错的任务。③ Anthropic 的 EFS、Sam Altman 对 Astra 的谨慎表态、Aaron Levie 的 AI for cyber 以及 Guillermo Rauch 的统一安全边界，合起来说明下一阶段不是只卷更强模型，而是把烦人感、治理层、审计和执行边界一起做扎实。</description>
