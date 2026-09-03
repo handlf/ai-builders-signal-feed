@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Thu, 03 Sep 2026 08:17:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 08:42:13 GMT</lastBuildDate>
+    <item>
+      <title>9月3日｜Codex生成｜AI 开始接管电脑跑腿，写作也从提示词变成常驻系统</title>
+      <description>① Claude 后台电脑操作进了 Claude Cowork 和 Claude Code，computer use 从演示往并行跑腿走，适合那些“网页有入口、API 不完整、步骤固定”的烦人流程。② Every 写手 Katie Parrott 讲了一条更值钱的 AI 路线：把每月 20 美元的 ChatGPT 职业教练升级成 Codex 常驻项目，塞进岗位档案、validation、evidence 和工作流，再把名家方法论做成 Compound Writing 审稿 skill。③ Madhu Guru 和 Josh Woodward 连成一条线：别再把“选模型”丢给用户，先把 eval、模型路由和地基文档补齐。另有 Thariq（effort 切换不废缓存即将上 Claude Code）、Boris Cherny（Claude Tag 整合 Slack 与表格做领导层 deck）、Zara Zhang（录逐字稿是为了喂 agent）、Aditya Agarwal（开源模型与一年后能力判断）、Thibault Sottiaux（ChatGPT 桌面应用成主浏览器）等信号。</description>
+      <itunes:summary>① Claude 后台电脑操作进了 Claude Cowork 和 Claude Code，computer use 从演示往并行跑腿走，适合那些“网页有入口、API 不完整、步骤固定”的烦人流程。② Every 写手 Katie Parrott 讲了一条更值钱的 AI 路线：把每月 20 美元的 ChatGPT 职业教练升级成 Codex 常驻项目，塞进岗位档案、validation、evidence 和工作流，再把名家方法论做成 Compound Writing 审稿 skill。③ Madhu Guru 和 Josh Woodward 连成一条线：别再把“选模型”丢给用户，先把 eval、模型路由和地基文档补齐。另有 Thariq（effort 切换不废缓存即将上 Claude Code）、Boris Cherny（Claude Tag 整合 Slack 与表格做领导层 deck）、Zara Zhang（录逐字稿是为了喂 agent）、Aditya Agarwal（开源模型与一年后能力判断）、Thibault Sottiaux（ChatGPT 桌面应用成主浏览器）等信号。</itunes:summary>
+      <pubDate>Thu, 03 Sep 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-09-03-codex</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-09-03-codex/2026-09-03-codex.mp3" length="12924437" type="audio/mpeg"/>
+      <itunes:duration>13:27</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>9月3日 Claude 后台电脑操作上线：可以边干别的边让它点鼠标；Every 写手把职业教练做成 Codex 常驻项目、开源 Compound Writing 写作插件</title>
       <description>今天一条清楚的暗线：AI 正在离开聊天框。① Anthropic 官方头条是"后台电脑操作"——Claude 现在能在 Cowork 和 Claude Code 里后台点鼠标、敲键盘、开应用，你同时干别的（Pro/Max 的 macOS beta）；Boris Cherny：后台电脑操作被低估了。评估：computer use 从演示级往"日常后台并行跑"挪了一步，适合那些"有网页、没 API、又很烦"的流程。② 播客 AI &amp; I（Every）——专职撰稿人 Katie Parrott 讲两年多的 AI 写作演进：从每月 20 美元的 ChatGPT 职业教练，进化成跑在 Codex 里的常驻项目（帮她排优先级、维护看板、订三年没约上的家庭医生、报保险）；她开源的 Compound Writing 插件是直接 fork 同事 Kieran Klassen 的 Compound Engineering 改的，把冯内古特、希区柯克、Sorkin 的方法论做成可调用的"审稿 skill"；她的比方是"这插件是个健身房"。可搬走的三点：地基文档先行、让常驻项目承接你的决策记忆、把别人的方法论蒸馏成审稿视角。③ Madhu Guru：每个 AI 产品都该把"选模型"从用户面前抹掉，给了三个前提（懂模型前沿、有覆盖工作流的 eval、AI 原生团队）；同日 Josh Woodward 发 Gemini 3.8 Flash"质量好价格好"、推向 Gemini App——一个说别让用户选，一个把不用选的那档往前推。另有 Thariq（effort 切换不废缓存已上 API、一两天内上 Claude Code）、Peter Yang（Fable 额度告罄、职级名称通胀观察）、Aditya Agarwal（用开源模型保数据隐私）、Zara Zhang（录逐字稿是为了喂 agent）、Aaron Levie（Muse 模型更新、能力逼近逃逸速度）、Amjad Masad（Replit 伦敦办公室活动）。</description>
