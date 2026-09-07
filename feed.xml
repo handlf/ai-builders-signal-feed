@@ -23,7 +23,7 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Mon, 07 Sep 2026 08:42:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 16:14:52 GMT</lastBuildDate>
     <item>
       <title>9月7日｜Codex生成｜合法权限也会失控：agent数据地图、非人身份与注意力预算</title>
       <description>今天的主线是 agent 获得真实权限之后，治理必须从单一授权扩展到数据地图、非人身份、异常监控、恢复能力与注意力预算。① No Priors 历史重推对谈 Eon：企业最不可替代的是多年数据，但数据散落、敏感且难以激活；agent 可能拿着合法权限以机器速度误删数据，必须同时保留映射分类、行为检测和细粒度恢复。② Aaron Levie 判断互联网尚未准备好迎接个人 agent 大规模执行任务，产品要补齐授权证明、任务契约、结果凭证与撤销能力。③ Zara Zhang 提醒 agent 会加剧注意力缩短，建议把输出分为现在决定、批量决定和仅记录，并用打断次数与有效确认率衡量价值。面向 AI Agent 与自媒体实践：先补数据与恢复控制面，再扩大自动化权限。</description>
@@ -32,6 +32,16 @@
       <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-09-07-codex</guid>
       <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-09-07-codex/2026-09-07-codex.mp3" length="10479375" type="audio/mpeg"/>
       <itunes:duration>10:54</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>9月7日 Eon 创始人：agent 带着合法权限也能删你的表，数据栈还没准备好</title>
+      <description>① No Priors 对谈数据基础设施公司 Eon 两位创始人（上一家 CloudEndure 卖给 AWS）：数据成真正的护城河，Google 花一千万美元买破产 Spirit 航空的数据拿去训模型；安全叙事变了——过去威胁来自人（勒索软件），现在一样的威胁来自有合法权限的 agent，一张表突然被删，检测手段类似但速度极端，得假设已被攻破；非人身份 NHI 成头号问题，agent 调 agent 追不清责任链；旧数据栈（ETL、Fivetran、dbt）太窄，扛不住 agent 生成的数据洪水，要被重写。这期给 7.5 分。② Box CEO Aaron Levie：互联网几乎完全没为『人人都有私人 agent 到处跑腿』的世界做准备，登录、定价、风控全是按屏幕后是一个人设计的，要重做——和播客互相印证，6 分。③ Peter Yang、Nan Yu、Zara Zhang、Nikunj Kothari 今天都是碎发言，一句带过。可执行：盘清你系统里 agent 能不可逆改数据的权限点，先把非人身份日志做出来。</description>
+      <itunes:summary>① No Priors 对谈数据基础设施公司 Eon 两位创始人（上一家 CloudEndure 卖给 AWS）：数据成真正的护城河，Google 花一千万美元买破产 Spirit 航空的数据拿去训模型；安全叙事变了——过去威胁来自人（勒索软件），现在一样的威胁来自有合法权限的 agent，一张表突然被删，检测手段类似但速度极端，得假设已被攻破；非人身份 NHI 成头号问题，agent 调 agent 追不清责任链；旧数据栈（ETL、Fivetran、dbt）太窄，扛不住 agent 生成的数据洪水，要被重写。这期给 7.5 分。② Box CEO Aaron Levie：互联网几乎完全没为『人人都有私人 agent 到处跑腿』的世界做准备，登录、定价、风控全是按屏幕后是一个人设计的，要重做——和播客互相印证，6 分。③ Peter Yang、Nan Yu、Zara Zhang、Nikunj Kothari 今天都是碎发言，一句带过。可执行：盘清你系统里 agent 能不可逆改数据的权限点，先把非人身份日志做出来。</itunes:summary>
+      <pubDate>Mon, 07 Sep 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-09-07</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-09-07/2026-09-07.mp3" length="13251699" type="audio/mpeg"/>
+      <itunes:duration>13:48</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
