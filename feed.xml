@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sat, 05 Sep 2026 08:44:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 08:42:30 GMT</lastBuildDate>
+    <item>
+      <title>9月7日｜Codex生成｜合法权限也会失控：agent数据地图、非人身份与注意力预算</title>
+      <description>今天的主线是 agent 获得真实权限之后，治理必须从单一授权扩展到数据地图、非人身份、异常监控、恢复能力与注意力预算。① No Priors 历史重推对谈 Eon：企业最不可替代的是多年数据，但数据散落、敏感且难以激活；agent 可能拿着合法权限以机器速度误删数据，必须同时保留映射分类、行为检测和细粒度恢复。② Aaron Levie 判断互联网尚未准备好迎接个人 agent 大规模执行任务，产品要补齐授权证明、任务契约、结果凭证与撤销能力。③ Zara Zhang 提醒 agent 会加剧注意力缩短，建议把输出分为现在决定、批量决定和仅记录，并用打断次数与有效确认率衡量价值。面向 AI Agent 与自媒体实践：先补数据与恢复控制面，再扩大自动化权限。</description>
+      <itunes:summary>今天的主线是 agent 获得真实权限之后，治理必须从单一授权扩展到数据地图、非人身份、异常监控、恢复能力与注意力预算。① No Priors 历史重推对谈 Eon：企业最不可替代的是多年数据，但数据散落、敏感且难以激活；agent 可能拿着合法权限以机器速度误删数据，必须同时保留映射分类、行为检测和细粒度恢复。② Aaron Levie 判断互联网尚未准备好迎接个人 agent 大规模执行任务，产品要补齐授权证明、任务契约、结果凭证与撤销能力。③ Zara Zhang 提醒 agent 会加剧注意力缩短，建议把输出分为现在决定、批量决定和仅记录，并用打断次数与有效确认率衡量价值。面向 AI Agent 与自媒体实践：先补数据与恢复控制面，再扩大自动化权限。</itunes:summary>
+      <pubDate>Mon, 07 Sep 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-09-07-codex</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-09-07-codex/2026-09-07-codex.mp3" length="10479375" type="audio/mpeg"/>
+      <itunes:duration>10:54</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>9月5日｜Codex生成｜agent控制面浮出水面：ARM讲编排，Claude浏览器用权限与红队数据换自治</title>
       <description>今天的共同主线不是模型又强了多少，而是 agent 进入真实工作后，编排与权限控制开始成为核心基础设施。① No Priors 对谈 ARM CEO Rene Haas：CPU 在加速器生成 token 之后负责 orchestration 与仲裁；ARM 约 80% 到 90% 工程师日常使用 AI，收益主要在验证、确认、调试与文档，而 RTL 和物理实现仍受专有数据限制。② Claude in Chrome 对所有付费计划全量开放并支持自动批准安全动作，Cowork 增加与个人浏览器隔离的内置浏览器；官方红队数据把内容探针、动作分类器和环境隔离组合成可测的浏览器自治边界。③ Astra 进入 Replit，Aside 展示把 OpenClaw 接 Slack 从约两小时压到三分钟，WebMCP 探索由网页直接暴露页面级 agent 工具。给 AI Agent 与自媒体实践的动作：按只读、可逆写入、高风险写入划分权限；补齐预算、日志、超时、回滚与人工接管；用配置时间、接管次数、恢复时间和返工率验收自动化。</description>
