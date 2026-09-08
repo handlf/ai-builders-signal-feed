@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Mon, 07 Sep 2026 16:14:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 08:21:05 GMT</lastBuildDate>
+    <item>
+      <title>9月8日 百亿对冲基金 CEO 的全员 AI 令：用 ChatGPT 不是作弊，录下每一场会</title>
+      <description>① AI and I 精选重发，对谈管理规模接近百亿美元的对冲基金 Walleye 的 CEO Will（普林斯顿工程、牛津数学博士）：他用一封全员邮件推 AI 转型，开头就是『我用 ChatGPT 写了这封邮件，你也该用，而且要理直气壮』，把它定成每个人工作的一部分；公司 75% 的人每周用、三分之一用 AI 编程工具，内部选股产品 Current 有 50 多家同行想当 beta 用户；他把所有会议录音喂给 LLM，管这套叫 the Borg；4 到 5 小时的备忘录靠喂进自己的旧材料压到 15 分钟，但强调 review 时看的是『人有没有想清楚』。这期给 8 分。② Replit 的 Amjad Masad：还没到 AGI，但已有的东西功能上和 AGI 无法区分，任何能表述成编程问题的问题都已被解决——6.5 分。③ Box 的 Aaron Levie：AI 就业预测在反向兑现，没替代工程师律师，反而长出 agent 操作员等新岗位；Vercel 的 Guillermo Rauch 把 review 和 QA 叫软件工程新瓶颈、把 skills 当成一种软件形态。可执行：给自己写一份 AI 使用政策，定清楚什么活默认用 AI、用了怎么验收。</description>
+      <itunes:summary>① AI and I 精选重发，对谈管理规模接近百亿美元的对冲基金 Walleye 的 CEO Will（普林斯顿工程、牛津数学博士）：他用一封全员邮件推 AI 转型，开头就是『我用 ChatGPT 写了这封邮件，你也该用，而且要理直气壮』，把它定成每个人工作的一部分；公司 75% 的人每周用、三分之一用 AI 编程工具，内部选股产品 Current 有 50 多家同行想当 beta 用户；他把所有会议录音喂给 LLM，管这套叫 the Borg；4 到 5 小时的备忘录靠喂进自己的旧材料压到 15 分钟，但强调 review 时看的是『人有没有想清楚』。这期给 8 分。② Replit 的 Amjad Masad：还没到 AGI，但已有的东西功能上和 AGI 无法区分，任何能表述成编程问题的问题都已被解决——6.5 分。③ Box 的 Aaron Levie：AI 就业预测在反向兑现，没替代工程师律师，反而长出 agent 操作员等新岗位；Vercel 的 Guillermo Rauch 把 review 和 QA 叫软件工程新瓶颈、把 skills 当成一种软件形态。可执行：给自己写一份 AI 使用政策，定清楚什么活默认用 AI、用了怎么验收。</itunes:summary>
+      <pubDate>Tue, 08 Sep 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-09-08</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-09-08/2026-09-08.mp3" length="20583957" type="audio/mpeg"/>
+      <itunes:duration>21:26</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>9月7日｜Codex生成｜合法权限也会失控：agent数据地图、非人身份与注意力预算</title>
       <description>今天的主线是 agent 获得真实权限之后，治理必须从单一授权扩展到数据地图、非人身份、异常监控、恢复能力与注意力预算。① No Priors 历史重推对谈 Eon：企业最不可替代的是多年数据，但数据散落、敏感且难以激活；agent 可能拿着合法权限以机器速度误删数据，必须同时保留映射分类、行为检测和细粒度恢复。② Aaron Levie 判断互联网尚未准备好迎接个人 agent 大规模执行任务，产品要补齐授权证明、任务契约、结果凭证与撤销能力。③ Zara Zhang 提醒 agent 会加剧注意力缩短，建议把输出分为现在决定、批量决定和仅记录，并用打断次数与有效确认率衡量价值。面向 AI Agent 与自媒体实践：先补数据与恢复控制面，再扩大自动化权限。</description>
