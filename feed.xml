@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Tue, 08 Sep 2026 08:21:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 08:44:48 GMT</lastBuildDate>
+    <item>
+      <title>9月8日｜Codex生成｜全员AI不是口号：默认使用、证据验收与会议知识库</title>
+      <description>今天的主线是：把 AI 变成组织默认值时，使用要求、验收责任与数据边界必须一起升级。① 管理规模接近百亿美元的对冲基金 Walleye 要求全员把 AI 纳入日常工作，约四分之三员工每周使用 ChatGPT 类工具、三分之一使用 AI 编程工具；内部产品 Current 已进入所有相关投资团队，但录会议、汇材料必须补齐同意、分级、访问控制、保留删除与来源定位。② Guillermo Rauch 把 review、测试与 QA 称为软件工程的新瓶颈；Peter Yang 报告 Astra 自动触发 skills 和遵循指令可能退化，提示换模型前应跑固定行为回归。③ Nikunj Kothari、Garry Tan 与 Aaron Levie共同指向一个变化：实现变便宜后，问题选择、具体客户与人工验收更稀缺。给 AI Agent 与自媒体实践的动作：写一页 AI 使用政策，建立 skills 回归集，让每次交付都带证据。</description>
+      <itunes:summary>今天的主线是：把 AI 变成组织默认值时，使用要求、验收责任与数据边界必须一起升级。① 管理规模接近百亿美元的对冲基金 Walleye 要求全员把 AI 纳入日常工作，约四分之三员工每周使用 ChatGPT 类工具、三分之一使用 AI 编程工具；内部产品 Current 已进入所有相关投资团队，但录会议、汇材料必须补齐同意、分级、访问控制、保留删除与来源定位。② Guillermo Rauch 把 review、测试与 QA 称为软件工程的新瓶颈；Peter Yang 报告 Astra 自动触发 skills 和遵循指令可能退化，提示换模型前应跑固定行为回归。③ Nikunj Kothari、Garry Tan 与 Aaron Levie共同指向一个变化：实现变便宜后，问题选择、具体客户与人工验收更稀缺。给 AI Agent 与自媒体实践的动作：写一页 AI 使用政策，建立 skills 回归集，让每次交付都带证据。</itunes:summary>
+      <pubDate>Tue, 08 Sep 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-09-08-codex</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-09-08-codex/2026-09-08-codex.mp3" length="13287225" type="audio/mpeg"/>
+      <itunes:duration>13:50</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>9月8日 百亿对冲基金 CEO 的全员 AI 令：用 ChatGPT 不是作弊，录下每一场会</title>
       <description>① AI and I 精选重发，对谈管理规模接近百亿美元的对冲基金 Walleye 的 CEO Will（普林斯顿工程、牛津数学博士）：他用一封全员邮件推 AI 转型，开头就是『我用 ChatGPT 写了这封邮件，你也该用，而且要理直气壮』，把它定成每个人工作的一部分；公司 75% 的人每周用、三分之一用 AI 编程工具，内部选股产品 Current 有 50 多家同行想当 beta 用户；他把所有会议录音喂给 LLM，管这套叫 the Borg；4 到 5 小时的备忘录靠喂进自己的旧材料压到 15 分钟，但强调 review 时看的是『人有没有想清楚』。这期给 8 分。② Replit 的 Amjad Masad：还没到 AGI，但已有的东西功能上和 AGI 无法区分，任何能表述成编程问题的问题都已被解决——6.5 分。③ Box 的 Aaron Levie：AI 就业预测在反向兑现，没替代工程师律师，反而长出 agent 操作员等新岗位；Vercel 的 Guillermo Rauch 把 review 和 QA 叫软件工程新瓶颈、把 skills 当成一种软件形态。可执行：给自己写一份 AI 使用政策，定清楚什么活默认用 AI、用了怎么验收。</description>
