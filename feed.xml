@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Fri, 11 Sep 2026 08:15:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 09:11:55 GMT</lastBuildDate>
+    <item>
+      <title>9月11日｜Codex生成｜让 agent 自我改进之前，先造好验证器</title>
+      <description>① Richard Socher 在 MAD Podcast 谈文献、测量、模拟与真实实验，8 分；把生成假设与批准结论分开。② Boris Cherny 的生产代码质量护栏，9 分；把一次真实失败变成验收检查。③ Madhu Guru 主张评估步骤，9 分；在同等质量下比较调用、恢复和人工接管。④ Aaron Levie 的企业走访与模型容量公告提醒：身份、流程和可用性决定交付。覆盖 18 位 builder、35 条推文、1 期播客；今天给一个现有自动任务补上可验证的成功标准。</description>
+      <itunes:summary>① Richard Socher 在 MAD Podcast 谈文献、测量、模拟与真实实验，8 分；把生成假设与批准结论分开。② Boris Cherny 的生产代码质量护栏，9 分；把一次真实失败变成验收检查。③ Madhu Guru 主张评估步骤，9 分；在同等质量下比较调用、恢复和人工接管。④ Aaron Levie 的企业走访与模型容量公告提醒：身份、流程和可用性决定交付。覆盖 18 位 builder、35 条推文、1 期播客；今天给一个现有自动任务补上可验证的成功标准。</itunes:summary>
+      <pubDate>Fri, 11 Sep 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-09-11-codex</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-09-11-codex/2026-09-11-codex.mp3" length="13590132" type="audio/mpeg"/>
+      <itunes:duration>14:09</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>9月11日 Richard Socher讲AI怎样拼起破碎的科学知识，Astra扛不住了、Boris Cherny教你怎么把关AI代码质量</title>
       <description>① 深读一期播客：Richard Socher刚为新公司Recursive融了6.5亿美元，他在MAD Podcast上讲新书《The Eureka Machine》——科学进步变慢是因为知识裂成了迷宫，AI能把碎片重新编织回整体，next-token prediction对蛋白质序列和对英语句子是同一套机制，幻觉是特性不是bug，四大支柱框架讲透了他的打法，这条给9分。② OpenAI的Astra扛不住需求，暂停了200美元Pro档新订阅，Peter Yang和Peter Steinberger从两个角度印证同一件事——爆红容易，基建跟上难，7分。③ Claude Code核心团队的Boris Cherny讲清楚了AI写的生产代码该怎么把关：不是换模型，是把lint、测试、fuzzer、自动评审这套护栏搭起来，7分。④ Box的Aaron Levie跑了几十场企业访谈，总结出网络安全焦虑、模型混战、agent身份两难、没人会等供应商修好东西这几条一线观察，7分。可执行：检查自己的AI编码项目有没有落地至少一项护栏清单，把effort调到high试一次。</description>
