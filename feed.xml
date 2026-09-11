@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Thu, 10 Sep 2026 08:36:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 08:15:06 GMT</lastBuildDate>
+    <item>
+      <title>9月11日 Richard Socher讲AI怎样拼起破碎的科学知识，Astra扛不住了、Boris Cherny教你怎么把关AI代码质量</title>
+      <description>① 深读一期播客：Richard Socher刚为新公司Recursive融了6.5亿美元，他在MAD Podcast上讲新书《The Eureka Machine》——科学进步变慢是因为知识裂成了迷宫，AI能把碎片重新编织回整体，next-token prediction对蛋白质序列和对英语句子是同一套机制，幻觉是特性不是bug，四大支柱框架讲透了他的打法，这条给9分。② OpenAI的Astra扛不住需求，暂停了200美元Pro档新订阅，Peter Yang和Peter Steinberger从两个角度印证同一件事——爆红容易，基建跟上难，7分。③ Claude Code核心团队的Boris Cherny讲清楚了AI写的生产代码该怎么把关：不是换模型，是把lint、测试、fuzzer、自动评审这套护栏搭起来，7分。④ Box的Aaron Levie跑了几十场企业访谈，总结出网络安全焦虑、模型混战、agent身份两难、没人会等供应商修好东西这几条一线观察，7分。可执行：检查自己的AI编码项目有没有落地至少一项护栏清单，把effort调到high试一次。</description>
+      <itunes:summary>① 深读一期播客：Richard Socher刚为新公司Recursive融了6.5亿美元，他在MAD Podcast上讲新书《The Eureka Machine》——科学进步变慢是因为知识裂成了迷宫，AI能把碎片重新编织回整体，next-token prediction对蛋白质序列和对英语句子是同一套机制，幻觉是特性不是bug，四大支柱框架讲透了他的打法，这条给9分。② OpenAI的Astra扛不住需求，暂停了200美元Pro档新订阅，Peter Yang和Peter Steinberger从两个角度印证同一件事——爆红容易，基建跟上难，7分。③ Claude Code核心团队的Boris Cherny讲清楚了AI写的生产代码该怎么把关：不是换模型，是把lint、测试、fuzzer、自动评审这套护栏搭起来，7分。④ Box的Aaron Levie跑了几十场企业访谈，总结出网络安全焦虑、模型混战、agent身份两难、没人会等供应商修好东西这几条一线观察，7分。可执行：检查自己的AI编码项目有没有落地至少一项护栏清单，把effort调到high试一次。</itunes:summary>
+      <pubDate>Fri, 11 Sep 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-09-11</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-09-11/2026-09-11.mp3" length="15221540" type="audio/mpeg"/>
+      <itunes:duration>15:51</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>9月10日｜Codex生成｜模型之外：采购、流程与可靠性交付</title>
       <description>① Claude Marketplace 让企业消费承诺连接第三方产品，8 分；先核实上架条件与客户采购路径。② Aaron Levie 与 Dan Shipper 提醒扩散和新增工作影响收益，8 分；固定质量口径计时三次。③ 从额度故障、移动端提问到 OpenClaw 统一入口，检验 agent 的失败恢复和交付证据。④ 覆盖 14 位 builder、28 条推文，弱信号不猜上下文；今天只选一次采购访谈、流程计时或假数据恢复演练。</description>
