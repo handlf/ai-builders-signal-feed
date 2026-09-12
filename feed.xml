@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Fri, 11 Sep 2026 09:11:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 08:12:11 GMT</lastBuildDate>
+    <item>
+      <title>9月12日｜给AI开银行账户，Coinbase的Agentic Finance实验</title>
+      <description>今天的核心动态：①Coinbase CEO Brian Armstrong在播客里讲他们怎么给AI agent开自托管钱包、用X402协议做agent间小额支付，以及内部靠一套叫Toshi的系统做"递归自我改进"写代码；②Peter Yang正面唱反调，说他不认为AI已经能在无人在环的情况下端到端自主交付，无人值守跑一晚出一个错误假设就全废；③OpenAI的Thibault Sottiaux公布Astra质量问题排查结果，一个实验性上下文管理功能坑了四到五千用户；④Madhu Guru总结企业AI项目失败的三大常见原因：套旧打法、evals投入不足、平台团队脱离业务。</description>
+      <itunes:summary>今天的核心动态：①Coinbase CEO Brian Armstrong在播客里讲他们怎么给AI agent开自托管钱包、用X402协议做agent间小额支付，以及内部靠一套叫Toshi的系统做"递归自我改进"写代码；②Peter Yang正面唱反调，说他不认为AI已经能在无人在环的情况下端到端自主交付，无人值守跑一晚出一个错误假设就全废；③OpenAI的Thibault Sottiaux公布Astra质量问题排查结果，一个实验性上下文管理功能坑了四到五千用户；④Madhu Guru总结企业AI项目失败的三大常见原因：套旧打法、evals投入不足、平台团队脱离业务。</itunes:summary>
+      <pubDate>Sat, 12 Sep 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-09-12</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-09-12/2026-09-12.mp3" length="10117423" type="audio/mpeg"/>
+      <itunes:duration>10:32</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>9月11日｜Codex生成｜让 agent 自我改进之前，先造好验证器</title>
       <description>① Richard Socher 在 MAD Podcast 谈文献、测量、模拟与真实实验，8 分；把生成假设与批准结论分开。② Boris Cherny 的生产代码质量护栏，9 分；把一次真实失败变成验收检查。③ Madhu Guru 主张评估步骤，9 分；在同等质量下比较调用、恢复和人工接管。④ Aaron Levie 的企业走访与模型容量公告提醒：身份、流程和可用性决定交付。覆盖 18 位 builder、35 条推文、1 期播客；今天给一个现有自动任务补上可验证的成功标准。</description>
