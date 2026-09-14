@@ -23,7 +23,7 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Mon, 14 Sep 2026 00:21:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 11:48:44 GMT</lastBuildDate>
     <item>
       <title>9月14日｜Codex生成｜自动化之后，谁来验证 agent</title>
       <description>① Buck Shlegeris历史访谈：评测得分不能替代独立证据，9分。② Sam Altman等关于独立评估的承诺与分歧，8分；区分表态和落地。③ 多模型编排按每份合格成品成本验收，8分。④ 两篇8月26日浏览器博客重读，9分；隔离和动作检查不能互相替代。本期基于9月13日上游快照，覆盖16位builder、27条动态、1期历史播客和2篇历史博客。今天用缺失来源、无关指令、正常样本测试一条自动流程。</description>
@@ -32,6 +32,16 @@
       <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-09-14-codex</guid>
       <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-09-14-codex/2026-09-14-codex.mp3" length="11929694" type="audio/mpeg"/>
       <itunes:duration>12:25</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>9月14日｜Astra认错不执行？Altman详解pacing the frontier</title>
+      <description>今天的核心动态：①Zara Zhang实测发现Astra被指出错误后会嘴上认账，但不会主动去执行修正，还得再催一遍——一个可以自己动手复现的具体产品毛病；②Sam Altman连发两条长文详解"pacing the frontier"，训练前先写安全论证，同时划出两条红线：不能失去对AI的控制权，也不能让权力过度集中，但目前仍是官方承诺、尚无外部核查机制；③播客里Arm CEO Rene Haas从芯片供应链角度指出，数据中心和晶圆产能这几道硬闸门会让行业被动限速三到五年，这和安全治理是两件不该混为一谈的事；④Peter Yang转发数据图，84%的人从没用过AI，但低采用率不能直接证明agent市场空白。</description>
+      <itunes:summary>今天的核心动态：①Zara Zhang实测发现Astra被指出错误后会嘴上认账，但不会主动去执行修正，还得再催一遍——一个可以自己动手复现的具体产品毛病；②Sam Altman连发两条长文详解"pacing the frontier"，训练前先写安全论证，同时划出两条红线：不能失去对AI的控制权，也不能让权力过度集中，但目前仍是官方承诺、尚无外部核查机制；③播客里Arm CEO Rene Haas从芯片供应链角度指出，数据中心和晶圆产能这几道硬闸门会让行业被动限速三到五年，这和安全治理是两件不该混为一谈的事；④Peter Yang转发数据图，84%的人从没用过AI，但低采用率不能直接证明agent市场空白。</itunes:summary>
+      <pubDate>Mon, 14 Sep 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-09-14</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-09-14/2026-09-14.mp3" length="10150859" type="audio/mpeg"/>
+      <itunes:duration>10:34</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
