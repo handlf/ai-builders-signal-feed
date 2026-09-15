@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Tue, 15 Sep 2026 08:12:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 12:59:42 GMT</lastBuildDate>
+    <item>
+      <title>9月15日｜Codex生成｜让写作反馈进入下一期，而不是停在聊天里</title>
+      <description>① Every 作者 Katie Parrott 的 Compound Writing：背景资料、结构编辑与句子编辑分开，9分；用一条真实纠错建立下一期验收标准。② Guillermo Rauch 强调验证器与技能，9分；格式通过不等于内容正确。③ Aaron Levie 谈后台任务和权限治理，8分；把授权、凭据和交付证据分开记录。④ 覆盖12位 builder、23条动态、1期播客及4篇博客；明确9月2日播客与4月、6月历史文章，使用同源素材、盲评和人工修改时间比较Claude与Codex。</description>
+      <itunes:summary>① Every 作者 Katie Parrott 的 Compound Writing：背景资料、结构编辑与句子编辑分开，9分；用一条真实纠错建立下一期验收标准。② Guillermo Rauch 强调验证器与技能，9分；格式通过不等于内容正确。③ Aaron Levie 谈后台任务和权限治理，8分；把授权、凭据和交付证据分开记录。④ 覆盖12位 builder、23条动态、1期播客及4篇博客；明确9月2日播客与4月、6月历史文章，使用同源素材、盲评和人工修改时间比较Claude与Codex。</itunes:summary>
+      <pubDate>Tue, 15 Sep 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-09-15-codex</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-09-15-codex/2026-09-15-codex.mp3" length="12151630" type="audio/mpeg"/>
+      <itunes:duration>12:39</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>9月15日｜Claude Code自曝变笨真相，Aaron Levie预判agent工作量涨100倍</title>
       <description>今天的核心动态：①Anthropic罕见自曝postmortem，过去一个月Claude Code被吐槽变笨，查出是推理强度调低、缓存bug清空思考历史、system prompt改动三个问题叠加所致，已修复；②Box CEO Aaron Levie预判agent任务量会暴涨100倍，并点出企业数据保护将成本世纪最复杂的治理难题之一，Anthropic同期发博客讲Claude的沙箱容器化方案正是这个问题的工程答案；③Claude Code上线artifact功能，能把一次会话的工作直接打包成随进度自动刷新的可分享网页；④播客里Every专栏作者Katie Parrott分享她如何把ChatGPT职业教练进化成活在Codex里的完整系统，又把同一套方法fork成Compound Writing写作插件，是今天最具体可复制的一条。</description>
