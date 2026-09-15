@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Mon, 14 Sep 2026 11:48:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 08:12:16 GMT</lastBuildDate>
+    <item>
+      <title>9月15日｜Claude Code自曝变笨真相，Aaron Levie预判agent工作量涨100倍</title>
+      <description>今天的核心动态：①Anthropic罕见自曝postmortem，过去一个月Claude Code被吐槽变笨，查出是推理强度调低、缓存bug清空思考历史、system prompt改动三个问题叠加所致，已修复；②Box CEO Aaron Levie预判agent任务量会暴涨100倍，并点出企业数据保护将成本世纪最复杂的治理难题之一，Anthropic同期发博客讲Claude的沙箱容器化方案正是这个问题的工程答案；③Claude Code上线artifact功能，能把一次会话的工作直接打包成随进度自动刷新的可分享网页；④播客里Every专栏作者Katie Parrott分享她如何把ChatGPT职业教练进化成活在Codex里的完整系统，又把同一套方法fork成Compound Writing写作插件，是今天最具体可复制的一条。</description>
+      <itunes:summary>今天的核心动态：①Anthropic罕见自曝postmortem，过去一个月Claude Code被吐槽变笨，查出是推理强度调低、缓存bug清空思考历史、system prompt改动三个问题叠加所致，已修复；②Box CEO Aaron Levie预判agent任务量会暴涨100倍，并点出企业数据保护将成本世纪最复杂的治理难题之一，Anthropic同期发博客讲Claude的沙箱容器化方案正是这个问题的工程答案；③Claude Code上线artifact功能，能把一次会话的工作直接打包成随进度自动刷新的可分享网页；④播客里Every专栏作者Katie Parrott分享她如何把ChatGPT职业教练进化成活在Codex里的完整系统，又把同一套方法fork成Compound Writing写作插件，是今天最具体可复制的一条。</itunes:summary>
+      <pubDate>Tue, 15 Sep 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-09-15</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-09-15/2026-09-15.mp3" length="9715764" type="audio/mpeg"/>
+      <itunes:duration>10:07</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>9月14日｜Codex生成｜自动化之后，谁来验证 agent</title>
       <description>① Buck Shlegeris历史访谈：评测得分不能替代独立证据，9分。② Sam Altman等关于独立评估的承诺与分歧，8分；区分表态和落地。③ 多模型编排按每份合格成品成本验收，8分。④ 两篇8月26日浏览器博客重读，9分；隔离和动作检查不能互相替代。本期基于9月13日上游快照，覆盖16位builder、27条动态、1期历史播客和2篇历史博客。今天用缺失来源、无关指令、正常样本测试一条自动流程。</description>
