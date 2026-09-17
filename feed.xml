@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Wed, 16 Sep 2026 08:10:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 13:07:16 GMT</lastBuildDate>
+    <item>
+      <title>9.17｜Claude把Cowork和聊天合一，AI自己判断该干什么</title>
+      <description>①Anthropic把Cowork和chat合并成一个Claude，同步上线Claude Docs和Claude Slides，Design也整合进对话，模型自己判断该给快速回答还是启动深度工作，Boris Cherny、Cat Wu、Alex Albert同天证实体验更顺。②Thariq说该直接给模型它真正需要形状的工具，比如数据存取该给直连API而不是绕着让它用文件系统，命令行已经不是唯一答案，涉及代码执行才真的需要沙盒。③Peter Yang靠8个Claude技能包生产整档播客，从调研嘉宾到剪辑挑金句再到打包成品，模型再强技能包依然不可替代，因为它固化了他自己的判断标准。</description>
+      <itunes:summary>①Anthropic把Cowork和chat合并成一个Claude，同步上线Claude Docs和Claude Slides，Design也整合进对话，模型自己判断该给快速回答还是启动深度工作，Boris Cherny、Cat Wu、Alex Albert同天证实体验更顺。②Thariq说该直接给模型它真正需要形状的工具，比如数据存取该给直连API而不是绕着让它用文件系统，命令行已经不是唯一答案，涉及代码执行才真的需要沙盒。③Peter Yang靠8个Claude技能包生产整档播客，从调研嘉宾到剪辑挑金句再到打包成品，模型再强技能包依然不可替代，因为它固化了他自己的判断标准。</itunes:summary>
+      <pubDate>Thu, 17 Sep 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-09-17</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-09-17/2026-09-17.mp3" length="10423369" type="audio/mpeg"/>
+      <itunes:duration>10:51</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>9月16日｜Box CEO讲透应用层机会：模型越强，这座桥越值钱</title>
       <description>今天的核心动态：①Box CEO Aaron Levie在Training Data播客里系统拆解“应用层机会”——模型能力和企业工作流之间的鸿沟才是今天最值钱的生意，他给出重构流程、聚合上下文、人机协作、变革管理、领域评测、数据治理这六件具体要做的事；②几乎同一天，Claude自己交了作业，Salesforce in Claude上线公测配37个销售skill，Claude for Small Business新增43个工作流和27个新集成，安装量破90万；③Every创始人Dan Shipper实测一个只产出概率不产出文字的模型，当裁判比顶级模型快25倍、便宜600倍，Anthropic的Thariq也分享了MCP优于CLI做集成的架构判断，都是这座“桥”具体怎么搭的技术注脚。</description>
