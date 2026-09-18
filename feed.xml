@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Thu, 17 Sep 2026 13:07:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 08:42:20 GMT</lastBuildDate>
+    <item>
+      <title>9月18日AI观察｜Claude上线Projects，agent开始自己管调度</title>
+      <description>今天关键 AI 动态、评估与可落地建议：① Boris Cherny、Cat Wu、Thariq 和官方账号同天证实 Claude 新功能 Projects——一个主 agent 管理项目记忆、自动把想法拆成线程，用户不用再自己管一堆会话；② Nikunj Kothari 分享自己用一个「每天醒来一次」的 Claude agent 自主运营儿童健康零食网站 nosugarforkids，零反向链接已经涨到日均六千曝光；③ Vercel 的 Guillermo Rauch 说明年软件产量可能超过计算机史上总和，部署已经压缩到一秒，方便 agent 修 bug 后自己立刻上线。</description>
+      <itunes:summary>今天关键 AI 动态、评估与可落地建议：① Boris Cherny、Cat Wu、Thariq 和官方账号同天证实 Claude 新功能 Projects——一个主 agent 管理项目记忆、自动把想法拆成线程，用户不用再自己管一堆会话；② Nikunj Kothari 分享自己用一个「每天醒来一次」的 Claude agent 自主运营儿童健康零食网站 nosugarforkids，零反向链接已经涨到日均六千曝光；③ Vercel 的 Guillermo Rauch 说明年软件产量可能超过计算机史上总和，部署已经压缩到一秒，方便 agent 修 bug 后自己立刻上线。</itunes:summary>
+      <pubDate>Fri, 18 Sep 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-09-18</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-09-18/2026-09-18.mp3" length="9885455" type="audio/mpeg"/>
+      <itunes:duration>10:17</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>9.17｜Claude把Cowork和聊天合一，AI自己判断该干什么</title>
       <description>①Anthropic把Cowork和chat合并成一个Claude，同步上线Claude Docs和Claude Slides，Design也整合进对话，模型自己判断该给快速回答还是启动深度工作，Boris Cherny、Cat Wu、Alex Albert同天证实体验更顺。②Thariq说该直接给模型它真正需要形状的工具，比如数据存取该给直连API而不是绕着让它用文件系统，命令行已经不是唯一答案，涉及代码执行才真的需要沙盒。③Peter Yang靠8个Claude技能包生产整档播客，从调研嘉宾到剪辑挑金句再到打包成品，模型再强技能包依然不可替代，因为它固化了他自己的判断标准。</description>
