@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Fri, 18 Sep 2026 08:42:20 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 16:10:18 GMT</lastBuildDate>
+    <item>
+      <title>9月19日AI观察｜Jev让agent瞬间判断几乎零成本</title>
+      <description>今天关键 AI 动态、评估与可落地建议：① No Priors 播客里，Inception CEO Stefano Ermon 押注扩散模型会在推理效率上打败自回归架构，语音agent客户已切换生产环境；② Guillermo Rauch、Aaron Levie、Nikunj Kothari 三个独立账号同天证实新产品 Jev——周末在 Vercel AI Gateway 免费开放，专门给 agent 做分类/路由/判断这类瞬间任务，几乎零成本；③ Peter Yang 分享 Meta 的个人 agent Muse 帮他打电话谈判，一年省下 800 多美元账单。</description>
+      <itunes:summary>今天关键 AI 动态、评估与可落地建议：① No Priors 播客里，Inception CEO Stefano Ermon 押注扩散模型会在推理效率上打败自回归架构，语音agent客户已切换生产环境；② Guillermo Rauch、Aaron Levie、Nikunj Kothari 三个独立账号同天证实新产品 Jev——周末在 Vercel AI Gateway 免费开放，专门给 agent 做分类/路由/判断这类瞬间任务，几乎零成本；③ Peter Yang 分享 Meta 的个人 agent Muse 帮他打电话谈判，一年省下 800 多美元账单。</itunes:summary>
+      <pubDate>Sat, 19 Sep 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-09-19</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-09-19/2026-09-19.mp3" length="11009766" type="audio/mpeg"/>
+      <itunes:duration>11:27</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>9月18日AI观察｜Claude上线Projects，agent开始自己管调度</title>
       <description>今天关键 AI 动态、评估与可落地建议：① Boris Cherny、Cat Wu、Thariq 和官方账号同天证实 Claude 新功能 Projects——一个主 agent 管理项目记忆、自动把想法拆成线程，用户不用再自己管一堆会话；② Nikunj Kothari 分享自己用一个「每天醒来一次」的 Claude agent 自主运营儿童健康零食网站 nosugarforkids，零反向链接已经涨到日均六千曝光；③ Vercel 的 Guillermo Rauch 说明年软件产量可能超过计算机史上总和，部署已经压缩到一秒，方便 agent 修 bug 后自己立刻上线。</description>
