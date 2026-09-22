@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Mon, 21 Sep 2026 08:10:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 16:28:32 GMT</lastBuildDate>
+    <item>
+      <title>9月23日｜广告要被agent绕过了，capy.ai被曝跑赢Codex和Claude Code</title>
+      <description>今天几条值得记的动态：①Peter Yang和Aaron Levie判断，agent正在替代人类成为广告的受众和交易的中间人——ChatGPT Finances已经能主动帮用户揪出多扣的账单、跟客服交涉追回退款；②YC的Garry Tan爆料，一个叫capy.ai的agentic coding工具，完成大型PR的速度比Codex和Claude Code自己跑还快；③Claude in Chrome正式全量开放，Claude可以在浏览器里自主点击、填表、跨页导航，官方也公布了对抗提示词注入的最新安全数据。</description>
+      <itunes:summary>今天几条值得记的动态：①Peter Yang和Aaron Levie判断，agent正在替代人类成为广告的受众和交易的中间人——ChatGPT Finances已经能主动帮用户揪出多扣的账单、跟客服交涉追回退款；②YC的Garry Tan爆料，一个叫capy.ai的agentic coding工具，完成大型PR的速度比Codex和Claude Code自己跑还快；③Claude in Chrome正式全量开放，Claude可以在浏览器里自主点击、填表、跨页导航，官方也公布了对抗提示词注入的最新安全数据。</itunes:summary>
+      <pubDate>Wed, 23 Sep 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-09-23</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-09-23/2026-09-23.mp3" length="12050484" type="audio/mpeg"/>
+      <itunes:duration>12:33</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>9月21日｜Coinbase CEO讲透：AI agent怎么自己开银行账户</title>
       <description>今天聊三件事：①Coinbase CEO布莱恩阿姆斯特朗在No Priors播客里讲，他们观察到七成六的agent交易金额低于三毛钱，传统信用卡手续费根本不划算，于是给AI agent做了自托管钱包和X402支付协议，谷歌、Cloudflare、AWS都已加入，这条如果你在做agent工具或按调用计费的产品，值得认真看看。②同一期播客里，Coinbase内部给每个代码仓库维护一份记录事故、合规约束、PR历史的资料，AI改代码前先读它，人review的反馈再写回去，一次通过率持续在涨——这套「喂上下文」的工程化做法，用Claude Code或Codex的开发者都能直接借鉴。③Peter Yang拆解了个人AI助理的格局，判断Meta的Muse最可能领跑，谷歌的Spark被埋没得可惜，而「多人协作型AI」是没人做好的下一个机会点。今天没有个人体验分享，纯干货。</description>
