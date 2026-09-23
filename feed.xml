@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Tue, 22 Sep 2026 16:28:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 16:01:10 GMT</lastBuildDate>
+    <item>
+      <title>9月23日（下）｜Opus 5.5与GPT-6同日登场，前沿模型价格集体下探</title>
+      <description>当日补发的第二期（上午那期用的是9月22日素材）。今天的核心动态与可落地判断：①Claude Opus 5.5 上线，直接成为 Pro/Max/Team 档下 Claude Code 与 Claude 应用的默认模型，默认 effort medium「智能相当 Fable 5.1 但更快」，速率限制多给 25%；Boris Cherny 的 HAProxy 移植对比里它比 Fable 5.1 快 2.5 小时、成本低 51%。②OpenAI 同日发布 GPT-6 Sol 与 Luna，API 价格永久下调 50%，并给订阅用户补发一次额度重置——两家同日降价，Aaron Levie 称之为「agent 版的杰文斯悖论」。③Box 的四个行业实测：准确率提升 15%~65%，token 少 63%、速度快 30%，而真正的亮点是它开始说明「我为什么这么算」。④Boris Cherny 用 Opus 5.5 配 Lean 做形式化验证，几个 prompt 换来 16 个修复并发 bug 的 PR，原话是「这两种语言我都不熟，但 Claude 两个都很在行」。⑤Vercel 的 Next.js 横评三家并列 97%，Grok 4.7 拿 94% 但便宜 2-7 倍。收尾记下 Thariq 的提醒：能力变便宜之后，正确用法不是把功能产量翻十倍，而是把省下的时间花在搞懂用户上。</description>
+      <itunes:summary>当日补发的第二期（上午那期用的是9月22日素材）。今天的核心动态与可落地判断：①Claude Opus 5.5 上线，直接成为 Pro/Max/Team 档下 Claude Code 与 Claude 应用的默认模型，默认 effort medium「智能相当 Fable 5.1 但更快」，速率限制多给 25%；Boris Cherny 的 HAProxy 移植对比里它比 Fable 5.1 快 2.5 小时、成本低 51%。②OpenAI 同日发布 GPT-6 Sol 与 Luna，API 价格永久下调 50%，并给订阅用户补发一次额度重置——两家同日降价，Aaron Levie 称之为「agent 版的杰文斯悖论」。③Box 的四个行业实测：准确率提升 15%~65%，token 少 63%、速度快 30%，而真正的亮点是它开始说明「我为什么这么算」。④Boris Cherny 用 Opus 5.5 配 Lean 做形式化验证，几个 prompt 换来 16 个修复并发 bug 的 PR，原话是「这两种语言我都不熟，但 Claude 两个都很在行」。⑤Vercel 的 Next.js 横评三家并列 97%，Grok 4.7 拿 94% 但便宜 2-7 倍。收尾记下 Thariq 的提醒：能力变便宜之后，正确用法不是把功能产量翻十倍，而是把省下的时间花在搞懂用户上。</itunes:summary>
+      <pubDate>Wed, 23 Sep 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-09-23-late</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-09-23-late/2026-09-23-late.mp3" length="20421788" type="audio/mpeg"/>
+      <itunes:duration>21:16</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>9月23日｜广告要被agent绕过了，capy.ai被曝跑赢Codex和Claude Code</title>
       <description>今天几条值得记的动态：①Peter Yang和Aaron Levie判断，agent正在替代人类成为广告的受众和交易的中间人——ChatGPT Finances已经能主动帮用户揪出多扣的账单、跟客服交涉追回退款；②YC的Garry Tan爆料，一个叫capy.ai的agentic coding工具，完成大型PR的速度比Codex和Claude Code自己跑还快；③Claude in Chrome正式全量开放，Claude可以在浏览器里自主点击、填表、跨页导航，官方也公布了对抗提示词注入的最新安全数据。</description>
