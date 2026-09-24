@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Wed, 23 Sep 2026 16:01:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 08:06:14 GMT</lastBuildDate>
+    <item>
+      <title>9月24日｜Opus 5.5 口碑扩散，Vercel 给 agent 装外置硬盘，Claude 应用市场上线</title>
+      <description>今天几条值得记的动态：①Opus 5.5 一线反馈集中出现——Swyx 把 AINews 日报默认模型换成它，Guillermo Rauch 用它优化终端启动速度，Peter Yang 则说现在是一家有最好的模型、另一家有最好的 harness；②Guillermo Rauch 把 agent 拆成大脑、手、文件三件套，Vercel 发布 Drives，给云上 agent 一块可随时挂载的存储，和 Anthropic 托管 agent 的解耦思路一致；③Claude Marketplace 上线，可以装连接器、买 agent、找服务伙伴，开发者也能上架自己的工具。另外还有 Boris Cherny 讲 Claude 怎么给竞态代码建模找 bug、Madhu Guru 用修屋顶的例子论证消费级 agent 需求，以及 Ryo Lu 一篇提醒大家别被速度绑架的长文。</description>
+      <itunes:summary>今天几条值得记的动态：①Opus 5.5 一线反馈集中出现——Swyx 把 AINews 日报默认模型换成它，Guillermo Rauch 用它优化终端启动速度，Peter Yang 则说现在是一家有最好的模型、另一家有最好的 harness；②Guillermo Rauch 把 agent 拆成大脑、手、文件三件套，Vercel 发布 Drives，给云上 agent 一块可随时挂载的存储，和 Anthropic 托管 agent 的解耦思路一致；③Claude Marketplace 上线，可以装连接器、买 agent、找服务伙伴，开发者也能上架自己的工具。另外还有 Boris Cherny 讲 Claude 怎么给竞态代码建模找 bug、Madhu Guru 用修屋顶的例子论证消费级 agent 需求，以及 Ryo Lu 一篇提醒大家别被速度绑架的长文。</itunes:summary>
+      <pubDate>Thu, 24 Sep 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-09-24</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-09-24/2026-09-24.mp3" length="18728636" type="audio/mpeg"/>
+      <itunes:duration>19:30</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>9月23日（下）｜Opus 5.5与GPT-6同日登场，前沿模型价格集体下探</title>
       <description>当日补发的第二期（上午那期用的是9月22日素材）。今天的核心动态与可落地判断：①Claude Opus 5.5 上线，直接成为 Pro/Max/Team 档下 Claude Code 与 Claude 应用的默认模型，默认 effort medium「智能相当 Fable 5.1 但更快」，速率限制多给 25%；Boris Cherny 的 HAProxy 移植对比里它比 Fable 5.1 快 2.5 小时、成本低 51%。②OpenAI 同日发布 GPT-6 Sol 与 Luna，API 价格永久下调 50%，并给订阅用户补发一次额度重置——两家同日降价，Aaron Levie 称之为「agent 版的杰文斯悖论」。③Box 的四个行业实测：准确率提升 15%~65%，token 少 63%、速度快 30%，而真正的亮点是它开始说明「我为什么这么算」。④Boris Cherny 用 Opus 5.5 配 Lean 做形式化验证，几个 prompt 换来 16 个修复并发 bug 的 PR，原话是「这两种语言我都不熟，但 Claude 两个都很在行」。⑤Vercel 的 Next.js 横评三家并列 97%，Grok 4.7 拿 94% 但便宜 2-7 倍。收尾记下 Thariq 的提醒：能力变便宜之后，正确用法不是把功能产量翻十倍，而是把省下的时间花在搞懂用户上。</description>
