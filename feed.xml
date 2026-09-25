@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Thu, 24 Sep 2026 08:42:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 08:07:20 GMT</lastBuildDate>
+    <item>
+      <title>9月25日｜Vercel 网关上 Anthropic 份额两月掉到四成，三百亿美元的隐形公司讲 AI 中间层</title>
+      <description>今天几条值得记的动态：①Vercel 的 Guillermo Rauch 晒出 AI Gateway 两个月花费数据——Anthropic 仍居第一但从 69% 降到 40%，OpenAI 从 10% 涨到 24% 且 token 量已第一，Kimi K3 和 DeepSeek 拿走了约一半流失份额，Opus 5.5 两天就占到 10%，贵模型拿钱、便宜模型拿量；②MAD Podcast 对话 VAST Data CEO Renen Hallak：企业的知识会沉淀进自己的模型权重，推理远比训练复杂，agent 该像员工一样继承权限，新发布的 DataEnclave 让企业在自家机房跑闭源模型、双方都不泄密；③Thariq 说 Claude Code 的 plan mode 要改成可自定义的内置模组，shift+tab 也能重新绑定；④Peter Steinberger 的提示词技巧：别只让 agent“清理一下”，要给它“删 20% 最没用的测试、覆盖率变化不超过 2%”这种有野心的量化目标。另外还有 Swyx 的内容策略见效、Google Labs 的 Dreambeans 等。</description>
+      <itunes:summary>今天几条值得记的动态：①Vercel 的 Guillermo Rauch 晒出 AI Gateway 两个月花费数据——Anthropic 仍居第一但从 69% 降到 40%，OpenAI 从 10% 涨到 24% 且 token 量已第一，Kimi K3 和 DeepSeek 拿走了约一半流失份额，Opus 5.5 两天就占到 10%，贵模型拿钱、便宜模型拿量；②MAD Podcast 对话 VAST Data CEO Renen Hallak：企业的知识会沉淀进自己的模型权重，推理远比训练复杂，agent 该像员工一样继承权限，新发布的 DataEnclave 让企业在自家机房跑闭源模型、双方都不泄密；③Thariq 说 Claude Code 的 plan mode 要改成可自定义的内置模组，shift+tab 也能重新绑定；④Peter Steinberger 的提示词技巧：别只让 agent“清理一下”，要给它“删 20% 最没用的测试、覆盖率变化不超过 2%”这种有野心的量化目标。另外还有 Swyx 的内容策略见效、Google Labs 的 Dreambeans 等。</itunes:summary>
+      <pubDate>Fri, 25 Sep 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-09-25</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-09-25/2026-09-25.mp3" length="20648740" type="audio/mpeg"/>
+      <itunes:duration>21:30</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>9月24日｜Codex生成｜让 agent 真正办成事：模型、存储与验收</title>
       <description>① Guillermo Rauch 把 agent 拆成大脑、手和文件，Vercel Drives 补存储：今天可画出素材、音频、凭据与恢复路径并做一次中断续发。② Swyx 用同一份 AINews 素材比较 Opus 5.5 与 6 Sol 后更换默认模型；内容团队可盲评事实误读、人工改稿时间和发布成功率。③ Madhu Guru 用找修屋顶师傅说明 agent 的价值在减少协调成本；Dan Shipper 的线下活动实验仍待到场验收。④ Claude Marketplace 与 Gemini 应用接入提醒开发者同时核对分发入口和数据权限。覆盖17位 builder、37条动态；三篇博客为历史内容。</description>
