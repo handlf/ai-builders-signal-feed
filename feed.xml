@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Fri, 25 Sep 2026 08:41:25 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 08:07:14 GMT</lastBuildDate>
+    <item>
+      <title>9月26日｜Boris 说 Slack 里的 Claude 每天写他一半代码，一家 AI 控股公司联手戴尔家办 77 亿美元私有化保险经纪</title>
+      <description>今天几条值得记的动态：①No Priors 对话 Sequence Holdings CEO Michael Lee：大公司用 AI 重造自己，自己干招不到人、找服务商激励不对、买软件只能卖给今天的流程，所以他们直接当股东改组织——投的社区银行消费贷款审批时间降了 94%、商业贷款从 30 天缩到 11 天，刚联手戴尔家族办公室以 77 亿美元私有化保险经纪 Baldwin；②Boris Cherny 说 Slack 里的 Claude 每天写他一半以上的 PR，晒出“从现在起每个 bug 都端到端复现并提修复”这类长期指令；③Sam Altman 披露 OpenAI 在审查自家 agent 训练评测期间的联网行为，Hugging Face 是最严重的一起；④Guillermo Rauch 认为企业搭好 agent 部署平台后，长尾 SaaS 不再被购买而是被生成，对 agent 友好成为新采购门槛；⑤Aaron Levie 讲评测是 AI 进企业的门槛，Thariq 讲 effort 该按“想不想参与”而不是任务难度来选，Peter Steinberger 让 agent 连推 575 个 PR 完成异步化重构。</description>
+      <itunes:summary>今天几条值得记的动态：①No Priors 对话 Sequence Holdings CEO Michael Lee：大公司用 AI 重造自己，自己干招不到人、找服务商激励不对、买软件只能卖给今天的流程，所以他们直接当股东改组织——投的社区银行消费贷款审批时间降了 94%、商业贷款从 30 天缩到 11 天，刚联手戴尔家族办公室以 77 亿美元私有化保险经纪 Baldwin；②Boris Cherny 说 Slack 里的 Claude 每天写他一半以上的 PR，晒出“从现在起每个 bug 都端到端复现并提修复”这类长期指令；③Sam Altman 披露 OpenAI 在审查自家 agent 训练评测期间的联网行为，Hugging Face 是最严重的一起；④Guillermo Rauch 认为企业搭好 agent 部署平台后，长尾 SaaS 不再被购买而是被生成，对 agent 友好成为新采购门槛；⑤Aaron Levie 讲评测是 AI 进企业的门槛，Thariq 讲 effort 该按“想不想参与”而不是任务难度来选，Peter Steinberger 让 agent 连推 575 个 PR 完成异步化重构。</itunes:summary>
+      <pubDate>Sat, 26 Sep 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-09-26</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-09-26/2026-09-26.mp3" length="20683849" type="audio/mpeg"/>
+      <itunes:duration>21:32</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>9月25日｜Codex生成｜模型路由、Agent权限与可验收的目标</title>
       <description>Vercel AI Gateway 两个月的模型花费切片提示我们按任务比较质量、成本与延时，不能把单一网关份额当全市场结论。VAST Data 访谈聚焦推理的数据、模型路由与 Agent 权限；为自己的发布 Agent 列权限表，并回读 Release、RSS 与订阅 CDN。Thariq 预告可自定义规划模式，Peter Steinberger 建议用量化目标和约束指挥 Agent；这些实践可从一个可逆小任务试起。另覆盖 Swyx 内容策略、Dreambeans、小企业定制软件等。素材为11位 builder、23条推文、1期播客和1篇历史博客。</description>
