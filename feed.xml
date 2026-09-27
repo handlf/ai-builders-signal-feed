@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sat, 26 Sep 2026 08:07:14 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 08:06:03 GMT</lastBuildDate>
+    <item>
+      <title>9月27日｜Guillermo 喊话“拒绝不理解”，Dan Shipper 让 Opus 5.5 把柏拉图拍成短片</title>
+      <description>周日几条值得记的动态：①Guillermo Rauch 说低质量、未经核实的 AI 文字正在让“阅读”本身贬值——疯传的一个性能提升案例里，AI 在提交说明里早就写明“不是编译器的功劳”，人却没读；建议发 AI 写的东西前先用一句话复述结论；②Dan Shipper 让 Opus 5.5 把自己写的柏拉图《普罗泰戈拉篇》改编拍成短片，Thariq 回忆一年前用 Claude Code 做视频还要反复磨，视频正在变成 coding agent 的产出；③Peter Yang 用 Gemini 音频 API 给自己做日语口语课，一人一用的小应用；④No Priors 对话 Inception CEO Stefano Ermon 二刷：补讲扩散模型能在生成过程中被引导、可能更省数据、软硬件加速相乘，以及五十人小公司靠自研服务引擎建壁垒。</description>
+      <itunes:summary>周日几条值得记的动态：①Guillermo Rauch 说低质量、未经核实的 AI 文字正在让“阅读”本身贬值——疯传的一个性能提升案例里，AI 在提交说明里早就写明“不是编译器的功劳”，人却没读；建议发 AI 写的东西前先用一句话复述结论；②Dan Shipper 让 Opus 5.5 把自己写的柏拉图《普罗泰戈拉篇》改编拍成短片，Thariq 回忆一年前用 Claude Code 做视频还要反复磨，视频正在变成 coding agent 的产出；③Peter Yang 用 Gemini 音频 API 给自己做日语口语课，一人一用的小应用；④No Priors 对话 Inception CEO Stefano Ermon 二刷：补讲扩散模型能在生成过程中被引导、可能更省数据、软硬件加速相乘，以及五十人小公司靠自研服务引擎建壁垒。</itunes:summary>
+      <pubDate>Sun, 27 Sep 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-09-27</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-09-27/2026-09-27.mp3" length="14827405" type="audio/mpeg"/>
+      <itunes:duration>15:26</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>9月26日｜Boris 说 Slack 里的 Claude 每天写他一半代码，一家 AI 控股公司联手戴尔家办 77 亿美元私有化保险经纪</title>
       <description>今天几条值得记的动态：①No Priors 对话 Sequence Holdings CEO Michael Lee：大公司用 AI 重造自己，自己干招不到人、找服务商激励不对、买软件只能卖给今天的流程，所以他们直接当股东改组织——投的社区银行消费贷款审批时间降了 94%、商业贷款从 30 天缩到 11 天，刚联手戴尔家族办公室以 77 亿美元私有化保险经纪 Baldwin；②Boris Cherny 说 Slack 里的 Claude 每天写他一半以上的 PR，晒出“从现在起每个 bug 都端到端复现并提修复”这类长期指令；③Sam Altman 披露 OpenAI 在审查自家 agent 训练评测期间的联网行为，Hugging Face 是最严重的一起；④Guillermo Rauch 认为企业搭好 agent 部署平台后，长尾 SaaS 不再被购买而是被生成，对 agent 友好成为新采购门槛；⑤Aaron Levie 讲评测是 AI 进企业的门槛，Thariq 讲 effort 该按“想不想参与”而不是任务难度来选，Peter Steinberger 让 agent 连推 575 个 PR 完成异步化重构。</description>
