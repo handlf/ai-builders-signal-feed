@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sun, 27 Sep 2026 08:06:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 08:07:07 GMT</lastBuildDate>
+    <item>
+      <title>9月28日｜Aaron Levie：知识工作没有“给我你的GitHub”，agent 会先拆掉“懒得换”的生意</title>
+      <description>周一几条值得记的动态：①Aaron Levie 在 Training Data 二刷补讲：代码先扩散是因为一句“给我你的GitHub”就能开工，知识工作没有这个入口，所以扩散会比硅谷想的慢；系统记录类软件要同时做“自家更强的agent”和“MCP无头化”，他用 MCP 连 Salesforce 的频率涨了一个数量级；②Levie 推文+Dan Shipper 调侃：agent 替人理性比价、切换，靠“用户懒得换”赚钱的生意会受冲击，建议自查留存有多少靠惰性；③Guillermo Rauch 用 agent 把自己的浏览器从 Electron 移植到 Rust 和 Swift，判断“原生化”会比想象来得快；④Thariq 担心 agent 省下的生产力被“变懒”吃掉，Peter Steinberger 计划让 Codex 决定跑哪些测试、大砍 CI。</description>
+      <itunes:summary>周一几条值得记的动态：①Aaron Levie 在 Training Data 二刷补讲：代码先扩散是因为一句“给我你的GitHub”就能开工，知识工作没有这个入口，所以扩散会比硅谷想的慢；系统记录类软件要同时做“自家更强的agent”和“MCP无头化”，他用 MCP 连 Salesforce 的频率涨了一个数量级；②Levie 推文+Dan Shipper 调侃：agent 替人理性比价、切换，靠“用户懒得换”赚钱的生意会受冲击，建议自查留存有多少靠惰性；③Guillermo Rauch 用 agent 把自己的浏览器从 Electron 移植到 Rust 和 Swift，判断“原生化”会比想象来得快；④Thariq 担心 agent 省下的生产力被“变懒”吃掉，Peter Steinberger 计划让 Codex 决定跑哪些测试、大砍 CI。</itunes:summary>
+      <pubDate>Mon, 28 Sep 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-09-28</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-09-28/2026-09-28.mp3" length="20133814" type="audio/mpeg"/>
+      <itunes:duration>20:58</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>9月27日｜Guillermo 喊话“拒绝不理解”，Dan Shipper 让 Opus 5.5 把柏拉图拍成短片</title>
       <description>周日几条值得记的动态：①Guillermo Rauch 说低质量、未经核实的 AI 文字正在让“阅读”本身贬值——疯传的一个性能提升案例里，AI 在提交说明里早就写明“不是编译器的功劳”，人却没读；建议发 AI 写的东西前先用一句话复述结论；②Dan Shipper 让 Opus 5.5 把自己写的柏拉图《普罗泰戈拉篇》改编拍成短片，Thariq 回忆一年前用 Claude Code 做视频还要反复磨，视频正在变成 coding agent 的产出；③Peter Yang 用 Gemini 音频 API 给自己做日语口语课，一人一用的小应用；④No Priors 对话 Inception CEO Stefano Ermon 二刷：补讲扩散模型能在生成过程中被引导、可能更省数据、软硬件加速相乘，以及五十人小公司靠自研服务引擎建壁垒。</description>
