@@ -23,7 +23,7 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Mon, 28 Sep 2026 08:46:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 13:26:19 GMT</lastBuildDate>
     <item>
       <title>9月28日｜Codex生成｜Agent走进知识工作：连接、验收与真实效率</title>
       <description>Box 创始人 Aaron Levie 在 9 月 15 日的历史访谈解释：知识工作缺少代码仓库那样的统一入口，Agent 落地还要跨文件、旧系统、权限与人工确认。今天可为一个流程列资料入口、最小权限和结果回读表。Guillermo Rauch 自述将个人浏览器迁到 Rust/Swift；迁移价值应由本机启动、内存与任务稳定性实测。Peter Steinberger 计划让 Codex 选择 CI 测试，建议先用历史故障回放核对漏检率。Thariq 担忧效率增益被松懈抵消，Zara Zhang 提醒保留表达价值并正视工具故障。共覆盖 14 位 builder、25 条推文、1 期历史播客。</description>
@@ -45,6 +45,16 @@
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
+      <title>9月27日｜Codex生成｜AI产出之后，谁来读懂与验收</title>
+      <description>Guillermo Rauch 提醒人们拒绝未读懂的 AI 文本：代码性能解释与公开稿件都需要原始依据和人工复述。Dan Shipper 用 Opus 5.5 把柏拉图改编小说展示为短片，Thariq 回顾视频制作迭代；自媒体可以从一个三十秒场景验证制作成本与可复现性。No Priors 的 9 月 18 日历史访谈讨论扩散语言模型在延迟敏感任务的可能性，速度与质量仍要同题实测。另覆盖 Peter Yang 的音频学习小应用、Garry Tan 的生产修复流程及其余 builder。素材共 8 位 builder、14 条推文、1 期播客、0 篇博客。</description>
+      <itunes:summary>Guillermo Rauch 提醒人们拒绝未读懂的 AI 文本：代码性能解释与公开稿件都需要原始依据和人工复述。Dan Shipper 用 Opus 5.5 把柏拉图改编小说展示为短片，Thariq 回顾视频制作迭代；自媒体可以从一个三十秒场景验证制作成本与可复现性。No Priors 的 9 月 18 日历史访谈讨论扩散语言模型在延迟敏感任务的可能性，速度与质量仍要同题实测。另覆盖 Peter Yang 的音频学习小应用、Garry Tan 的生产修复流程及其余 builder。素材共 8 位 builder、14 条推文、1 期播客、0 篇博客。</itunes:summary>
+      <pubDate>Sun, 27 Sep 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-09-27-codex</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-09-27-codex/2026-09-27-codex.mp3" length="9946059" type="audio/mpeg"/>
+      <itunes:duration>10:21</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>9月27日｜Guillermo 喊话“拒绝不理解”，Dan Shipper 让 Opus 5.5 把柏拉图拍成短片</title>
       <description>周日几条值得记的动态：①Guillermo Rauch 说低质量、未经核实的 AI 文字正在让“阅读”本身贬值——疯传的一个性能提升案例里，AI 在提交说明里早就写明“不是编译器的功劳”，人却没读；建议发 AI 写的东西前先用一句话复述结论；②Dan Shipper 让 Opus 5.5 把自己写的柏拉图《普罗泰戈拉篇》改编拍成短片，Thariq 回忆一年前用 Claude Code 做视频还要反复磨，视频正在变成 coding agent 的产出；③Peter Yang 用 Gemini 音频 API 给自己做日语口语课，一人一用的小应用；④No Priors 对话 Inception CEO Stefano Ermon 二刷：补讲扩散模型能在生成过程中被引导、可能更省数据、软硬件加速相乘，以及五十人小公司靠自研服务引擎建壁垒。</description>
       <itunes:summary>周日几条值得记的动态：①Guillermo Rauch 说低质量、未经核实的 AI 文字正在让“阅读”本身贬值——疯传的一个性能提升案例里，AI 在提交说明里早就写明“不是编译器的功劳”，人却没读；建议发 AI 写的东西前先用一句话复述结论；②Dan Shipper 让 Opus 5.5 把自己写的柏拉图《普罗泰戈拉篇》改编拍成短片，Thariq 回忆一年前用 Claude Code 做视频还要反复磨，视频正在变成 coding agent 的产出；③Peter Yang 用 Gemini 音频 API 给自己做日语口语课，一人一用的小应用；④No Priors 对话 Inception CEO Stefano Ermon 二刷：补讲扩散模型能在生成过程中被引导、可能更省数据、软硬件加速相乘，以及五十人小公司靠自研服务引擎建壁垒。</itunes:summary>
@@ -52,6 +62,16 @@
       <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-09-27</guid>
       <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-09-27/2026-09-27.mp3" length="14827405" type="audio/mpeg"/>
       <itunes:duration>15:26</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>9月26日｜Codex生成｜让 Agent 闭环：评测、权限与流程重构</title>
+      <description>Boris Cherny 自述 Slack Agent 每天写超过一半的 PR，启发我们把反馈复现、测试、PR 与评审串成可回读的闭环。Aaron Levie 强调 Agent 评测，Sam Altman 披露训练评测期间的联网行为审查；发布 Agent 应同时测结果和越权。Guillermo Rauch 谈企业 Agent 接口，No Priors 访谈讨论用长期工程投入重组旧流程，案例数字均按受访者口述处理。另覆盖 Thariq 的 effort 选择、Peter Steinberger 的异步重构及 9 月 16 日 Claude 历史博客。素材共 14 位 builder、29 条推文、1 期播客、1 篇博客。</description>
+      <itunes:summary>Boris Cherny 自述 Slack Agent 每天写超过一半的 PR，启发我们把反馈复现、测试、PR 与评审串成可回读的闭环。Aaron Levie 强调 Agent 评测，Sam Altman 披露训练评测期间的联网行为审查；发布 Agent 应同时测结果和越权。Guillermo Rauch 谈企业 Agent 接口，No Priors 访谈讨论用长期工程投入重组旧流程，案例数字均按受访者口述处理。另覆盖 Thariq 的 effort 选择、Peter Steinberger 的异步重构及 9 月 16 日 Claude 历史博客。素材共 14 位 builder、29 条推文、1 期播客、1 篇博客。</itunes:summary>
+      <pubDate>Sat, 26 Sep 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-09-26-codex</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-09-26-codex/2026-09-26-codex.mp3" length="11148528" type="audio/mpeg"/>
+      <itunes:duration>11:36</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
