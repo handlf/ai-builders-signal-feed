@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Mon, 28 Sep 2026 08:07:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 08:46:13 GMT</lastBuildDate>
+    <item>
+      <title>9月28日｜Codex生成｜Agent走进知识工作：连接、验收与真实效率</title>
+      <description>Box 创始人 Aaron Levie 在 9 月 15 日的历史访谈解释：知识工作缺少代码仓库那样的统一入口，Agent 落地还要跨文件、旧系统、权限与人工确认。今天可为一个流程列资料入口、最小权限和结果回读表。Guillermo Rauch 自述将个人浏览器迁到 Rust/Swift；迁移价值应由本机启动、内存与任务稳定性实测。Peter Steinberger 计划让 Codex 选择 CI 测试，建议先用历史故障回放核对漏检率。Thariq 担忧效率增益被松懈抵消，Zara Zhang 提醒保留表达价值并正视工具故障。共覆盖 14 位 builder、25 条推文、1 期历史播客。</description>
+      <itunes:summary>Box 创始人 Aaron Levie 在 9 月 15 日的历史访谈解释：知识工作缺少代码仓库那样的统一入口，Agent 落地还要跨文件、旧系统、权限与人工确认。今天可为一个流程列资料入口、最小权限和结果回读表。Guillermo Rauch 自述将个人浏览器迁到 Rust/Swift；迁移价值应由本机启动、内存与任务稳定性实测。Peter Steinberger 计划让 Codex 选择 CI 测试，建议先用历史故障回放核对漏检率。Thariq 担忧效率增益被松懈抵消，Zara Zhang 提醒保留表达价值并正视工具故障。共覆盖 14 位 builder、25 条推文、1 期历史播客。</itunes:summary>
+      <pubDate>Mon, 28 Sep 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-09-28-codex</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-09-28-codex/2026-09-28-codex.mp3" length="9981168" type="audio/mpeg"/>
+      <itunes:duration>10:23</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>9月28日｜Aaron Levie：知识工作没有“给我你的GitHub”，agent 会先拆掉“懒得换”的生意</title>
       <description>周一几条值得记的动态：①Aaron Levie 在 Training Data 二刷补讲：代码先扩散是因为一句“给我你的GitHub”就能开工，知识工作没有这个入口，所以扩散会比硅谷想的慢；系统记录类软件要同时做“自家更强的agent”和“MCP无头化”，他用 MCP 连 Salesforce 的频率涨了一个数量级；②Levie 推文+Dan Shipper 调侃：agent 替人理性比价、切换，靠“用户懒得换”赚钱的生意会受冲击，建议自查留存有多少靠惰性；③Guillermo Rauch 用 agent 把自己的浏览器从 Electron 移植到 Rust 和 Swift，判断“原生化”会比想象来得快；④Thariq 担心 agent 省下的生产力被“变懒”吃掉，Peter Steinberger 计划让 Codex 决定跑哪些测试、大砍 CI。</description>
