@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Tue, 29 Sep 2026 08:38:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 08:49:52 GMT</lastBuildDate>
+    <item>
+      <title>9月30日｜Codex生成｜常驻Agent的边界、模型成本与内容实测</title>
+      <description>Dots 被定位为全天候 Agent，先用可回退任务测试权限、误触发和真实省时，再考虑放权。Sam Altman 的 Sol 6.1 价格说法与 Amjad Masad 的 harness 讨论提示：要按合格交付计入重试、缓存和人工返工。Garry Tan 的测试精简实践需用历史故障回放核对漏检；Zara Zhang 的六次提示网站要把素材授权和完整制作时间算进去。覆盖 14 位 builder、32 条推文；另简述一篇标注 8 月 26 日的浏览器 Agent 历史博客。</description>
+      <itunes:summary>Dots 被定位为全天候 Agent，先用可回退任务测试权限、误触发和真实省时，再考虑放权。Sam Altman 的 Sol 6.1 价格说法与 Amjad Masad 的 harness 讨论提示：要按合格交付计入重试、缓存和人工返工。Garry Tan 的测试精简实践需用历史故障回放核对漏检；Zara Zhang 的六次提示网站要把素材授权和完整制作时间算进去。覆盖 14 位 builder、32 条推文；另简述一篇标注 8 月 26 日的浏览器 Agent 历史博客。</itunes:summary>
+      <pubDate>Wed, 30 Sep 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-09-30-codex</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-09-30-codex/2026-09-30-codex.mp3" length="10867956" type="audio/mpeg"/>
+      <itunes:duration>11:19</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>9月29日｜Codex生成｜模型提速、订阅额度与Agent验收</title>
       <description>Thibault Sottiaux 预告 Pro 200 美元档调整额度计算，别只看 API 等值，先算每件合格交付的实际成本。Boris Cherny、Cat Wu 和 Box 的 Aaron Levie 分享 Sonnet 5.5 提速及知识工作评测；这些是发布方或内部数据，适合用自己的同题任务核验正确率、返工与总耗时。Thariq 提醒 Agent 不能只靠一句提示词复现，输入、参考、权限和验收都要展示。Guillermo Rauch 的迁移性能数字也应在真实环境复测。覆盖 18 位 builder、34 条推文；本期无新播客与博客。</description>
