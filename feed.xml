@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Thu, 01 Oct 2026 08:07:47 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 08:42:45 GMT</lastBuildDate>
+    <item>
+      <title>10月1日｜Codex生成｜常驻Agent如何省时：权限、连接与验收</title>
+      <description>Every Podcast 对谈 Sam Altman：dot 过滤晨间消息、隔夜找回 Slack 截图线索，但个人体验需要用误报、漏报和省时实测。Gemini 4 的短帖提醒模型选型要连编码工具链一起测；ChatGPT 内建 MCP 与 Vercel Connect 则把访问权限和静态密钥问题推到台前。Aaron Levie 的企业部署清单可转成自媒体 Agent 的逐步验收表。覆盖 17 位 builder、34 条推文和 1 期播客；产品能力与供应商数据均按来源标注。</description>
+      <itunes:summary>Every Podcast 对谈 Sam Altman：dot 过滤晨间消息、隔夜找回 Slack 截图线索，但个人体验需要用误报、漏报和省时实测。Gemini 4 的短帖提醒模型选型要连编码工具链一起测；ChatGPT 内建 MCP 与 Vercel Connect 则把访问权限和静态密钥问题推到台前。Aaron Levie 的企业部署清单可转成自媒体 Agent 的逐步验收表。覆盖 17 位 builder、34 条推文和 1 期播客；产品能力与供应商数据均按来源标注。</itunes:summary>
+      <pubDate>Thu, 01 Oct 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-10-01-codex</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-10-01-codex/2026-10-01-codex.mp3" length="10167578" type="audio/mpeg"/>
+      <itunes:duration>10:35</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>10月1日｜Sam Altman 谈 Dots 如何拿回他的早晨，Gemini 4 紧跟上场</title>
       <description>①Dan Shipper 对谈 Sam Altman：dot 替他过滤夜间消息、隔夜帮他翻截图找到一条 Slack 记录；ChatGPT 订阅额度可带进第三方应用、Decisions API、Ultrafast 未来八倍速，小开发者的成本账要重算。②Google 发布 Gemini 4，Peter Yang 认为胜负在编码工具链和个人 agent 这两层。③Thibault Sottiaux：Sol 6.1 需求创纪录，ChatGPT 里可以直接建和部署 MCP 服务器。④Aaron Levie：把 AI 部署进企业的活远比想象多，是前线部署工程师的好时候；Guillermo Rauch：代码免费后，难的是不靠静态密钥安全地连接。另有 Nan Yu 谈 OpenAI 的行动速度、Aditya Agarwal 说 AI 抬高了伟大公司的门槛、Google Labs 的 Opal 11月17日关闭。</description>
