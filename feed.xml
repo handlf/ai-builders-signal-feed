@@ -23,15 +23,15 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Thu, 01 Oct 2026 02:32:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 08:07:47 GMT</lastBuildDate>
     <item>
-      <title>10月1日｜OpenAI Dots 上线：常驻 agent 要先教三天，Sol 6.1 缓存读取再减95%</title>
-      <description>DevDay 前后几条值得记的动态：①Sam Altman 发布 Dots，一个全天候替你干活的 agent；Thibault Sottiaux 说用两三天、教会它你的偏好后才明显变好用，先开放单个主 dot，再开放 dot 团队。建议先给它可撤回的小任务做三天实验；②Sam Altman 称 Sol 6.1 价格是 Astra 的五分之一，缓存读取再减 95%，省钱越来越靠把固定上下文放前面、提高缓存命中；③投资人 Nikunj Kothari：应用层的 harness 是“一千件做对的小事”，Amjad Masad 转了低成本做出前沿效果的 harness 方法；④Zara Zhang 用 Opus 5.5 六条提示做出带音乐、3D、配图的产品网站。另有 Garry Tan 把测试审计技能并进 GStack、Guillermo Rauch 晒 AI SDK 周下载三千万。</description>
-      <itunes:summary>DevDay 前后几条值得记的动态：①Sam Altman 发布 Dots，一个全天候替你干活的 agent；Thibault Sottiaux 说用两三天、教会它你的偏好后才明显变好用，先开放单个主 dot，再开放 dot 团队。建议先给它可撤回的小任务做三天实验；②Sam Altman 称 Sol 6.1 价格是 Astra 的五分之一，缓存读取再减 95%，省钱越来越靠把固定上下文放前面、提高缓存命中；③投资人 Nikunj Kothari：应用层的 harness 是“一千件做对的小事”，Amjad Masad 转了低成本做出前沿效果的 harness 方法；④Zara Zhang 用 Opus 5.5 六条提示做出带音乐、3D、配图的产品网站。另有 Garry Tan 把测试审计技能并进 GStack、Guillermo Rauch 晒 AI SDK 周下载三千万。</itunes:summary>
+      <title>10月1日｜Sam Altman 谈 Dots 如何拿回他的早晨，Gemini 4 紧跟上场</title>
+      <description>①Dan Shipper 对谈 Sam Altman：dot 替他过滤夜间消息、隔夜帮他翻截图找到一条 Slack 记录；ChatGPT 订阅额度可带进第三方应用、Decisions API、Ultrafast 未来八倍速，小开发者的成本账要重算。②Google 发布 Gemini 4，Peter Yang 认为胜负在编码工具链和个人 agent 这两层。③Thibault Sottiaux：Sol 6.1 需求创纪录，ChatGPT 里可以直接建和部署 MCP 服务器。④Aaron Levie：把 AI 部署进企业的活远比想象多，是前线部署工程师的好时候；Guillermo Rauch：代码免费后，难的是不靠静态密钥安全地连接。另有 Nan Yu 谈 OpenAI 的行动速度、Aditya Agarwal 说 AI 抬高了伟大公司的门槛、Google Labs 的 Opal 11月17日关闭。</description>
+      <itunes:summary>①Dan Shipper 对谈 Sam Altman：dot 替他过滤夜间消息、隔夜帮他翻截图找到一条 Slack 记录；ChatGPT 订阅额度可带进第三方应用、Decisions API、Ultrafast 未来八倍速，小开发者的成本账要重算。②Google 发布 Gemini 4，Peter Yang 认为胜负在编码工具链和个人 agent 这两层。③Thibault Sottiaux：Sol 6.1 需求创纪录，ChatGPT 里可以直接建和部署 MCP 服务器。④Aaron Levie：把 AI 部署进企业的活远比想象多，是前线部署工程师的好时候；Guillermo Rauch：代码免费后，难的是不靠静态密钥安全地连接。另有 Nan Yu 谈 OpenAI 的行动速度、Aditya Agarwal 说 AI 抬高了伟大公司的门槛、Google Labs 的 Opal 11月17日关闭。</itunes:summary>
       <pubDate>Thu, 01 Oct 2026 08:00:00 GMT</pubDate>
       <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-10-01</guid>
-      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-10-01/2026-10-01.mp3" length="14674850" type="audio/mpeg"/>
-      <itunes:duration>15:17</itunes:duration>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-10-01/2026-10-01.mp3" length="21475881" type="audio/mpeg"/>
+      <itunes:duration>22:22</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
