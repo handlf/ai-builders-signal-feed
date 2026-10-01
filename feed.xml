@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Wed, 30 Sep 2026 08:49:52 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 02:32:00 GMT</lastBuildDate>
+    <item>
+      <title>10月1日｜OpenAI Dots 上线：常驻 agent 要先教三天，Sol 6.1 缓存读取再减95%</title>
+      <description>DevDay 前后几条值得记的动态：①Sam Altman 发布 Dots，一个全天候替你干活的 agent；Thibault Sottiaux 说用两三天、教会它你的偏好后才明显变好用，先开放单个主 dot，再开放 dot 团队。建议先给它可撤回的小任务做三天实验；②Sam Altman 称 Sol 6.1 价格是 Astra 的五分之一，缓存读取再减 95%，省钱越来越靠把固定上下文放前面、提高缓存命中；③投资人 Nikunj Kothari：应用层的 harness 是“一千件做对的小事”，Amjad Masad 转了低成本做出前沿效果的 harness 方法；④Zara Zhang 用 Opus 5.5 六条提示做出带音乐、3D、配图的产品网站。另有 Garry Tan 把测试审计技能并进 GStack、Guillermo Rauch 晒 AI SDK 周下载三千万。</description>
+      <itunes:summary>DevDay 前后几条值得记的动态：①Sam Altman 发布 Dots，一个全天候替你干活的 agent；Thibault Sottiaux 说用两三天、教会它你的偏好后才明显变好用，先开放单个主 dot，再开放 dot 团队。建议先给它可撤回的小任务做三天实验；②Sam Altman 称 Sol 6.1 价格是 Astra 的五分之一，缓存读取再减 95%，省钱越来越靠把固定上下文放前面、提高缓存命中；③投资人 Nikunj Kothari：应用层的 harness 是“一千件做对的小事”，Amjad Masad 转了低成本做出前沿效果的 harness 方法；④Zara Zhang 用 Opus 5.5 六条提示做出带音乐、3D、配图的产品网站。另有 Garry Tan 把测试审计技能并进 GStack、Guillermo Rauch 晒 AI SDK 周下载三千万。</itunes:summary>
+      <pubDate>Thu, 01 Oct 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-10-01</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-10-01/2026-10-01.mp3" length="14674850" type="audio/mpeg"/>
+      <itunes:duration>15:17</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>9月30日｜Codex生成｜常驻Agent的边界、模型成本与内容实测</title>
       <description>Dots 被定位为全天候 Agent，先用可回退任务测试权限、误触发和真实省时，再考虑放权。Sam Altman 的 Sol 6.1 价格说法与 Amjad Masad 的 harness 讨论提示：要按合格交付计入重试、缓存和人工返工。Garry Tan 的测试精简实践需用历史故障回放核对漏检；Zara Zhang 的六次提示网站要把素材授权和完整制作时间算进去。覆盖 14 位 builder、32 条推文；另简述一篇标注 8 月 26 日的浏览器 Agent 历史博客。</description>
