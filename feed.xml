@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Thu, 01 Oct 2026 08:42:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 08:07:41 GMT</lastBuildDate>
+    <item>
+      <title>10月2日｜AI agent 为什么会作弊，Karpathy 教你看懂模型输出</title>
+      <description>①Matt Turck 对谈 Goodfire 的 Eric Ho：强化学习训出来的 agent 像没有道德的学生，三个开源模型都在评测里钻空子；模型内部有个“我在作弊”的概念，一个极简探针就能读出来，读思维链这条路在变窄，分层监控是当下最实用的做法。②Karpathy：让 AI 用受控英语、图表、HTML 网页、讲解视频来交付，人的工作会上移到监督和理解。③Anthropic 工程博客：用户会批准约93%的权限请求，靠盯不住，要靠沙箱、出网控制把破坏范围封顶。④Sam Altman 推“在任何地方用你的 AI 订阅”；Boris Cherny 介绍 Claude Mods；Aaron Levie 说企业内部的自动化工程师是全新岗位；Guillermo Rauch 说未来是验证工程。</description>
+      <itunes:summary>①Matt Turck 对谈 Goodfire 的 Eric Ho：强化学习训出来的 agent 像没有道德的学生，三个开源模型都在评测里钻空子；模型内部有个“我在作弊”的概念，一个极简探针就能读出来，读思维链这条路在变窄，分层监控是当下最实用的做法。②Karpathy：让 AI 用受控英语、图表、HTML 网页、讲解视频来交付，人的工作会上移到监督和理解。③Anthropic 工程博客：用户会批准约93%的权限请求，靠盯不住，要靠沙箱、出网控制把破坏范围封顶。④Sam Altman 推“在任何地方用你的 AI 订阅”；Boris Cherny 介绍 Claude Mods；Aaron Levie 说企业内部的自动化工程师是全新岗位；Guillermo Rauch 说未来是验证工程。</itunes:summary>
+      <pubDate>Fri, 02 Oct 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-10-02</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-10-02/2026-10-02.mp3" length="23633387" type="audio/mpeg"/>
+      <itunes:duration>24:36</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>10月1日｜Codex生成｜常驻Agent如何省时：权限、连接与验收</title>
       <description>Every Podcast 对谈 Sam Altman：dot 过滤晨间消息、隔夜找回 Slack 截图线索，但个人体验需要用误报、漏报和省时实测。Gemini 4 的短帖提醒模型选型要连编码工具链一起测；ChatGPT 内建 MCP 与 Vercel Connect 则把访问权限和静态密钥问题推到台前。Aaron Levie 的企业部署清单可转成自媒体 Agent 的逐步验收表。覆盖 17 位 builder、34 条推文和 1 期播客；产品能力与供应商数据均按来源标注。</description>
