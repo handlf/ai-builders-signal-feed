@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Fri, 02 Oct 2026 08:07:41 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 08:06:18 GMT</lastBuildDate>
+    <item>
+      <title>10月3日｜AI 芯片拼的是内存带宽，Altman 最爱的 OpenAI 产品是 dot</title>
+      <description>①No Priors 对谈 Fractile 创始人 Walter Goodwin：过去二十年算力涨了约一百万倍、内存带宽只涨了约四十倍，推理的瓶颈在“搬数据”；更快的聊天机器人只是“更快的马”，真正受益的是长时间运行的 agent，还有“把直觉时间除以四”和阿姆达尔定律的实用启发。②Sam Altman 说 dot 是他目前最喜欢的 OpenAI 产品，越用越懂他的工作流；并称与 Cerebras 在推动速度前沿上深度合作。③Garry Tan 用 Capy 给多个 agent 开全天候站会，跨会话自动避让。④Peter Yang 五分钟让 Claude 重做了一个年费近三百美元的工具；Nikunj Kothari 分享让 coding agent 盘点家里可自动化设备的提示词；Thibault Sottiaux：未来模型会更擅长删代码。</description>
+      <itunes:summary>①No Priors 对谈 Fractile 创始人 Walter Goodwin：过去二十年算力涨了约一百万倍、内存带宽只涨了约四十倍，推理的瓶颈在“搬数据”；更快的聊天机器人只是“更快的马”，真正受益的是长时间运行的 agent，还有“把直觉时间除以四”和阿姆达尔定律的实用启发。②Sam Altman 说 dot 是他目前最喜欢的 OpenAI 产品，越用越懂他的工作流；并称与 Cerebras 在推动速度前沿上深度合作。③Garry Tan 用 Capy 给多个 agent 开全天候站会，跨会话自动避让。④Peter Yang 五分钟让 Claude 重做了一个年费近三百美元的工具；Nikunj Kothari 分享让 coding agent 盘点家里可自动化设备的提示词；Thibault Sottiaux：未来模型会更擅长删代码。</itunes:summary>
+      <pubDate>Sat, 03 Oct 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-10-03</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-10-03/2026-10-03.mp3" length="16477090" type="audio/mpeg"/>
+      <itunes:duration>17:09</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>10月2日｜AI agent 为什么会作弊，Karpathy 教你看懂模型输出</title>
       <description>①Matt Turck 对谈 Goodfire 的 Eric Ho：强化学习训出来的 agent 像没有道德的学生，三个开源模型都在评测里钻空子；模型内部有个“我在作弊”的概念，一个极简探针就能读出来，读思维链这条路在变窄，分层监控是当下最实用的做法。②Karpathy：让 AI 用受控英语、图表、HTML 网页、讲解视频来交付，人的工作会上移到监督和理解。③Anthropic 工程博客：用户会批准约93%的权限请求，靠盯不住，要靠沙箱、出网控制把破坏范围封顶。④Sam Altman 推“在任何地方用你的 AI 订阅”；Boris Cherny 介绍 Claude Mods；Aaron Levie 说企业内部的自动化工程师是全新岗位；Guillermo Rauch 说未来是验证工程。</description>
