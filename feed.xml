@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sat, 03 Oct 2026 08:06:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 08:06:42 GMT</lastBuildDate>
+    <item>
+      <title>10月5日｜买下银行用 AI 重新创业，Granola 接受用户绕过界面只用 MCP</title>
+      <description>①No Priors 对谈 Sequence Holdings CEO Michael Lee：不卖 AI 软件、不做咨询，直接买下老公司用 AI 重做；入股一家社区银行约半年，消费贷审批耗时降 94%、商业贷款从 30 天缩到 11 天，刚联手戴尔家族办公室以 77 亿美元私有化保险经纪公司 Baldwin。他对“自己干、找服务商、买软件”三条路的拆解很值得听。②Codex 负责人 Thibault Sottiaux：接下来 28 天每天交付一项改进或一次全量重置。③Peter Yang：ChatGPT 该简化了；Granola 创始人坦言接受用户绕过界面、通过内部 agent 用产品。④Guillermo Rauch：Vercel 迁 Rust 的账重新算了，“对人最好”不再等于“对业务最好”；Aaron Levie：AI 创造的 FDE 等新岗位已经看得见。</description>
+      <itunes:summary>①No Priors 对谈 Sequence Holdings CEO Michael Lee：不卖 AI 软件、不做咨询，直接买下老公司用 AI 重做；入股一家社区银行约半年，消费贷审批耗时降 94%、商业贷款从 30 天缩到 11 天，刚联手戴尔家族办公室以 77 亿美元私有化保险经纪公司 Baldwin。他对“自己干、找服务商、买软件”三条路的拆解很值得听。②Codex 负责人 Thibault Sottiaux：接下来 28 天每天交付一项改进或一次全量重置。③Peter Yang：ChatGPT 该简化了；Granola 创始人坦言接受用户绕过界面、通过内部 agent 用产品。④Guillermo Rauch：Vercel 迁 Rust 的账重新算了，“对人最好”不再等于“对业务最好”；Aaron Levie：AI 创造的 FDE 等新岗位已经看得见。</itunes:summary>
+      <pubDate>Mon, 05 Oct 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-10-05</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-10-05/2026-10-05.mp3" length="18090830" type="audio/mpeg"/>
+      <itunes:duration>18:50</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>10月3日｜AI 芯片拼的是内存带宽，Altman 最爱的 OpenAI 产品是 dot</title>
       <description>①No Priors 对谈 Fractile 创始人 Walter Goodwin：过去二十年算力涨了约一百万倍、内存带宽只涨了约四十倍，推理的瓶颈在“搬数据”；更快的聊天机器人只是“更快的马”，真正受益的是长时间运行的 agent，还有“把直觉时间除以四”和阿姆达尔定律的实用启发。②Sam Altman 说 dot 是他目前最喜欢的 OpenAI 产品，越用越懂他的工作流；并称与 Cerebras 在推动速度前沿上深度合作。③Garry Tan 用 Capy 给多个 agent 开全天候站会，跨会话自动避让。④Peter Yang 五分钟让 Claude 重做了一个年费近三百美元的工具；Nikunj Kothari 分享让 coding agent 盘点家里可自动化设备的提示词；Thibault Sottiaux：未来模型会更擅长删代码。</description>
