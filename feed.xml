@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Mon, 05 Oct 2026 08:06:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 08:06:09 GMT</lastBuildDate>
+    <item>
+      <title>10月6日｜Vercel 让编译器替人审安全，评测就是产品规格</title>
+      <description>①Guillermo Rauch 开源 gdp-ts：敏感函数要求调用方出示“已做权限检查”的证明，由 TypeScript 编译期验证。他的逻辑是 agent 写的代码已经多到人审不过来，而 agent 恰好在硬约束里表现最好——安全要从评审前移到编译器。②Madhu Guru：别把 evals 当最后一道质检，evals 就是产品规格；Aaron Levie 补充，企业部署 agent 卡在真实环境的测试调优上，evals 和模拟环境会是一个巨大领域。③Garry Tan：模型实验室的 harness 有动机烧 token，第三方工具的机会在于把重复环节固化成确定代码；Thariq 介绍 Claude“本地之手”模式和更省 token 的规划方式。④Peter Yang 用 Gemini Live 做了打语音电话教日语的 App 并出了教程；Ryo Lu 写长文纪念乔布斯，提醒技术是为了让人的生活更好。</description>
+      <itunes:summary>①Guillermo Rauch 开源 gdp-ts：敏感函数要求调用方出示“已做权限检查”的证明，由 TypeScript 编译期验证。他的逻辑是 agent 写的代码已经多到人审不过来，而 agent 恰好在硬约束里表现最好——安全要从评审前移到编译器。②Madhu Guru：别把 evals 当最后一道质检，evals 就是产品规格；Aaron Levie 补充，企业部署 agent 卡在真实环境的测试调优上，evals 和模拟环境会是一个巨大领域。③Garry Tan：模型实验室的 harness 有动机烧 token，第三方工具的机会在于把重复环节固化成确定代码；Thariq 介绍 Claude“本地之手”模式和更省 token 的规划方式。④Peter Yang 用 Gemini Live 做了打语音电话教日语的 App 并出了教程；Ryo Lu 写长文纪念乔布斯，提醒技术是为了让人的生活更好。</itunes:summary>
+      <pubDate>Tue, 06 Oct 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-10-06</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-10-06/2026-10-06.mp3" length="14773906" type="audio/mpeg"/>
+      <itunes:duration>15:23</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>10月5日｜买下银行用 AI 重新创业，Granola 接受用户绕过界面只用 MCP</title>
       <description>①No Priors 对谈 Sequence Holdings CEO Michael Lee：不卖 AI 软件、不做咨询，直接买下老公司用 AI 重做；入股一家社区银行约半年，消费贷审批耗时降 94%、商业贷款从 30 天缩到 11 天，刚联手戴尔家族办公室以 77 亿美元私有化保险经纪公司 Baldwin。他对“自己干、找服务商、买软件”三条路的拆解很值得听。②Codex 负责人 Thibault Sottiaux：接下来 28 天每天交付一项改进或一次全量重置。③Peter Yang：ChatGPT 该简化了；Granola 创始人坦言接受用户绕过界面、通过内部 agent 用产品。④Guillermo Rauch：Vercel 迁 Rust 的账重新算了，“对人最好”不再等于“对业务最好”；Aaron Levie：AI 创造的 FDE 等新岗位已经看得见。</description>
