@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Wed, 07 Oct 2026 08:06:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 08:07:10 GMT</lastBuildDate>
+    <item>
+      <title>10月8日｜Every 为什么从人手一个 agent 改成全公司一个，Haiku 5.5 便宜七成五</title>
+      <description>①AI &amp; I 播客，Dan Shipper 对谈 Every 平台负责人 Willie Williams：人手一个 claw 难维护、易荒废，Every 改成全公司一个 agent；职场用公司 agent、生活用个人 agent，还聊了 agent 值班和回到管理岗后 token 用量断崖下跌。②Haiku 5.5 全平台上线，Alex Albert 说比上一代快得多、便宜 75%；Sonnet 5.5 缓存读取减半，长任务约省两成。③Aditya Agarwal 给工程师三条路：做吞噬软件的技术、和领域专家组队、或只是监督 agent 写普通代码（他最不推荐）；Peter Yang 认为传统 SaaS 最脆弱。④Thariq：最常见的失败是在不熟的领域提示不精确，先让模型教你；Guillermo Rauch：agent 会一直钻，人要知道何时停。⑤Sam Altman：ChatGPT 能生成定制界面；Codex cloud 悄悄重新上线。</description>
+      <itunes:summary>①AI &amp; I 播客，Dan Shipper 对谈 Every 平台负责人 Willie Williams：人手一个 claw 难维护、易荒废，Every 改成全公司一个 agent；职场用公司 agent、生活用个人 agent，还聊了 agent 值班和回到管理岗后 token 用量断崖下跌。②Haiku 5.5 全平台上线，Alex Albert 说比上一代快得多、便宜 75%；Sonnet 5.5 缓存读取减半，长任务约省两成。③Aditya Agarwal 给工程师三条路：做吞噬软件的技术、和领域专家组队、或只是监督 agent 写普通代码（他最不推荐）；Peter Yang 认为传统 SaaS 最脆弱。④Thariq：最常见的失败是在不熟的领域提示不精确，先让模型教你；Guillermo Rauch：agent 会一直钻，人要知道何时停。⑤Sam Altman：ChatGPT 能生成定制界面；Codex cloud 悄悄重新上线。</itunes:summary>
+      <pubDate>Thu, 08 Oct 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-10-08</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-10-08/2026-10-08.mp3" length="19238128" type="audio/mpeg"/>
+      <itunes:duration>20:02</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>10月7日｜提示词没有秘诀，评测才是护城河</title>
       <description>①Unsupervised Learning 播客，Applied Compute CEO（前 OpenAI Codex）：强化学习是一台爬山机器，最难的是定义要爬哪座山；先榨干 harness 再调权重，后训练的主战场是推理账单，评测既是训练数据也该像员工一样保护好。②Boris Cherny：像对同事一样跟 Claude 说话，提示词没有秘诀，讲清做什么、花多少力气、怎么验证就够了。③Thariq：Claude 的大脑放云端、手留在本地，难点是电脑离线时的同步。④Aaron Levie 判断网络安全会是 AI 的决定性领域，Amjad Masad 说 AI 逆向让软件变成事实上的开源。⑤Peter Steinberger 让团队 agent 自动找人分派任务；Every 把内部公司 agent 开放给订阅用户。</description>
