@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Thu, 08 Oct 2026 08:07:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 08:43:23 GMT</lastBuildDate>
+    <item>
+      <title>10月8日｜Codex生成｜团队共享Agent，先写好权限与停止条件</title>
+      <description>上游新增19位builder的41条推文及Every一期访谈。Dan Shipper与Willie Williams回顾从个人OpenClaw转向公司共享agent的经验，也承认常驻agent的权限体验尚有问题；Guillermo Rauch提醒agent会无限优化，需要明确停止条件。结合Thariq关于跨领域提示的建议、Cat Wu的用户访谈用例，以及Claude发布方的模型价格声明，本期给出只读消息筛选实验、人工批准边界、播客交付验收表和完整成本对比方法。</description>
+      <itunes:summary>上游新增19位builder的41条推文及Every一期访谈。Dan Shipper与Willie Williams回顾从个人OpenClaw转向公司共享agent的经验，也承认常驻agent的权限体验尚有问题；Guillermo Rauch提醒agent会无限优化，需要明确停止条件。结合Thariq关于跨领域提示的建议、Cat Wu的用户访谈用例，以及Claude发布方的模型价格声明，本期给出只读消息筛选实验、人工批准边界、播客交付验收表和完整成本对比方法。</itunes:summary>
+      <pubDate>Thu, 08 Oct 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-10-08-codex</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-10-08-codex/2026-10-08-codex.mp3" length="9661429" type="audio/mpeg"/>
+      <itunes:duration>10:04</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>10月8日｜Every 为什么从人手一个 agent 改成全公司一个，Haiku 5.5 便宜七成五</title>
       <description>①AI &amp; I 播客，Dan Shipper 对谈 Every 平台负责人 Willie Williams：人手一个 claw 难维护、易荒废，Every 改成全公司一个 agent；职场用公司 agent、生活用个人 agent，还聊了 agent 值班和回到管理岗后 token 用量断崖下跌。②Haiku 5.5 全平台上线，Alex Albert 说比上一代快得多、便宜 75%；Sonnet 5.5 缓存读取减半，长任务约省两成。③Aditya Agarwal 给工程师三条路：做吞噬软件的技术、和领域专家组队、或只是监督 agent 写普通代码（他最不推荐）；Peter Yang 认为传统 SaaS 最脆弱。④Thariq：最常见的失败是在不熟的领域提示不精确，先让模型教你；Guillermo Rauch：agent 会一直钻，人要知道何时停。⑤Sam Altman：ChatGPT 能生成定制界面；Codex cloud 悄悄重新上线。</description>
