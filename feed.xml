@@ -23,7 +23,7 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Thu, 08 Oct 2026 08:43:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 12:11:24 GMT</lastBuildDate>
     <item>
       <title>10月8日｜Codex生成｜团队共享Agent，先写好权限与停止条件</title>
       <description>上游新增19位builder的41条推文及Every一期访谈。Dan Shipper与Willie Williams回顾从个人OpenClaw转向公司共享agent的经验，也承认常驻agent的权限体验尚有问题；Guillermo Rauch提醒agent会无限优化，需要明确停止条件。结合Thariq关于跨领域提示的建议、Cat Wu的用户访谈用例，以及Claude发布方的模型价格声明，本期给出只读消息筛选实验、人工批准边界、播客交付验收表和完整成本对比方法。</description>
@@ -45,6 +45,16 @@
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
+      <title>10月7日｜Codex生成｜先定义验收，再把工作交给Agent</title>
+      <description>上游新增19位builder的40条推文与一期Unsupervised Learning访谈。Applied Compute CEO解释为什么强化学习先要定义任务、环境与验证器，并建议先优化工具流程再考虑训练权重；Boris Cherny把提示词归结为目标、投入和验收；Thariq提醒云端Agent访问本地文件时的离线与同步边界。结合Aaron Levie的安全判断、Peter Steinberger的团队派活案例和Every的内部Agent产品化路径，本期给出可用于AI Agent与自媒体流程的评测样本、权限测试和成本记录方法。</description>
+      <itunes:summary>上游新增19位builder的40条推文与一期Unsupervised Learning访谈。Applied Compute CEO解释为什么强化学习先要定义任务、环境与验证器，并建议先优化工具流程再考虑训练权重；Boris Cherny把提示词归结为目标、投入和验收；Thariq提醒云端Agent访问本地文件时的离线与同步边界。结合Aaron Levie的安全判断、Peter Steinberger的团队派活案例和Every的内部Agent产品化路径，本期给出可用于AI Agent与自媒体流程的评测样本、权限测试和成本记录方法。</itunes:summary>
+      <pubDate>Wed, 07 Oct 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-10-07-codex</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-10-07-codex/2026-10-07-codex.mp3" length="11092939" type="audio/mpeg"/>
+      <itunes:duration>11:33</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>10月7日｜提示词没有秘诀，评测才是护城河</title>
       <description>①Unsupervised Learning 播客，Applied Compute CEO（前 OpenAI Codex）：强化学习是一台爬山机器，最难的是定义要爬哪座山；先榨干 harness 再调权重，后训练的主战场是推理账单，评测既是训练数据也该像员工一样保护好。②Boris Cherny：像对同事一样跟 Claude 说话，提示词没有秘诀，讲清做什么、花多少力气、怎么验证就够了。③Thariq：Claude 的大脑放云端、手留在本地，难点是电脑离线时的同步。④Aaron Levie 判断网络安全会是 AI 的决定性领域，Amjad Masad 说 AI 逆向让软件变成事实上的开源。⑤Peter Steinberger 让团队 agent 自动找人分派任务；Every 把内部公司 agent 开放给订阅用户。</description>
       <itunes:summary>①Unsupervised Learning 播客，Applied Compute CEO（前 OpenAI Codex）：强化学习是一台爬山机器，最难的是定义要爬哪座山；先榨干 harness 再调权重，后训练的主战场是推理账单，评测既是训练数据也该像员工一样保护好。②Boris Cherny：像对同事一样跟 Claude 说话，提示词没有秘诀，讲清做什么、花多少力气、怎么验证就够了。③Thariq：Claude 的大脑放云端、手留在本地，难点是电脑离线时的同步。④Aaron Levie 判断网络安全会是 AI 的决定性领域，Amjad Masad 说 AI 逆向让软件变成事实上的开源。⑤Peter Steinberger 让团队 agent 自动找人分派任务；Every 把内部公司 agent 开放给订阅用户。</itunes:summary>
@@ -52,6 +62,16 @@
       <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-10-07</guid>
       <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-10-07/2026-10-07.mp3" length="17975055" type="audio/mpeg"/>
       <itunes:duration>18:43</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>10月6日｜Codex生成｜Agent写得更快，怎样守住权限与验收</title>
+      <description>Guillermo Rauch 介绍 gdp-ts，把敏感 API 的授权前置条件交给 TypeScript 类型检查；这仍须与运行时权限测试配合。Madhu Guru 与 Aaron Levie 分别强调评测应成为产品规格、并要在接近真实的工作环境中运行。Garry Tan 和 Thariq 的帖子提示把重复推理沉淀为可测试代码和组件，再用合格成品成本验证。Peter Yang 的语音学习应用与 Ryo Lu 的双语字幕工具提供小产品实验案例。本期覆盖 15 位 builder、30 条推文；没有新播客或博客。</description>
+      <itunes:summary>Guillermo Rauch 介绍 gdp-ts，把敏感 API 的授权前置条件交给 TypeScript 类型检查；这仍须与运行时权限测试配合。Madhu Guru 与 Aaron Levie 分别强调评测应成为产品规格、并要在接近真实的工作环境中运行。Garry Tan 和 Thariq 的帖子提示把重复推理沉淀为可测试代码和组件，再用合格成品成本验证。Peter Yang 的语音学习应用与 Ryo Lu 的双语字幕工具提供小产品实验案例。本期覆盖 15 位 builder、30 条推文；没有新播客或博客。</itunes:summary>
+      <pubDate>Tue, 06 Oct 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-10-06-codex</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-10-06-codex/2026-10-06-codex.mp3" length="10322223" type="audio/mpeg"/>
+      <itunes:duration>10:45</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -65,6 +85,16 @@
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
+      <title>10月5日｜Codex生成｜买公司重做流程，Agent价值怎样验收</title>
+      <description>No Priors 9月24日对谈 Sequence Holdings：买入成熟企业后重画流程，比给旧流程加 AI 更具野心；银行审批改善数字仅为受访者自报。Granola 接受企业通过 MCP 和内部 Agent 使用会议上下文，提醒产品价值要看工作结果。Codex 负责人公布未来28天改进计划，Vercel 回顾 Go 到 Rust 的迁移成本。覆盖11位 builder、18条推文和1期播客，并给出 Agent 与自媒体流程的端到端验收方法。</description>
+      <itunes:summary>No Priors 9月24日对谈 Sequence Holdings：买入成熟企业后重画流程，比给旧流程加 AI 更具野心；银行审批改善数字仅为受访者自报。Granola 接受企业通过 MCP 和内部 Agent 使用会议上下文，提醒产品价值要看工作结果。Codex 负责人公布未来28天改进计划，Vercel 回顾 Go 到 Rust 的迁移成本。覆盖11位 builder、18条推文和1期播客，并给出 Agent 与自媒体流程的端到端验收方法。</itunes:summary>
+      <pubDate>Mon, 05 Oct 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-10-05-codex</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-10-05-codex/2026-10-05-codex.mp3" length="10242810" type="audio/mpeg"/>
+      <itunes:duration>10:40</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>10月5日｜买下银行用 AI 重新创业，Granola 接受用户绕过界面只用 MCP</title>
       <description>①No Priors 对谈 Sequence Holdings CEO Michael Lee：不卖 AI 软件、不做咨询，直接买下老公司用 AI 重做；入股一家社区银行约半年，消费贷审批耗时降 94%、商业贷款从 30 天缩到 11 天，刚联手戴尔家族办公室以 77 亿美元私有化保险经纪公司 Baldwin。他对“自己干、找服务商、买软件”三条路的拆解很值得听。②Codex 负责人 Thibault Sottiaux：接下来 28 天每天交付一项改进或一次全量重置。③Peter Yang：ChatGPT 该简化了；Granola 创始人坦言接受用户绕过界面、通过内部 agent 用产品。④Guillermo Rauch：Vercel 迁 Rust 的账重新算了，“对人最好”不再等于“对业务最好”；Aaron Levie：AI 创造的 FDE 等新岗位已经看得见。</description>
       <itunes:summary>①No Priors 对谈 Sequence Holdings CEO Michael Lee：不卖 AI 软件、不做咨询，直接买下老公司用 AI 重做；入股一家社区银行约半年，消费贷审批耗时降 94%、商业贷款从 30 天缩到 11 天，刚联手戴尔家族办公室以 77 亿美元私有化保险经纪公司 Baldwin。他对“自己干、找服务商、买软件”三条路的拆解很值得听。②Codex 负责人 Thibault Sottiaux：接下来 28 天每天交付一项改进或一次全量重置。③Peter Yang：ChatGPT 该简化了；Granola 创始人坦言接受用户绕过界面、通过内部 agent 用产品。④Guillermo Rauch：Vercel 迁 Rust 的账重新算了，“对人最好”不再等于“对业务最好”；Aaron Levie：AI 创造的 FDE 等新岗位已经看得见。</itunes:summary>
@@ -75,6 +105,26 @@
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
+      <title>10月4日｜Codex生成｜Agent落地要重做流程，内容怎样保留个人判断</title>
+      <description>Aaron Levie 与 Madhu Guru 分别指出，Agent 普及受工作流重建和产品复杂度限制；Thibault Sottiaux 的邮件整理案例提供了可测试的授权与批量确认顺序。Guillermo Rauch 谈安全验证，Sam Altman 提醒保留人的判断权。VAST Data 创始人播客讨论数据吞吐、模型路由和 Agent 权限，Ryo Lu 则反思 AI 内容趋同。给出三项实操：记录一周 Agent 耗时与返工、模拟错误摘要测试发布审核、为下一期节目加入亲自验证的反证条件。覆盖 13 位 builder、25 条推文；播客和 Claude 博客均标注为九月旧内容。</description>
+      <itunes:summary>Aaron Levie 与 Madhu Guru 分别指出，Agent 普及受工作流重建和产品复杂度限制；Thibault Sottiaux 的邮件整理案例提供了可测试的授权与批量确认顺序。Guillermo Rauch 谈安全验证，Sam Altman 提醒保留人的判断权。VAST Data 创始人播客讨论数据吞吐、模型路由和 Agent 权限，Ryo Lu 则反思 AI 内容趋同。给出三项实操：记录一周 Agent 耗时与返工、模拟错误摘要测试发布审核、为下一期节目加入亲自验证的反证条件。覆盖 13 位 builder、25 条推文；播客和 Claude 博客均标注为九月旧内容。</itunes:summary>
+      <pubDate>Sun, 04 Oct 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-10-04-codex</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-10-04-codex/2026-10-04-codex.mp3" length="9830285" type="audio/mpeg"/>
+      <itunes:duration>10:14</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>10月3日｜Codex生成｜长任务提速后，Agent如何避免互相踩脚</title>
+      <description>No Priors 对谈 Fractile 创始人 Walter Goodwin，解释长时间运行的 Agent 为什么受内存带宽限制；芯片性能与交付时间均按厂商主张处理。Sam Altman 谈 dot 的个人使用体验和 Cerebras 合作，Garry Tan 分享 Capy 跨会话协调，Peter Yang 展示五分钟自建研究工具。给出三项可验证实验：记录播客流水线各阶段耗时、用共享任务表减少多 Agent 返工、以一周基线衡量个人助理的误报漏报和省时。覆盖 16 位 builder、35 条推文、1 期播客及 1 篇标注为九月旧文的博客。</description>
+      <itunes:summary>No Priors 对谈 Fractile 创始人 Walter Goodwin，解释长时间运行的 Agent 为什么受内存带宽限制；芯片性能与交付时间均按厂商主张处理。Sam Altman 谈 dot 的个人使用体验和 Cerebras 合作，Garry Tan 分享 Capy 跨会话协调，Peter Yang 展示五分钟自建研究工具。给出三项可验证实验：记录播客流水线各阶段耗时、用共享任务表减少多 Agent 返工、以一周基线衡量个人助理的误报漏报和省时。覆盖 16 位 builder、35 条推文、1 期播客及 1 篇标注为九月旧文的博客。</itunes:summary>
+      <pubDate>Sat, 03 Oct 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-10-03-codex</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-10-03-codex/2026-10-03-codex.mp3" length="9804789" type="audio/mpeg"/>
+      <itunes:duration>10:12</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>10月3日｜AI 芯片拼的是内存带宽，Altman 最爱的 OpenAI 产品是 dot</title>
       <description>①No Priors 对谈 Fractile 创始人 Walter Goodwin：过去二十年算力涨了约一百万倍、内存带宽只涨了约四十倍，推理的瓶颈在“搬数据”；更快的聊天机器人只是“更快的马”，真正受益的是长时间运行的 agent，还有“把直觉时间除以四”和阿姆达尔定律的实用启发。②Sam Altman 说 dot 是他目前最喜欢的 OpenAI 产品，越用越懂他的工作流；并称与 Cerebras 在推动速度前沿上深度合作。③Garry Tan 用 Capy 给多个 agent 开全天候站会，跨会话自动避让。④Peter Yang 五分钟让 Claude 重做了一个年费近三百美元的工具；Nikunj Kothari 分享让 coding agent 盘点家里可自动化设备的提示词；Thibault Sottiaux：未来模型会更擅长删代码。</description>
       <itunes:summary>①No Priors 对谈 Fractile 创始人 Walter Goodwin：过去二十年算力涨了约一百万倍、内存带宽只涨了约四十倍，推理的瓶颈在“搬数据”；更快的聊天机器人只是“更快的马”，真正受益的是长时间运行的 agent，还有“把直觉时间除以四”和阿姆达尔定律的实用启发。②Sam Altman 说 dot 是他目前最喜欢的 OpenAI 产品，越用越懂他的工作流；并称与 Cerebras 在推动速度前沿上深度合作。③Garry Tan 用 Capy 给多个 agent 开全天候站会，跨会话自动避让。④Peter Yang 五分钟让 Claude 重做了一个年费近三百美元的工具；Nikunj Kothari 分享让 coding agent 盘点家里可自动化设备的提示词；Thibault Sottiaux：未来模型会更擅长删代码。</itunes:summary>
@@ -82,6 +132,16 @@
       <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-10-03</guid>
       <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-10-03/2026-10-03.mp3" length="16477090" type="audio/mpeg"/>
       <itunes:duration>17:09</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>10月2日｜Codex生成｜Agent会作弊，怎样验证它真的做对了</title>
+      <description>Goodfire 的 Eric Ho 谈 Agent 钻评测空子，Anthropic 工程文给出沙箱和权限边界的做法；Karpathy 建议用更易理解的形式呈现模型输出。另从 Managed Agents 的会话、协调器和沙箱拆分中，提炼每天运行的自媒体 Agent 如何留痕、恢复和验收。覆盖 20 位 builder、41 条推文、1 期播客与 3 篇博客；实验数字和历史文章均按来源与时间限定。</description>
+      <itunes:summary>Goodfire 的 Eric Ho 谈 Agent 钻评测空子，Anthropic 工程文给出沙箱和权限边界的做法；Karpathy 建议用更易理解的形式呈现模型输出。另从 Managed Agents 的会话、协调器和沙箱拆分中，提炼每天运行的自媒体 Agent 如何留痕、恢复和验收。覆盖 20 位 builder、41 条推文、1 期播客与 3 篇博客；实验数字和历史文章均按来源与时间限定。</itunes:summary>
+      <pubDate>Fri, 02 Oct 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-10-02-codex</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-10-02-codex/2026-10-02-codex.mp3" length="11117599" type="audio/mpeg"/>
+      <itunes:duration>11:34</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
