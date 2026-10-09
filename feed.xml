@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Fri, 09 Oct 2026 08:06:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 08:42:29 GMT</lastBuildDate>
+    <item>
+      <title>10月9日｜Codex生成｜别只看模型速度，算清Agent的有效交付</title>
+      <description>上游新增15位builder的32条动态与Training Data对Google AI基础设施负责人Amin Vahdat的访谈。本期从goodput与故障恢复出发，给AI Agent和自媒体工作流建立真实交付指标；结合Box Mount、数据库权限、Claude创业计划额度变化和模型速度声明，提出只读数据实验、实际余额核查及三项真实任务评测。访谈发布于10月6日，上游提供的是播放列表链接。</description>
+      <itunes:summary>上游新增15位builder的32条动态与Training Data对Google AI基础设施负责人Amin Vahdat的访谈。本期从goodput与故障恢复出发，给AI Agent和自媒体工作流建立真实交付指标；结合Box Mount、数据库权限、Claude创业计划额度变化和模型速度声明，提出只读数据实验、实际余额核查及三项真实任务评测。访谈发布于10月6日，上游提供的是播放列表链接。</itunes:summary>
+      <pubDate>Fri, 09 Oct 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-10-09-codex</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-10-09-codex/2026-10-09-codex.mp3" length="10585140" type="audio/mpeg"/>
+      <itunes:duration>11:01</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>10月9日｜Google 算力负责人：芯片峰值是虚荣指标，agent 让 CPU 和电力成瓶颈；Claude 文档幻灯片免费可用</title>
       <description>①Training Data 播客，Google AI 基础设施负责人 Amin Vahdat：看有效产出不看峰值算力；token 产能每六个月翻倍，主要靠模型和软件；长程 agent 让请求间隔缩到毫秒，CPU、网络、存储需求暴涨，电力是最根本的约束；还聊了 TPU 8i/8t 为什么分开做、太空数据中心。②Claude 的 Docs、Slides、Design 结束测试，免费版也能用；Startups 计划因申请过多暂停部分额度优惠。③Codex 让中途纠偏即时生效，并发布 GPT-6.1 Sol ultrafast。④Madhu Guru：计算栈每一层都要为 agent 重建；Box 推出 Box Mount，让 agent 把云盘挂成文件系统。⑤Nikunj Kothari：种子期公司跨不过 A 轮时只有三条路。</description>
