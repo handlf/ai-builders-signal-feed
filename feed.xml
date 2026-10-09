@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Thu, 08 Oct 2026 12:11:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 08:06:57 GMT</lastBuildDate>
+    <item>
+      <title>10月9日｜Google 算力负责人：芯片峰值是虚荣指标，agent 让 CPU 和电力成瓶颈；Claude 文档幻灯片免费可用</title>
+      <description>①Training Data 播客，Google AI 基础设施负责人 Amin Vahdat：看有效产出不看峰值算力；token 产能每六个月翻倍，主要靠模型和软件；长程 agent 让请求间隔缩到毫秒，CPU、网络、存储需求暴涨，电力是最根本的约束；还聊了 TPU 8i/8t 为什么分开做、太空数据中心。②Claude 的 Docs、Slides、Design 结束测试，免费版也能用；Startups 计划因申请过多暂停部分额度优惠。③Codex 让中途纠偏即时生效，并发布 GPT-6.1 Sol ultrafast。④Madhu Guru：计算栈每一层都要为 agent 重建；Box 推出 Box Mount，让 agent 把云盘挂成文件系统。⑤Nikunj Kothari：种子期公司跨不过 A 轮时只有三条路。</description>
+      <itunes:summary>①Training Data 播客，Google AI 基础设施负责人 Amin Vahdat：看有效产出不看峰值算力；token 产能每六个月翻倍，主要靠模型和软件；长程 agent 让请求间隔缩到毫秒，CPU、网络、存储需求暴涨，电力是最根本的约束；还聊了 TPU 8i/8t 为什么分开做、太空数据中心。②Claude 的 Docs、Slides、Design 结束测试，免费版也能用；Startups 计划因申请过多暂停部分额度优惠。③Codex 让中途纠偏即时生效，并发布 GPT-6.1 Sol ultrafast。④Madhu Guru：计算栈每一层都要为 agent 重建；Box 推出 Box Mount，让 agent 把云盘挂成文件系统。⑤Nikunj Kothari：种子期公司跨不过 A 轮时只有三条路。</itunes:summary>
+      <pubDate>Fri, 09 Oct 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-10-09</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-10-09/2026-10-09.mp3" length="17352296" type="audio/mpeg"/>
+      <itunes:duration>18:04</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>10月8日｜Codex生成｜团队共享Agent，先写好权限与停止条件</title>
       <description>上游新增19位builder的41条推文及Every一期访谈。Dan Shipper与Willie Williams回顾从个人OpenClaw转向公司共享agent的经验，也承认常驻agent的权限体验尚有问题；Guillermo Rauch提醒agent会无限优化，需要明确停止条件。结合Thariq关于跨领域提示的建议、Cat Wu的用户访谈用例，以及Claude发布方的模型价格声明，本期给出只读消息筛选实验、人工批准边界、播客交付验收表和完整成本对比方法。</description>
