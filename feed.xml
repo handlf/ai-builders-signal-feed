@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sat, 10 Oct 2026 08:06:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 08:43:30 GMT</lastBuildDate>
+    <item>
+      <title>10月10日｜Codex生成｜Agent流量涨了，成本与权限怎样算清</title>
+      <description>本期覆盖15位builder的27条动态、No Priors对Reflection AI的访谈及3篇Anthropic工程博客。Vercel自报机器人流量和Agent部署上升，Aaron Levie预测后台Agent将增加token消耗；我们用合格任务成本衡量实际收益，并讨论开放模型评测、托管Agent中断恢复、凭据隔离与发布权限。访谈标注10月9日发布；博客为今日抓取，包含四月历史复盘。</description>
+      <itunes:summary>本期覆盖15位builder的27条动态、No Priors对Reflection AI的访谈及3篇Anthropic工程博客。Vercel自报机器人流量和Agent部署上升，Aaron Levie预测后台Agent将增加token消耗；我们用合格任务成本衡量实际收益，并讨论开放模型评测、托管Agent中断恢复、凭据隔离与发布权限。访谈标注10月9日发布；博客为今日抓取，包含四月历史复盘。</itunes:summary>
+      <pubDate>Sat, 10 Oct 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-10-10-codex</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-10-10-codex/2026-10-10-codex.mp3" length="11661684" type="audio/mpeg"/>
+      <itunes:duration>12:08</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>10月10日｜Reflection AI 谈开放模型 Beam：企业会从租智能走向买智能；Vercel 六成部署已由 agent 完成</title>
       <description>①No Priors 播客，Reflection AI CEO Misha Laskin：从头训练开放权重模型 Beam，强化学习用的算力比预训练还多；他说网关上的 token 已从封闭七成变成开放七成，企业会先在封闭模型上跑量、再定制系统、最后自己部署；赢家公式是智能密度乘算力乘客户信任；还聊了中国开放模型和他的安全观。②Guillermo Rauch：Vercel 全网近六成流量来自机器，六成以上部署由 agent 完成，agent 开始自己买域名。③Aaron Levie：后台 agent 会消耗千倍 token；Madhu Guru 提醒智能降价早就在发生，开放模型只是顺风。④Anthropic 工程博客：用户会批准九成三的权限请求，所以要靠环境隔离给 agent 的爆炸半径封顶；Thariq 一句提示把旧项目迁到托管 agent。</description>
