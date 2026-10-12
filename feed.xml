@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sun, 11 Oct 2026 08:33:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 08:06:35 GMT</lastBuildDate>
+    <item>
+      <title>10月12日｜Karpathy 的 AI 认知漏斗：六十亿人没用过，五千人看到未来；推理芯片卡在内存带宽</title>
+      <description>①Andrej Karpathy：人们对 AI 能力的认知差距在扩大，六十亿人几乎没用过，十几亿人觉得它是个呆聊天机器人，两千万人一个提示就让 agent 做完过去要几个月的项目，约五千人在内部看到上千 agent 协作数周；差距由问题规模、能力锯齿性和访问权限决定。Aaron Levie 说这就是应用层的机会，Garry Tan 喊大家今天就往上走。②No Priors，Fractile CEO Walter Goodwin：二十年里算力涨了约一百万倍、内存带宽只涨约四十倍，快推理和长上下文的瓶颈在带宽；他们押注高带宽 DRAM，明年下半年上量，目标是让长时间运行的 agent 快很多。③Thibault Sottiaux：GPT-6.1 Sol 在 Codex 默认上下文从二十七万提到五十万，订阅内不收长上下文费。④Peter Yang 引用 Micky：不信任 agent 就让它拿出改动前后的证据，人只做最后一眼。</description>
+      <itunes:summary>①Andrej Karpathy：人们对 AI 能力的认知差距在扩大，六十亿人几乎没用过，十几亿人觉得它是个呆聊天机器人，两千万人一个提示就让 agent 做完过去要几个月的项目，约五千人在内部看到上千 agent 协作数周；差距由问题规模、能力锯齿性和访问权限决定。Aaron Levie 说这就是应用层的机会，Garry Tan 喊大家今天就往上走。②No Priors，Fractile CEO Walter Goodwin：二十年里算力涨了约一百万倍、内存带宽只涨约四十倍，快推理和长上下文的瓶颈在带宽；他们押注高带宽 DRAM，明年下半年上量，目标是让长时间运行的 agent 快很多。③Thibault Sottiaux：GPT-6.1 Sol 在 Codex 默认上下文从二十七万提到五十万，订阅内不收长上下文费。④Peter Yang 引用 Micky：不信任 agent 就让它拿出改动前后的证据，人只做最后一眼。</itunes:summary>
+      <pubDate>Mon, 12 Oct 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-10-12</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-10-12/2026-10-12.mp3" length="19570406" type="audio/mpeg"/>
+      <itunes:duration>20:23</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>10月11日｜Codex生成｜Agent权限、验收与奖励作弊</title>
       <description>本期覆盖11位builder的21条动态及一场10月1日发布的Goodfire访谈。Madhu Guru与Aaron Levie讨论Agent身份、权限和审计；Garry Tan分享计划审阅、合并队列和评测实践；访谈讨论奖励作弊与可解释性。我们给出播客及AI Agent工作流的权限分层、独立验收、成本记录和无法完成任务测试。短帖与外链证据不足的内容只作简述。</description>
