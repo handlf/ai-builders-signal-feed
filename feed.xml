@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Tue, 13 Oct 2026 08:05:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 08:37:39 GMT</lastBuildDate>
+    <item>
+      <title>10月13日｜Codex生成｜同样的AI能力，工作流差在哪里</title>
+      <description>本期覆盖15位builder的31条动态，并简述上游今天新收录、标注9月30日发布的Every与Sam Altman访谈。Aditya Agarwal谈前沿实验室与外界的AI工作流差距；Aaron Levie预测动态harness、模型竞争和企业Agent集群；Guillermo Rauch讨论轻量coding CLI；Peter Yang分享按角色组织Agent；Zara Zhang把代码视为讲故事的媒介。给出固定工具链与动态规划的对照实验、一人自媒体角色分工及只读Agent提醒的验收方法。弱信号简述，个人判断和历史访谈均保留来源边界。</description>
+      <itunes:summary>本期覆盖15位builder的31条动态，并简述上游今天新收录、标注9月30日发布的Every与Sam Altman访谈。Aditya Agarwal谈前沿实验室与外界的AI工作流差距；Aaron Levie预测动态harness、模型竞争和企业Agent集群；Guillermo Rauch讨论轻量coding CLI；Peter Yang分享按角色组织Agent；Zara Zhang把代码视为讲故事的媒介。给出固定工具链与动态规划的对照实验、一人自媒体角色分工及只读Agent提醒的验收方法。弱信号简述，个人判断和历史访谈均保留来源边界。</itunes:summary>
+      <pubDate>Tue, 13 Oct 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-10-13-codex</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-10-13-codex/2026-10-13-codex.mp3" length="8513268" type="audio/mpeg"/>
+      <itunes:duration>8:51</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>10月13日｜前沿实验室和外界的 AI 用法差距；Levie：agent 集群先吃掉网络安全</title>
       <description>①Aditya Agarwal：前沿实验室员工和前百分之一 AI 公司用 AI 的方式差距很大，而且是在公开能力上，他认为这里有一个横向加速器的创业机会。②Aaron Levie 连发三条：AI 最终会自己决定 harness；Meta 冲进前沿会让顶级能力的 token 变便宜；agent 集群会成为企业核心工作流，网络安全会是最大的 token 用户之一。③Guillermo Rauch 吐槽 coding CLI 越来越臃肿，推荐一个 6MB、毫秒启动、不绑模型的极简 CLI；Peter Steinberger 说 6.1 Sol ultrafast 成本差不多但快得多。④Peter Yang 用人设组织 Grok bot，像雇了几个各管一摊的员工；Zara Zhang 讲了一个用 AI 做的抓蟑螂小游戏，代码是讲故事的新媒介。另外简单回顾了 Sam Altman 谈 Dots 的那期播客（10 月 1 日已详细讲过）。</description>
