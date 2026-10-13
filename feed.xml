@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Mon, 12 Oct 2026 08:44:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 08:05:44 GMT</lastBuildDate>
+    <item>
+      <title>10月13日｜前沿实验室和外界的 AI 用法差距；Levie：agent 集群先吃掉网络安全</title>
+      <description>①Aditya Agarwal：前沿实验室员工和前百分之一 AI 公司用 AI 的方式差距很大，而且是在公开能力上，他认为这里有一个横向加速器的创业机会。②Aaron Levie 连发三条：AI 最终会自己决定 harness；Meta 冲进前沿会让顶级能力的 token 变便宜；agent 集群会成为企业核心工作流，网络安全会是最大的 token 用户之一。③Guillermo Rauch 吐槽 coding CLI 越来越臃肿，推荐一个 6MB、毫秒启动、不绑模型的极简 CLI；Peter Steinberger 说 6.1 Sol ultrafast 成本差不多但快得多。④Peter Yang 用人设组织 Grok bot，像雇了几个各管一摊的员工；Zara Zhang 讲了一个用 AI 做的抓蟑螂小游戏，代码是讲故事的新媒介。另外简单回顾了 Sam Altman 谈 Dots 的那期播客（10 月 1 日已详细讲过）。</description>
+      <itunes:summary>①Aditya Agarwal：前沿实验室员工和前百分之一 AI 公司用 AI 的方式差距很大，而且是在公开能力上，他认为这里有一个横向加速器的创业机会。②Aaron Levie 连发三条：AI 最终会自己决定 harness；Meta 冲进前沿会让顶级能力的 token 变便宜；agent 集群会成为企业核心工作流，网络安全会是最大的 token 用户之一。③Guillermo Rauch 吐槽 coding CLI 越来越臃肿，推荐一个 6MB、毫秒启动、不绑模型的极简 CLI；Peter Steinberger 说 6.1 Sol ultrafast 成本差不多但快得多。④Peter Yang 用人设组织 Grok bot，像雇了几个各管一摊的员工；Zara Zhang 讲了一个用 AI 做的抓蟑螂小游戏，代码是讲故事的新媒介。另外简单回顾了 Sam Altman 谈 Dots 的那期播客（10 月 1 日已详细讲过）。</itunes:summary>
+      <pubDate>Tue, 13 Oct 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-10-13</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-10-13/2026-10-13.mp3" length="15750259" type="audio/mpeg"/>
+      <itunes:duration>16:24</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>10月12日｜Codex生成｜AI能力漏斗与长任务的真实瓶颈</title>
       <description>本期覆盖13位builder的20条动态，以及上游今天新收录、标注10月2日发布的Fractile访谈。Karpathy用估算描绘AI能力体验漏斗；Aaron Levie谈企业采用门槛；Thibault Sottiaux宣布Codex长上下文调整；Peter Yang转述以证据验收Agent产物。我们结合访谈中的内存带宽观点，给出测量Agent耗时、费用、人工复核和任务完成率的具体办法。弱信号仅简述，嘉宾的硬件性能与量产计划均保留归因。</description>
