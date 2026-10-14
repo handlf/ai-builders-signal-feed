@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Wed, 14 Oct 2026 08:08:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 08:44:03 GMT</lastBuildDate>
+    <item>
+      <title>10月14日｜Codex生成｜Agent提速后，谁来验收与控权</title>
+      <description>David Silver与Lasse Espeholt谈从经验中学习的超级学习者，仍是研究目标；Anthropic披露代码合并量上升后为自身超大仓库构建Scion；Box与Every对Gemini 4 Argon给出不同任务口径的评测。结合Aaron Levie、Garry Tan对安全Agent和真实浏览器权限的观点，给出一张可执行的Agent验收卡：固定来源、任务、权限、人工确认、失败回退、耗时与成本。涵盖13位builder的28条动态、1期访谈及1篇博客，弱信号简述，预测和内部评测保留来源边界。</description>
+      <itunes:summary>David Silver与Lasse Espeholt谈从经验中学习的超级学习者，仍是研究目标；Anthropic披露代码合并量上升后为自身超大仓库构建Scion；Box与Every对Gemini 4 Argon给出不同任务口径的评测。结合Aaron Levie、Garry Tan对安全Agent和真实浏览器权限的观点，给出一张可执行的Agent验收卡：固定来源、任务、权限、人工确认、失败回退、耗时与成本。涵盖13位builder的28条动态、1期访谈及1篇博客，弱信号简述，预测和内部评测保留来源边界。</itunes:summary>
+      <pubDate>Wed, 14 Oct 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-10-14-codex</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-10-14-codex/2026-10-14-codex.mp3" length="9640531" type="audio/mpeg"/>
+      <itunes:duration>10:02</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>10月14日｜Gemini 4 Argon 评测两极；AlphaGo 核心人物 David Silver 赌不用人类数据的超级智能</title>
       <description>①Gemini 4 Argon 发布：Aaron Levie 说它在 Box 企业复杂任务评测上比 3.1 Pro 涨了十四个百分点，金融、医疗、科技等案例都更会按规格做全、前后自洽；Dan Shipper 却说它在 Every 资深工程师基准上只有 21%，低于 Sol 6 和 Muse。Guillermo Rauch 提醒个人和公司都要保持模型无关。②Anthropic 工程博客：每天合并的代码变更从 5 月的约 2500 个涨到 9 月的 3 万多个，git 扛不住，五个月自研版本控制系统 Scion，核心假设是客户端都是永远在线的 agent。③David Silver 和 Lasse Espeholt 谈新公司 Ineffable：不走 LLM 路线，在复杂模拟环境里让 agent 从零靠经验学习，预测一年内见到强证据、三年左右出现超级智能。④Swyx 办黑客松一个周末克隆年费 4.3 万美元的 SaaS，72 份提交、约千亿 token；Levie 说网络安全会是 agent 最大赛道之一；Amjad Masad 说即使暂停前沿研究，AI 也要十年才能扩散进经济。</description>
