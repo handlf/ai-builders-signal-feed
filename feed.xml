@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Tue, 13 Oct 2026 08:37:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 08:08:06 GMT</lastBuildDate>
+    <item>
+      <title>10月14日｜Gemini 4 Argon 评测两极；AlphaGo 核心人物 David Silver 赌不用人类数据的超级智能</title>
+      <description>①Gemini 4 Argon 发布：Aaron Levie 说它在 Box 企业复杂任务评测上比 3.1 Pro 涨了十四个百分点，金融、医疗、科技等案例都更会按规格做全、前后自洽；Dan Shipper 却说它在 Every 资深工程师基准上只有 21%，低于 Sol 6 和 Muse。Guillermo Rauch 提醒个人和公司都要保持模型无关。②Anthropic 工程博客：每天合并的代码变更从 5 月的约 2500 个涨到 9 月的 3 万多个，git 扛不住，五个月自研版本控制系统 Scion，核心假设是客户端都是永远在线的 agent。③David Silver 和 Lasse Espeholt 谈新公司 Ineffable：不走 LLM 路线，在复杂模拟环境里让 agent 从零靠经验学习，预测一年内见到强证据、三年左右出现超级智能。④Swyx 办黑客松一个周末克隆年费 4.3 万美元的 SaaS，72 份提交、约千亿 token；Levie 说网络安全会是 agent 最大赛道之一；Amjad Masad 说即使暂停前沿研究，AI 也要十年才能扩散进经济。</description>
+      <itunes:summary>①Gemini 4 Argon 发布：Aaron Levie 说它在 Box 企业复杂任务评测上比 3.1 Pro 涨了十四个百分点，金融、医疗、科技等案例都更会按规格做全、前后自洽；Dan Shipper 却说它在 Every 资深工程师基准上只有 21%，低于 Sol 6 和 Muse。Guillermo Rauch 提醒个人和公司都要保持模型无关。②Anthropic 工程博客：每天合并的代码变更从 5 月的约 2500 个涨到 9 月的 3 万多个，git 扛不住，五个月自研版本控制系统 Scion，核心假设是客户端都是永远在线的 agent。③David Silver 和 Lasse Espeholt 谈新公司 Ineffable：不走 LLM 路线，在复杂模拟环境里让 agent 从零靠经验学习，预测一年内见到强证据、三年左右出现超级智能。④Swyx 办黑客松一个周末克隆年费 4.3 万美元的 SaaS，72 份提交、约千亿 token；Levie 说网络安全会是 agent 最大赛道之一；Amjad Masad 说即使暂停前沿研究，AI 也要十年才能扩散进经济。</itunes:summary>
+      <pubDate>Wed, 14 Oct 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-10-14</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-10-14/2026-10-14.mp3" length="27522497" type="audio/mpeg"/>
+      <itunes:duration>28:40</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>10月13日｜Codex生成｜同样的AI能力，工作流差在哪里</title>
       <description>本期覆盖15位builder的31条动态，并简述上游今天新收录、标注9月30日发布的Every与Sam Altman访谈。Aditya Agarwal谈前沿实验室与外界的AI工作流差距；Aaron Levie预测动态harness、模型竞争和企业Agent集群；Guillermo Rauch讨论轻量coding CLI；Peter Yang分享按角色组织Agent；Zara Zhang把代码视为讲故事的媒介。给出固定工具链与动态规划的对照实验、一人自媒体角色分工及只读Agent提醒的验收方法。弱信号简述，个人判断和历史访谈均保留来源边界。</description>
