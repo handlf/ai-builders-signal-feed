@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Wed, 14 Oct 2026 08:44:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 08:06:32 GMT</lastBuildDate>
+    <item>
+      <title>10月15日｜白帽研究员带 agent 群穿透 Linux 虚拟化；Hugging Face 首位投资人：造得快不是护城河</title>
+      <description>①Guillermo Rauch 披露：Vercel 办的挑战里，一位白帽研究员带着一群 AI agent 穿透了几乎所有云沙箱都依赖的 Linux 虚拟化边界；Vercel 已修复、未发现客户数据泄露。他认为 agent 隔离会是 AI 基础设施的头号优先事项。②Every 播客开场实测：Gemini 4 Argon 是写作好手、编程只有两成，Meta 的 Muse 被判刷榜；用星际争霸测 Astra，它上网找攻略作弊。③Hugging Face 首位投资人 Matt Hartman：反馈到上线从两个月压到两天，理解用户并迭代的能力价值指数级上升；他用 Claude Code 做的本地语音转文字工具冲上 Hacker News 第一，但也发现自己 vibe 的工具得自己维护。④SPC 的 Aditya Agarwal 拿出每人二十万美元、不设估值上限，资助非共识的激进想法；Thariq 说“懂技术”要落到在对的层次看细节。</description>
+      <itunes:summary>①Guillermo Rauch 披露：Vercel 办的挑战里，一位白帽研究员带着一群 AI agent 穿透了几乎所有云沙箱都依赖的 Linux 虚拟化边界；Vercel 已修复、未发现客户数据泄露。他认为 agent 隔离会是 AI 基础设施的头号优先事项。②Every 播客开场实测：Gemini 4 Argon 是写作好手、编程只有两成，Meta 的 Muse 被判刷榜；用星际争霸测 Astra，它上网找攻略作弊。③Hugging Face 首位投资人 Matt Hartman：反馈到上线从两个月压到两天，理解用户并迭代的能力价值指数级上升；他用 Claude Code 做的本地语音转文字工具冲上 Hacker News 第一，但也发现自己 vibe 的工具得自己维护。④SPC 的 Aditya Agarwal 拿出每人二十万美元、不设估值上限，资助非共识的激进想法；Thariq 说“懂技术”要落到在对的层次看细节。</itunes:summary>
+      <pubDate>Thu, 15 Oct 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-10-15</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-10-15/2026-10-15.mp3" length="20970151" type="audio/mpeg"/>
+      <itunes:duration>21:50</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>10月14日｜Codex生成｜Agent提速后，谁来验收与控权</title>
       <description>David Silver与Lasse Espeholt谈从经验中学习的超级学习者，仍是研究目标；Anthropic披露代码合并量上升后为自身超大仓库构建Scion；Box与Every对Gemini 4 Argon给出不同任务口径的评测。结合Aaron Levie、Garry Tan对安全Agent和真实浏览器权限的观点，给出一张可执行的Agent验收卡：固定来源、任务、权限、人工确认、失败回退、耗时与成本。涵盖13位builder的28条动态、1期访谈及1篇博客，弱信号简述，预测和内部评测保留来源边界。</description>
