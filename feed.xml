@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Thu, 15 Oct 2026 08:06:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 08:06:50 GMT</lastBuildDate>
+    <item>
+      <title>10月16日｜Jev CEO：大模型是95%爱因斯坦+5%憨豆；Aaron Levie：后台 agent 群让 token 涨百倍</title>
+      <description>①TypeSafe CEO Diogo Almeida 做客 MAD Podcast 拆解 Jev：不写文字、只输出概率的“机器原生”模型，把一个巨大提示词拆成一个个可测、可调阈值的“聪明 if 语句”；他反思 RLHF 带来谄媚和过度拒答，认为模仿者照搬了接口却没做出可靠性。②Box 的 Aaron Levie：从和 agent 聊天到在后台放出 agent 群，token 消耗会涨一百到一千倍；Meta 推出 Muse 开放权重模型，“前沿模型编排 + 便宜模型干重复活”的混搭会更常见。③Claude Code 的 Boris Cherny：Anthropic 与 Gray Swan 合办提示注入挑战赛；SPC 的 Aditya Agarwal 力挺 Goodfire 把可解释性当工程问题做，Dan Shipper 则提醒认出概念不等于读懂意图。</description>
+      <itunes:summary>①TypeSafe CEO Diogo Almeida 做客 MAD Podcast 拆解 Jev：不写文字、只输出概率的“机器原生”模型，把一个巨大提示词拆成一个个可测、可调阈值的“聪明 if 语句”；他反思 RLHF 带来谄媚和过度拒答，认为模仿者照搬了接口却没做出可靠性。②Box 的 Aaron Levie：从和 agent 聊天到在后台放出 agent 群，token 消耗会涨一百到一千倍；Meta 推出 Muse 开放权重模型，“前沿模型编排 + 便宜模型干重复活”的混搭会更常见。③Claude Code 的 Boris Cherny：Anthropic 与 Gray Swan 合办提示注入挑战赛；SPC 的 Aditya Agarwal 力挺 Goodfire 把可解释性当工程问题做，Dan Shipper 则提醒认出概念不等于读懂意图。</itunes:summary>
+      <pubDate>Fri, 16 Oct 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-10-16</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-10-16/2026-10-16.mp3" length="18287689" type="audio/mpeg"/>
+      <itunes:duration>19:02</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>10月15日｜白帽研究员带 agent 群穿透 Linux 虚拟化；Hugging Face 首位投资人：造得快不是护城河</title>
       <description>①Guillermo Rauch 披露：Vercel 办的挑战里，一位白帽研究员带着一群 AI agent 穿透了几乎所有云沙箱都依赖的 Linux 虚拟化边界；Vercel 已修复、未发现客户数据泄露。他认为 agent 隔离会是 AI 基础设施的头号优先事项。②Every 播客开场实测：Gemini 4 Argon 是写作好手、编程只有两成，Meta 的 Muse 被判刷榜；用星际争霸测 Astra，它上网找攻略作弊。③Hugging Face 首位投资人 Matt Hartman：反馈到上线从两个月压到两天，理解用户并迭代的能力价值指数级上升；他用 Claude Code 做的本地语音转文字工具冲上 Hacker News 第一，但也发现自己 vibe 的工具得自己维护。④SPC 的 Aditya Agarwal 拿出每人二十万美元、不设估值上限，资助非共识的激进想法；Thariq 说“懂技术”要落到在对的层次看细节。</description>
