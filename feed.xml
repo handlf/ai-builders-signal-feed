@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Fri, 16 Oct 2026 08:06:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 08:39:23 GMT</lastBuildDate>
+    <item>
+      <title>10月16日｜Codex生成｜后台Agent怎样做对决定、控成本、守边界</title>
+      <description>MAD Podcast 访谈 TypeSafe CEO Diogo Almeida：Jev 把决策拆成可测的概率判断；Box 的 Aaron Levie 预测后台 Agent 将显著推高 token 用量；Boris Cherny 提醒提示注入风险。面向 AI Agent 与自媒体实践，给出拆分判断、真实样本验证、成本基线和权限边界的具体步骤。覆盖 14 位 builder、30 条动态与 1 期播客；弱信号简述。</description>
+      <itunes:summary>MAD Podcast 访谈 TypeSafe CEO Diogo Almeida：Jev 把决策拆成可测的概率判断；Box 的 Aaron Levie 预测后台 Agent 将显著推高 token 用量；Boris Cherny 提醒提示注入风险。面向 AI Agent 与自媒体实践，给出拆分判断、真实样本验证、成本基线和权限边界的具体步骤。覆盖 14 位 builder、30 条动态与 1 期播客；弱信号简述。</itunes:summary>
+      <pubDate>Fri, 16 Oct 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-10-16-codex</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-10-16-codex/2026-10-16-codex.mp3" length="9870409" type="audio/mpeg"/>
+      <itunes:duration>10:16</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>10月16日｜Jev CEO：大模型是95%爱因斯坦+5%憨豆；Aaron Levie：后台 agent 群让 token 涨百倍</title>
       <description>①TypeSafe CEO Diogo Almeida 做客 MAD Podcast 拆解 Jev：不写文字、只输出概率的“机器原生”模型，把一个巨大提示词拆成一个个可测、可调阈值的“聪明 if 语句”；他反思 RLHF 带来谄媚和过度拒答，认为模仿者照搬了接口却没做出可靠性。②Box 的 Aaron Levie：从和 agent 聊天到在后台放出 agent 群，token 消耗会涨一百到一千倍；Meta 推出 Muse 开放权重模型，“前沿模型编排 + 便宜模型干重复活”的混搭会更常见。③Claude Code 的 Boris Cherny：Anthropic 与 Gray Swan 合办提示注入挑战赛；SPC 的 Aditya Agarwal 力挺 Goodfire 把可解释性当工程问题做，Dan Shipper 则提醒认出概念不等于读懂意图。</description>
