@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sat, 17 Oct 2026 08:08:24 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 08:39:33 GMT</lastBuildDate>
+    <item>
+      <title>10月17日｜Codex生成｜生成便宜了，验收与安全怎么跟上</title>
+      <description>No Priors 访谈中，Greg Brockman谈数学问题的复核、药物研发的数据瓶颈、主动助理 Dots 与安全投入；这些判断保留来源和验证边界。Boris Cherny 的逐 PR AI 审查、Dan Shipper 的编辑与监督主张，以及数条幻灯片动态，指向更具体的实践：证据可定位的事实核查、审查误报统计、同题幻灯片改稿比较和最小权限后台 Agent。本集覆盖17位 builder、37条动态与1期播客，弱信号简述。</description>
+      <itunes:summary>No Priors 访谈中，Greg Brockman谈数学问题的复核、药物研发的数据瓶颈、主动助理 Dots 与安全投入；这些判断保留来源和验证边界。Boris Cherny 的逐 PR AI 审查、Dan Shipper 的编辑与监督主张，以及数条幻灯片动态，指向更具体的实践：证据可定位的事实核查、审查误报统计、同题幻灯片改稿比较和最小权限后台 Agent。本集覆盖17位 builder、37条动态与1期播客，弱信号简述。</itunes:summary>
+      <pubDate>Sat, 17 Oct 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-10-17-codex</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-10-17-codex/2026-10-17-codex.mp3" length="8170151" type="audio/mpeg"/>
+      <itunes:duration>8:30</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>10月17日｜Greg Brockman：安全支出该超过软件支出；生成便宜了，监督变贵了</title>
       <description>① Greg Brockman 上 No Priors：AI 已能产生新知识，约四百个数学开放问题有了解答；药物研发是第一优先级，瓶颈在数据；网络安全正处于“防守方窗口期”，OpenAI 抽二十五名工程师暂停项目专做安全，他认为安全支出应远超软件支出。评估：九分，今天就能照做一轮“用最强模型扫自己代码”的安全冲刺。
