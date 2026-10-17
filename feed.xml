@@ -23,7 +23,21 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Fri, 16 Oct 2026 08:39:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 08:08:24 GMT</lastBuildDate>
+    <item>
+      <title>10月17日｜Greg Brockman：安全支出该超过软件支出；生成便宜了，监督变贵了</title>
+      <description>① Greg Brockman 上 No Priors：AI 已能产生新知识，约四百个数学开放问题有了解答；药物研发是第一优先级，瓶颈在数据；网络安全正处于“防守方窗口期”，OpenAI 抽二十五名工程师暂停项目专做安全，他认为安全支出应远超软件支出。评估：九分，今天就能照做一轮“用最强模型扫自己代码”的安全冲刺。
+② 数学里程碑余波：Sam Altman 晒纳维-斯托克斯纪念 T 恤，Amjad Masad 说数学家走完悲伤五阶段，Aaron Levie 说递归自我改进的飞轮已现。评估：值得关注，但也有人认为会边际递减。
+③ 幻灯片大战与“监督才是瓶颈”：Claude Slides、Codex 幻灯片支持、Replit Frontier Slides 同周上线；Boris Cherny 说 Claude Code Review 跑在他每个 PR 上，Dan Shipper 说下一个能力跃升是编辑和监督。建议：给仓库加一道 AI 挑错审查。</description>
+      <itunes:summary>① Greg Brockman 上 No Priors：AI 已能产生新知识，约四百个数学开放问题有了解答；药物研发是第一优先级，瓶颈在数据；网络安全正处于“防守方窗口期”，OpenAI 抽二十五名工程师暂停项目专做安全，他认为安全支出应远超软件支出。评估：九分，今天就能照做一轮“用最强模型扫自己代码”的安全冲刺。
+② 数学里程碑余波：Sam Altman 晒纳维-斯托克斯纪念 T 恤，Amjad Masad 说数学家走完悲伤五阶段，Aaron Levie 说递归自我改进的飞轮已现。评估：值得关注，但也有人认为会边际递减。
+③ 幻灯片大战与“监督才是瓶颈”：Claude Slides、Codex 幻灯片支持、Replit Frontier Slides 同周上线；Boris Cherny 说 Claude Code Review 跑在他每个 PR 上，Dan Shipper 说下一个能力跃升是编辑和监督。建议：给仓库加一道 AI 挑错审查。</itunes:summary>
+      <pubDate>Sat, 17 Oct 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-10-17</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-10-17/2026-10-17.mp3" length="20027653" type="audio/mpeg"/>
+      <itunes:duration>20:51</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>10月16日｜Codex生成｜后台Agent怎样做对决定、控成本、守边界</title>
       <description>MAD Podcast 访谈 TypeSafe CEO Diogo Almeida：Jev 把决策拆成可测的概率判断；Box 的 Aaron Levie 预测后台 Agent 将显著推高 token 用量；Boris Cherny 提醒提示注入风险。面向 AI Agent 与自媒体实践，给出拆分判断、真实样本验证、成本基线和权限边界的具体步骤。覆盖 14 位 builder、30 条动态与 1 期播客；弱信号简述。</description>
