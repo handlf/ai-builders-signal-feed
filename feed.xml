@@ -23,7 +23,21 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sat, 17 Oct 2026 08:39:33 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 08:07:17 GMT</lastBuildDate>
+    <item>
+      <title>10月18日｜几十亿个 agent 涌进数据库：缺的不是技术是护栏；Aaron Levie：几乎一切都在变成软件</title>
+      <description>① 数据库学者 Andy Pavlo 上 The MAD Podcast：每月都有人因 agent 误删丢掉生产库，权限、分支这些护栏几十年前就有；agent 可能让查询量涨十到一百倍，超过六成开源数据库已有 agent 提交，大模型十五分钟能把调优做到八成五；还爆料有数据库公司想让 agent 优先推荐自己。评估：八分，今天就给 agent 单独建一个最小权限的数据库账号。
+② Aaron Levie：预言软件工程终结的人误判了，几乎一切都在变成代码，懂代码的人位置更好。评估：和播客“总得有人看懂 agent”同一个判断。
+③ Agent 进入个人生活：Thibault Sottiaux 的两个 Dot 互发邮件、二十分钟办完报税；Peter Yang 分享一段让 AI 审计 Google 授权的提示词，先给建议、批准后才动手。另有 Amjad Masad 澄清 Replit 仍模型中立，但 OpenAI 是 Agent 首选合作方。</description>
+      <itunes:summary>① 数据库学者 Andy Pavlo 上 The MAD Podcast：每月都有人因 agent 误删丢掉生产库，权限、分支这些护栏几十年前就有；agent 可能让查询量涨十到一百倍，超过六成开源数据库已有 agent 提交，大模型十五分钟能把调优做到八成五；还爆料有数据库公司想让 agent 优先推荐自己。评估：八分，今天就给 agent 单独建一个最小权限的数据库账号。
+② Aaron Levie：预言软件工程终结的人误判了，几乎一切都在变成代码，懂代码的人位置更好。评估：和播客“总得有人看懂 agent”同一个判断。
+③ Agent 进入个人生活：Thibault Sottiaux 的两个 Dot 互发邮件、二十分钟办完报税；Peter Yang 分享一段让 AI 审计 Google 授权的提示词，先给建议、批准后才动手。另有 Amjad Masad 澄清 Replit 仍模型中立，但 OpenAI 是 Agent 首选合作方。</itunes:summary>
+      <pubDate>Sun, 18 Oct 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-10-18</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-10-18/2026-10-18.mp3" length="20378321" type="audio/mpeg"/>
+      <itunes:duration>21:13</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>10月17日｜Codex生成｜生成便宜了，验收与安全怎么跟上</title>
       <description>No Priors 访谈中，Greg Brockman谈数学问题的复核、药物研发的数据瓶颈、主动助理 Dots 与安全投入；这些判断保留来源和验证边界。Boris Cherny 的逐 PR AI 审查、Dan Shipper 的编辑与监督主张，以及数条幻灯片动态，指向更具体的实践：证据可定位的事实核查、审查误报统计、同题幻灯片改稿比较和最小权限后台 Agent。本集覆盖17位 builder、37条动态与1期播客，弱信号简述。</description>
