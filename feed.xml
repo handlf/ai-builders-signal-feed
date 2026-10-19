@@ -23,7 +23,21 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sun, 18 Oct 2026 08:37:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 08:06:59 GMT</lastBuildDate>
+    <item>
+      <title>10月19日｜开放模型份额半年翻到七成：Reflection CEO 谈 Beam；Aaron Levie：agent 集群让算力成核心变量</title>
+      <description>① Reflection AI 的 Misha Laskin 上 No Priors：首个开放权重模型 Beam 五千亿参数，强化学习花的算力比预训练还多、曲线一直在涨；网关上开放与闭源份额半年从三七翻成七三；企业会先用闭源跑大、再“从租到买”，靠定制系统而非微调；还主张开放更安全：拿掉攻击能力就拿掉了防御能力。评估：八分，今天就拿开放模型给你调用量最大的任务跑一次成本对比。
+② Aaron Levie：agent 集群让研究、测试、数据处理这类工作第一次只受算力约束。评估：和播客“花钱换进步”同一逻辑，可以试试把一件没时间做全的事拆给几个 agent 并行。
+③ Thibault Sottiaux：OpenAI 帮 OpenCode 用户在攻击后恢复、退还被盗刷额度，并开放防御用途申请；另有 Thariq 设想“玩家自己 vibe code 角色”的开源游戏，Guillermo Rauch 用 DeepSeek 快速版三毛美元改了个小游戏。</description>
+      <itunes:summary>① Reflection AI 的 Misha Laskin 上 No Priors：首个开放权重模型 Beam 五千亿参数，强化学习花的算力比预训练还多、曲线一直在涨；网关上开放与闭源份额半年从三七翻成七三；企业会先用闭源跑大、再“从租到买”，靠定制系统而非微调；还主张开放更安全：拿掉攻击能力就拿掉了防御能力。评估：八分，今天就拿开放模型给你调用量最大的任务跑一次成本对比。
+② Aaron Levie：agent 集群让研究、测试、数据处理这类工作第一次只受算力约束。评估：和播客“花钱换进步”同一逻辑，可以试试把一件没时间做全的事拆给几个 agent 并行。
+③ Thibault Sottiaux：OpenAI 帮 OpenCode 用户在攻击后恢复、退还被盗刷额度，并开放防御用途申请；另有 Thariq 设想“玩家自己 vibe code 角色”的开源游戏，Guillermo Rauch 用 DeepSeek 快速版三毛美元改了个小游戏。</itunes:summary>
+      <pubDate>Mon, 19 Oct 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-10-19</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-10-19/2026-10-19.mp3" length="22910735" type="audio/mpeg"/>
+      <itunes:duration>23:51</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>10月18日｜Codex生成｜Agent进数据库，先设权限再谈提速</title>
       <description>The MAD Podcast 中 Andy Pavlo 谈 Agent 使用数据库分支、最小权限与防误删机制；10 到 100 倍查询量是预测，原集发布于 10 月 8 日。Peter Yang 分享 Google 应用授权审计流程，Swyx 披露频道新观众与订阅数据。另覆盖 Thibault Sottiaux、Amjad Masad、Aaron Levie 等共 8 位 builder 的 15 条动态。给 AI Agent 和自媒体实践的建议：先审授权、隔离数据变更、记录内容转化与人工验收。</description>
