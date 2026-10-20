@@ -23,7 +23,21 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Mon, 19 Oct 2026 08:06:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 08:06:54 GMT</lastBuildDate>
+    <item>
+      <title>10月20日｜Every 放弃人手一个 agent，改成全公司一个；Wabi 2.0 的多人 agent 范式</title>
+      <description>① Every 的 AI &amp; I：主持人 Dan Shipper 和平台负责人 Willie Williams 复盘一年弯路——全员 OpenClaw 个人 agent 败在维护成本和知识分散，最后改成全公司一个 agent；判断是工作上一个组织一个 agent、生活里各有个人 agent；还聊了用 agent 做第一值班人、用信息流替代开会。评估：八分，今天就开个频道让团队互相展示 AI 用法。
+② Garry Tan、Nikunj Kothari 同日点名 Wabi 2.0：主 agent 加按主题生成、用完归档、可分享给家人的子对话。评估：和播客的“每个领域一个教练 bot”是同一问题的两种解法，做 agent 产品可以试试“任务结束自动归档”。
+③ Aaron Levie：模型越强，垂直领域专门化越值钱，“套壳”只属于模型弱的年代；另有 Guillermo Rauch 开源扛崩溃的 HTML artifact 生成器，Thariq 提醒多线程开 agent 前先想清楚头号优先事项。</description>
+      <itunes:summary>① Every 的 AI &amp; I：主持人 Dan Shipper 和平台负责人 Willie Williams 复盘一年弯路——全员 OpenClaw 个人 agent 败在维护成本和知识分散，最后改成全公司一个 agent；判断是工作上一个组织一个 agent、生活里各有个人 agent；还聊了用 agent 做第一值班人、用信息流替代开会。评估：八分，今天就开个频道让团队互相展示 AI 用法。
+② Garry Tan、Nikunj Kothari 同日点名 Wabi 2.0：主 agent 加按主题生成、用完归档、可分享给家人的子对话。评估：和播客的“每个领域一个教练 bot”是同一问题的两种解法，做 agent 产品可以试试“任务结束自动归档”。
+③ Aaron Levie：模型越强，垂直领域专门化越值钱，“套壳”只属于模型弱的年代；另有 Guillermo Rauch 开源扛崩溃的 HTML artifact 生成器，Thariq 提醒多线程开 agent 前先想清楚头号优先事项。</itunes:summary>
+      <pubDate>Tue, 20 Oct 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-10-20</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-10-20/2026-10-20.mp3" length="21049145" type="audio/mpeg"/>
+      <itunes:duration>21:55</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>10月19日｜开放模型份额半年翻到七成：Reflection CEO 谈 Beam；Aaron Levie：agent 集群让算力成核心变量</title>
       <description>① Reflection AI 的 Misha Laskin 上 No Priors：首个开放权重模型 Beam 五千亿参数，强化学习花的算力比预训练还多、曲线一直在涨；网关上开放与闭源份额半年从三七翻成七三；企业会先用闭源跑大、再“从租到买”，靠定制系统而非微调；还主张开放更安全：拿掉攻击能力就拿掉了防御能力。评估：八分，今天就拿开放模型给你调用量最大的任务跑一次成本对比。
