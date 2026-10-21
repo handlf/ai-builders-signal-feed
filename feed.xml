@@ -23,7 +23,21 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Tue, 20 Oct 2026 08:06:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 08:07:06 GMT</lastBuildDate>
+    <item>
+      <title>10月21日｜Codex 缓存永久保留；三个 agent 分工比子 agent 好用</title>
+      <description>① Thibault Sottiaux（OpenAI Codex）：API 可缓存十二小时，Codex 登录用户缓存永久保留，隔天接着干不再多花钱；同时承认约四万个账号用量算错并补额度。评估：七分，检查一下你的调用有没有把固定提示放在最前面。
+② Peter Steinberger：一个 agent 规划、在 worktree 里调用 codex 命令行写代码，再让第二个 agent 专门挑刺，比依赖子 agent 好得多。评估：七分，今天就能拿一个中等任务试试。
+③ Guillermo Rauch 要把 agent 持久化开源给所有 harness，并点出 Claude Code、Codex 不适合嵌入；Aaron Levie 说 AI 的新形态是专门领域的自主系统；Aditya Agarwal：子 agent 到 agent 集群，像极了多线程到分布式。另有 Swyx、Dan Shipper 吐槽拒答和审批死循环，Zara Zhang 说信号胜过分发。</description>
+      <itunes:summary>① Thibault Sottiaux（OpenAI Codex）：API 可缓存十二小时，Codex 登录用户缓存永久保留，隔天接着干不再多花钱；同时承认约四万个账号用量算错并补额度。评估：七分，检查一下你的调用有没有把固定提示放在最前面。
+② Peter Steinberger：一个 agent 规划、在 worktree 里调用 codex 命令行写代码，再让第二个 agent 专门挑刺，比依赖子 agent 好得多。评估：七分，今天就能拿一个中等任务试试。
+③ Guillermo Rauch 要把 agent 持久化开源给所有 harness，并点出 Claude Code、Codex 不适合嵌入；Aaron Levie 说 AI 的新形态是专门领域的自主系统；Aditya Agarwal：子 agent 到 agent 集群，像极了多线程到分布式。另有 Swyx、Dan Shipper 吐槽拒答和审批死循环，Zara Zhang 说信号胜过分发。</itunes:summary>
+      <pubDate>Wed, 21 Oct 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-10-21</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-10-21/2026-10-21.mp3" length="16781782" type="audio/mpeg"/>
+      <itunes:duration>17:28</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>10月20日｜Every 放弃人手一个 agent，改成全公司一个；Wabi 2.0 的多人 agent 范式</title>
       <description>① Every 的 AI &amp; I：主持人 Dan Shipper 和平台负责人 Willie Williams 复盘一年弯路——全员 OpenClaw 个人 agent 败在维护成本和知识分散，最后改成全公司一个 agent；判断是工作上一个组织一个 agent、生活里各有个人 agent；还聊了用 agent 做第一值班人、用信息流替代开会。评估：八分，今天就开个频道让团队互相展示 AI 用法。
