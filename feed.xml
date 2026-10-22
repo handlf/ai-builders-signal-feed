@@ -23,7 +23,21 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Wed, 21 Oct 2026 08:37:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 08:07:29 GMT</lastBuildDate>
+    <item>
+      <title>10月22日｜Claude Duet 会先替你动手；模型挖出本周的 PHP 大漏洞</title>
+      <description>① Anthropic 发布 Claude Duet：会主动发现并做掉待办的个人 agent，基于 Opus 5.5，继承记忆和 skills，美国 Pro、Max 候补中。Dan Shipper 实测两周，称它是第一个够格叫专业工具的个人 agent，但还不能指挥电脑上的 Claude 会话。评估：八分，先把你的授权边界清单写出来。
+② AI 与安全：Peter Steinberger 说本周的 PHP 漏洞是 GPT-5.6 Sol 发现的；Vercel 提前上线防火墙缓解 Node.js RCE 和 php2shell；Aaron Levie 认为安全循环的 token 消耗会是现在想象的一百倍。评估：八分，今天就盘点你的 PHP 和 Node.js 服务。
+③ Every 播客：Dan Shipper 讲每家公司都需要前沿小组，海盗去试、建筑师收口；个人基准、token 价值看板、给写作 AI 加读者文档，都能直接抄。另有 Guillermo Rauch 推荐 DeepSeek v4.1 Flash 跑子 agent，Aditya Agarwal 说孩子更爱做游戏而不是玩游戏。</description>
+      <itunes:summary>① Anthropic 发布 Claude Duet：会主动发现并做掉待办的个人 agent，基于 Opus 5.5，继承记忆和 skills，美国 Pro、Max 候补中。Dan Shipper 实测两周，称它是第一个够格叫专业工具的个人 agent，但还不能指挥电脑上的 Claude 会话。评估：八分，先把你的授权边界清单写出来。
+② AI 与安全：Peter Steinberger 说本周的 PHP 漏洞是 GPT-5.6 Sol 发现的；Vercel 提前上线防火墙缓解 Node.js RCE 和 php2shell；Aaron Levie 认为安全循环的 token 消耗会是现在想象的一百倍。评估：八分，今天就盘点你的 PHP 和 Node.js 服务。
+③ Every 播客：Dan Shipper 讲每家公司都需要前沿小组，海盗去试、建筑师收口；个人基准、token 价值看板、给写作 AI 加读者文档，都能直接抄。另有 Guillermo Rauch 推荐 DeepSeek v4.1 Flash 跑子 agent，Aditya Agarwal 说孩子更爱做游戏而不是玩游戏。</itunes:summary>
+      <pubDate>Thu, 22 Oct 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-10-22</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-10-22/2026-10-22.mp3" length="20109991" type="audio/mpeg"/>
+      <itunes:duration>20:56</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>10月21日｜Codex生成｜Agent长任务怎样续跑、控成本、验结果</title>
       <description>Thibault Sottiaux 说明长时缓存，并承认约四万个账户的用量计量不一致；Guillermo Rauch 谈 Agent 持久化，Peter Steinberger 分享规划、编码和独立质疑的 worktree 流程。Aaron Levie 讨论领域自主系统，Zara Zhang 提醒早期产品重视受众反馈。覆盖 15 位 builder 的 31 条动态；给 AI Agent 和自媒体实践的动作：核对用量、测试中断续跑、独立验收、记录真实用户需求。</description>
