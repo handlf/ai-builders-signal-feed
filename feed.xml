@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Thu, 22 Oct 2026 08:07:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 08:39:41 GMT</lastBuildDate>
+    <item>
+      <title>10月22日｜Codex生成｜主动Agent怎样管权限、验安全、做实验</title>
+      <description>Claude Duet 早期预览把个人 Agent 推向主动发现任务，官方也承认它会误判紧急程度；Vercel 分享 Node.js 与 PHP 漏洞缓解，提醒团队练习补丁到重部署。Every 播客介绍前沿小组、个人评测集与实验成本归类。覆盖 17 位 builder、36 条推文和 1 集播客；给 AI Agent 与自媒体实践的动作：写授权表、演练升级回滚、用真实样本评测新工具。</description>
+      <itunes:summary>Claude Duet 早期预览把个人 Agent 推向主动发现任务，官方也承认它会误判紧急程度；Vercel 分享 Node.js 与 PHP 漏洞缓解，提醒团队练习补丁到重部署。Every 播客介绍前沿小组、个人评测集与实验成本归类。覆盖 17 位 builder、36 条推文和 1 集播客；给 AI Agent 与自媒体实践的动作：写授权表、演练升级回滚、用真实样本评测新工具。</itunes:summary>
+      <pubDate>Thu, 22 Oct 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-10-22-codex</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-10-22-codex/2026-10-22-codex.mp3" length="9980750" type="audio/mpeg"/>
+      <itunes:duration>10:23</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>10月22日｜Claude Duet 会先替你动手；模型挖出本周的 PHP 大漏洞</title>
       <description>① Anthropic 发布 Claude Duet：会主动发现并做掉待办的个人 agent，基于 Opus 5.5，继承记忆和 skills，美国 Pro、Max 候补中。Dan Shipper 实测两周，称它是第一个够格叫专业工具的个人 agent，但还不能指挥电脑上的 Claude 会话。评估：八分，先把你的授权边界清单写出来。
