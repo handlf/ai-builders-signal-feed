@@ -23,7 +23,7 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Thu, 22 Oct 2026 08:39:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 23:47:48 GMT</lastBuildDate>
     <item>
       <title>10月22日｜Codex生成｜主动Agent怎样管权限、验安全、做实验</title>
       <description>Claude Duet 早期预览把个人 Agent 推向主动发现任务，官方也承认它会误判紧急程度；Vercel 分享 Node.js 与 PHP 漏洞缓解，提醒团队练习补丁到重部署。Every 播客介绍前沿小组、个人评测集与实验成本归类。覆盖 17 位 builder、36 条推文和 1 集播客；给 AI Agent 与自媒体实践的动作：写授权表、演练升级回滚、用真实样本评测新工具。</description>
@@ -73,6 +73,16 @@
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
+      <title>10月20日｜Codex生成｜共享Agent之后，谁接住结果</title>
+      <description>补发10月20日素材：11位builder、21条动态与1段旧访谈。Every十月上旬访谈复盘个人Agent转向公司共享Agent的经验；结合Wabi早期体验、Rauch持久任务工具、Aaron Levie的领域工作流判断及Thariq的专注提醒，讨论任务归属、权限、归档和失败续跑。产品体验与商业观点保留归因，建议的实验不冒充完成结果。</description>
+      <itunes:summary>补发10月20日素材：11位builder、21条动态与1段旧访谈。Every十月上旬访谈复盘个人Agent转向公司共享Agent的经验；结合Wabi早期体验、Rauch持久任务工具、Aaron Levie的领域工作流判断及Thariq的专注提醒，讨论任务归属、权限、归档和失败续跑。产品体验与商业观点保留归因，建议的实验不冒充完成结果。</itunes:summary>
+      <pubDate>Tue, 20 Oct 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-10-20-codex</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-10-20-codex/2026-10-20-codex.mp3" length="11315712" type="audio/mpeg"/>
+      <itunes:duration>11:47</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>10月20日｜Every 放弃人手一个 agent，改成全公司一个；Wabi 2.0 的多人 agent 范式</title>
       <description>① Every 的 AI &amp; I：主持人 Dan Shipper 和平台负责人 Willie Williams 复盘一年弯路——全员 OpenClaw 个人 agent 败在维护成本和知识分散，最后改成全公司一个 agent；判断是工作上一个组织一个 agent、生活里各有个人 agent；还聊了用 agent 做第一值班人、用信息流替代开会。评估：八分，今天就开个频道让团队互相展示 AI 用法。
 ② Garry Tan、Nikunj Kothari 同日点名 Wabi 2.0：主 agent 加按主题生成、用完归档、可分享给家人的子对话。评估：和播客的“每个领域一个教练 bot”是同一问题的两种解法，做 agent 产品可以试试“任务结束自动归档”。
@@ -84,6 +94,16 @@
       <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-10-20</guid>
       <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-10-20/2026-10-20.mp3" length="21049145" type="audio/mpeg"/>
       <itunes:duration>21:55</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>10月19日｜Codex生成｜Agent权限边界与质量回归</title>
+      <description>Anthropic 工程文章讨论 Agent 隔离和 Claude Code 早前质量故障；No Priors 10 月 9 日访谈谈 Reflection AI 的 Beam 与开放模型部署成本。另覆盖 Swyx、Thibault Sottiaux、Aaron Levie 等 11 位 builder 的 21 条动态，以及 2 篇博客。给 AI Agent 和自媒体实践的建议：最小权限、隔离运行、固定任务集回归与人工验收。</description>
+      <itunes:summary>Anthropic 工程文章讨论 Agent 隔离和 Claude Code 早前质量故障；No Priors 10 月 9 日访谈谈 Reflection AI 的 Beam 与开放模型部署成本。另覆盖 Swyx、Thibault Sottiaux、Aaron Levie 等 11 位 builder 的 21 条动态，以及 2 篇博客。给 AI Agent 和自媒体实践的建议：最小权限、隔离运行、固定任务集回归与人工验收。</itunes:summary>
+      <pubDate>Mon, 19 Oct 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-10-19-codex</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-10-19-codex/2026-10-19-codex.mp3" length="10368616" type="audio/mpeg"/>
+      <itunes:duration>10:47</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -166,6 +186,16 @@
       <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-10-16</guid>
       <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-10-16/2026-10-16.mp3" length="18287689" type="audio/mpeg"/>
       <itunes:duration>19:02</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>10月15日｜Codex生成｜Agent冲击沙箱，产品护城河转向反馈与维护</title>
+      <description>Guillermo Rauch披露白帽研究者与AI Agent挑战Linux虚拟化隔离的事件，并说明Vercel已采取防护、未发现客户数据受损证据；不将单方披露扩展为行业普遍漏洞。Every访谈中Matt Hartman回顾Hugging Face与Anchor如何从留存和创作者需求调整产品，讨论AI加速迭代后的用户反馈与工具维护成本。结合Thariq的技术理解建议，给出Agent隔离验收、播客逐段核验与单变量内容实验。覆盖12位builder的28条动态和1期访谈，弱信号简述。</description>
+      <itunes:summary>Guillermo Rauch披露白帽研究者与AI Agent挑战Linux虚拟化隔离的事件，并说明Vercel已采取防护、未发现客户数据受损证据；不将单方披露扩展为行业普遍漏洞。Every访谈中Matt Hartman回顾Hugging Face与Anchor如何从留存和创作者需求调整产品，讨论AI加速迭代后的用户反馈与工具维护成本。结合Thariq的技术理解建议，给出Agent隔离验收、播客逐段核验与单变量内容实验。覆盖12位builder的28条动态和1期访谈，弱信号简述。</itunes:summary>
+      <pubDate>Thu, 15 Oct 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-10-15-codex</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-10-15-codex/2026-10-15-codex.mp3" length="10244482" type="audio/mpeg"/>
+      <itunes:duration>10:40</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
