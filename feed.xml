@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Fri, 23 Oct 2026 08:07:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 08:38:01 GMT</lastBuildDate>
+    <item>
+      <title>10月23日｜Codex生成｜Agent默认自治，怎样管权限与交付</title>
+      <description>Claude 宣布下周将让部分付费会话默认使用 auto mode；Boris Cherny 称 Agent Skills 已捐给 Agentic AI Foundation；Thibault Sottiaux 称 Decisions API 正式可用。安全线索聚焦短期凭据、漏洞修复证据与 Agent 估时。另解读一集 10 月 13 日的经验学习访谈，明确旧节目日期。覆盖 18 位 builder、38 条推文和 1 集播客；给 AI Agent 与自媒体实践三项动作：四级授权表、凭据权限清单、发布证据卡。</description>
+      <itunes:summary>Claude 宣布下周将让部分付费会话默认使用 auto mode；Boris Cherny 称 Agent Skills 已捐给 Agentic AI Foundation；Thibault Sottiaux 称 Decisions API 正式可用。安全线索聚焦短期凭据、漏洞修复证据与 Agent 估时。另解读一集 10 月 13 日的经验学习访谈，明确旧节目日期。覆盖 18 位 builder、38 条推文和 1 集播客；给 AI Agent 与自媒体实践三项动作：四级授权表、凭据权限清单、发布证据卡。</itunes:summary>
+      <pubDate>Fri, 23 Oct 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-10-23-codex</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-10-23-codex/2026-10-23-codex.mp3" length="10295055" type="audio/mpeg"/>
+      <itunes:duration>10:43</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>10月23日｜David Silver 押注不要人类数据的超级学习者；Agent Skills 进基金会、Claude 将默认 auto mode</title>
       <description>① 播客：AlphaGo 核心人物 David Silver 离开 DeepMind 创办 Ineffable，放弃人类数据，用简单目标加复杂模拟环境让智能体自己发现知识；他回顾 AlphaZero 几小时超过 AlphaGo 两年成果，预测一年内见强证据、三年内超级智能。评估：八分，最值得借的是简单目标加复杂环境的思路。
