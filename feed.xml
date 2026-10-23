@@ -23,7 +23,23 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Thu, 22 Oct 2026 23:47:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 08:07:37 GMT</lastBuildDate>
+    <item>
+      <title>10月23日｜David Silver 押注不要人类数据的超级学习者；Agent Skills 进基金会、Claude 将默认 auto mode</title>
+      <description>① 播客：AlphaGo 核心人物 David Silver 离开 DeepMind 创办 Ineffable，放弃人类数据，用简单目标加复杂模拟环境让智能体自己发现知识；他回顾 AlphaZero 几小时超过 AlphaGo 两年成果，预测一年内见强证据、三年内超级智能。评估：八分，最值得借的是简单目标加复杂环境的思路。
+② Boris Cherny：Anthropic 把 Agent Skills 捐给 Agentic AI Foundation，和 MCP 放在一起；Codex 的 Thibault Sottiaux 说 OpenResponses 加入 Linux 基金会。评估：七分，今天就把常用流程写成标准 skill。
+③ Claude 官方：下周起 Pro、Max、Team 会话默认 auto mode，由自动检查拦截高风险操作；Claude 在 Google Cloud 全面可用。评估：七分，切换前先盘点连接的应用和权限。
+另有安全余波：Guillermo Rauch 呼吁淘汰静态凭证、Aaron Levie 说靠隐蔽求安全彻底结束；Swyx 称 Opus 5.5 估算工期最准；Aditya Agarwal 转述 π0.7 能用自然语言教会机器人新技能。</description>
+      <itunes:summary>① 播客：AlphaGo 核心人物 David Silver 离开 DeepMind 创办 Ineffable，放弃人类数据，用简单目标加复杂模拟环境让智能体自己发现知识；他回顾 AlphaZero 几小时超过 AlphaGo 两年成果，预测一年内见强证据、三年内超级智能。评估：八分，最值得借的是简单目标加复杂环境的思路。
+② Boris Cherny：Anthropic 把 Agent Skills 捐给 Agentic AI Foundation，和 MCP 放在一起；Codex 的 Thibault Sottiaux 说 OpenResponses 加入 Linux 基金会。评估：七分，今天就把常用流程写成标准 skill。
+③ Claude 官方：下周起 Pro、Max、Team 会话默认 auto mode，由自动检查拦截高风险操作；Claude 在 Google Cloud 全面可用。评估：七分，切换前先盘点连接的应用和权限。
+另有安全余波：Guillermo Rauch 呼吁淘汰静态凭证、Aaron Levie 说靠隐蔽求安全彻底结束；Swyx 称 Opus 5.5 估算工期最准；Aditya Agarwal 转述 π0.7 能用自然语言教会机器人新技能。</itunes:summary>
+      <pubDate>Fri, 23 Oct 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-10-23</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-10-23/2026-10-23.mp3" length="21121034" type="audio/mpeg"/>
+      <itunes:duration>21:59</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>10月22日｜Codex生成｜主动Agent怎样管权限、验安全、做实验</title>
       <description>Claude Duet 早期预览把个人 Agent 推向主动发现任务，官方也承认它会误判紧急程度；Vercel 分享 Node.js 与 PHP 漏洞缓解，提醒团队练习补丁到重部署。Every 播客介绍前沿小组、个人评测集与实验成本归类。覆盖 17 位 builder、36 条推文和 1 集播客；给 AI Agent 与自媒体实践的动作：写授权表、演练升级回滚、用真实样本评测新工具。</description>
