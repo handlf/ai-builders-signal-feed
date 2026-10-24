@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Fri, 23 Oct 2026 08:38:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 08:39:50 GMT</lastBuildDate>
+    <item>
+      <title>10月24日｜Codex生成｜Agent安全闭环与内容分发新问题</title>
+      <description>Cloudflare CTO 在 No Priors 访谈中讨论 AI 加快漏洞发现、减少攻击面与 Agent 安全审阅，也提出内容网站与 Agent 访问、微支付的新问题。Thibault Sottiaux 介绍 Codex CLI 提示词预设、权限设置和 Windows 企业代理修复；Amjad Masad 宣布 Chroma 团队加入 Replit。覆盖 14 位 builder、28 条推文和 1 集播客。给 AI Agent 与自媒体实践的动作：建立发布安全闭环、用固定任务验证 CLI 更新、核对内容的机器可发现性。</description>
+      <itunes:summary>Cloudflare CTO 在 No Priors 访谈中讨论 AI 加快漏洞发现、减少攻击面与 Agent 安全审阅，也提出内容网站与 Agent 访问、微支付的新问题。Thibault Sottiaux 介绍 Codex CLI 提示词预设、权限设置和 Windows 企业代理修复；Amjad Masad 宣布 Chroma 团队加入 Replit。覆盖 14 位 builder、28 条推文和 1 集播客。给 AI Agent 与自媒体实践的动作：建立发布安全闭环、用固定任务验证 CLI 更新、核对内容的机器可发现性。</itunes:summary>
+      <pubDate>Sat, 24 Oct 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-10-24-codex</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-10-24-codex/2026-10-24-codex.mp3" length="9953583" type="audio/mpeg"/>
+      <itunes:duration>10:21</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>10月23日｜Codex生成｜Agent默认自治，怎样管权限与交付</title>
       <description>Claude 宣布下周将让部分付费会话默认使用 auto mode；Boris Cherny 称 Agent Skills 已捐给 Agentic AI Foundation；Thibault Sottiaux 称 Decisions API 正式可用。安全线索聚焦短期凭据、漏洞修复证据与 Agent 估时。另解读一集 10 月 13 日的经验学习访谈，明确旧节目日期。覆盖 18 位 builder、38 条推文和 1 集播客；给 AI Agent 与自媒体实践三项动作：四级授权表、凭据权限清单、发布证据卡。</description>
