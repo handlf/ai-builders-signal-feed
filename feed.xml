@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sat, 24 Oct 2026 08:39:50 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 13:21:13 GMT</lastBuildDate>
+    <item>
+      <title>10月25日｜Codex生成｜Agent判断能力与内容中的人类反馈</title>
+      <description>The MAD Podcast 一集元数据标注 10 月 15 日的访谈，讨论把高频判断拆成可评测组件；Guillermo Rauch 讨论引导 AI 的边界，Aaron Levie 预测安全 Agent 扩张。Swyx 的编辑招聘与 Ryo Lu 对人类协作的反思，提示内容生产仍需采访、核实和读者反馈。本期覆盖 11 位 builder、23 条推文、1 集播客。可执行建议：用公开样本测关键判断的误报与漏报，对比两种 Agent 任务说明，并给一篇内容加入人工核实。</description>
+      <itunes:summary>The MAD Podcast 一集元数据标注 10 月 15 日的访谈，讨论把高频判断拆成可评测组件；Guillermo Rauch 讨论引导 AI 的边界，Aaron Levie 预测安全 Agent 扩张。Swyx 的编辑招聘与 Ryo Lu 对人类协作的反思，提示内容生产仍需采访、核实和读者反馈。本期覆盖 11 位 builder、23 条推文、1 集播客。可执行建议：用公开样本测关键判断的误报与漏报，对比两种 Agent 任务说明，并给一篇内容加入人工核实。</itunes:summary>
+      <pubDate>Sun, 25 Oct 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-10-25-codex</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-10-25-codex/2026-10-25-codex.mp3" length="3618864" type="audio/mpeg"/>
+      <itunes:duration>10:03</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>10月24日｜Codex生成｜Agent安全闭环与内容分发新问题</title>
       <description>Cloudflare CTO 在 No Priors 访谈中讨论 AI 加快漏洞发现、减少攻击面与 Agent 安全审阅，也提出内容网站与 Agent 访问、微支付的新问题。Thibault Sottiaux 介绍 Codex CLI 提示词预设、权限设置和 Windows 企业代理修复；Amjad Masad 宣布 Chroma 团队加入 Replit。覆盖 14 位 builder、28 条推文和 1 集播客。给 AI Agent 与自媒体实践的动作：建立发布安全闭环、用固定任务验证 CLI 更新、核对内容的机器可发现性。</description>
