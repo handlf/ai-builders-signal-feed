@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sun, 25 Oct 2026 13:21:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 08:44:16 GMT</lastBuildDate>
+    <item>
+      <title>11月2日｜Codex生成｜推理成本、Agent沙箱与反馈验收</title>
+      <description>本期基于11月2日重新抓取的 follow-builders 快照，覆盖11位 builder、22条推文和一期 Redpoint 对 Modal CEO 的访谈。讨论 GPU 采购的异质性、推理服务的真实成本与沙箱隔离；Karpathy 的 HackerTube 展示从公开评论提取推荐证据，Replit 反馈组件提醒区分用户反馈与自动发布。给 AI Agent 与自媒体实践的建议：用公开样本同时量测延迟、失败率、费用和人工返工，保留审核哈希与故障续跑证据。</description>
+      <itunes:summary>本期基于11月2日重新抓取的 follow-builders 快照，覆盖11位 builder、22条推文和一期 Redpoint 对 Modal CEO 的访谈。讨论 GPU 采购的异质性、推理服务的真实成本与沙箱隔离；Karpathy 的 HackerTube 展示从公开评论提取推荐证据，Replit 反馈组件提醒区分用户反馈与自动发布。给 AI Agent 与自媒体实践的建议：用公开样本同时量测延迟、失败率、费用和人工返工，保留审核哈希与故障续跑证据。</itunes:summary>
+      <pubDate>Mon, 02 Nov 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-11-02-codex</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-11-02-codex/2026-11-02-codex.mp3" length="8084148" type="audio/mpeg"/>
+      <itunes:duration>8:25</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>10月25日｜Codex生成｜Agent判断能力与内容中的人类反馈</title>
       <description>The MAD Podcast 一集元数据标注 10 月 15 日的访谈，讨论把高频判断拆成可评测组件；Guillermo Rauch 讨论引导 AI 的边界，Aaron Levie 预测安全 Agent 扩张。Swyx 的编辑招聘与 Ryo Lu 对人类协作的反思，提示内容生产仍需采访、核实和读者反馈。本期覆盖 11 位 builder、23 条推文、1 集播客。可执行建议：用公开样本测关键判断的误报与漏报，对比两种 Agent 任务说明，并给一篇内容加入人工核实。</description>
