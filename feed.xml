@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Mon, 02 Nov 2026 08:44:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 08:39:50 GMT</lastBuildDate>
+    <item>
+      <title>11月3日｜Codex生成｜看不到客户数据，如何评测专业Agent</title>
+      <description>本期基于11月3日重新抓取的 follow-builders 快照，覆盖12位 builder、29条推文和一集 Latent Space 对 Legora CTO 的访谈。重点讨论法律 Agent 在客户数据保密条件下如何按任务评测、模型路由与协作留痕；结合 Agent 沙箱、写作工具与并行协作动态。给 AI Agent 和自媒体实践的动作：建立经授权的脱敏样本，分开测证据检索、引用、成稿与人工纠错，记录权限边界、成本和返工。</description>
+      <itunes:summary>本期基于11月3日重新抓取的 follow-builders 快照，覆盖12位 builder、29条推文和一集 Latent Space 对 Legora CTO 的访谈。重点讨论法律 Agent 在客户数据保密条件下如何按任务评测、模型路由与协作留痕；结合 Agent 沙箱、写作工具与并行协作动态。给 AI Agent 和自媒体实践的动作：建立经授权的脱敏样本，分开测证据检索、引用、成稿与人工纠错，记录权限边界、成本和返工。</itunes:summary>
+      <pubDate>Tue, 03 Nov 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-11-03-codex</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-11-03-codex/2026-11-03-codex.mp3" length="9906353" type="audio/mpeg"/>
+      <itunes:duration>10:19</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>11月2日｜Codex生成｜推理成本、Agent沙箱与反馈验收</title>
       <description>本期基于11月2日重新抓取的 follow-builders 快照，覆盖11位 builder、22条推文和一期 Redpoint 对 Modal CEO 的访谈。讨论 GPU 采购的异质性、推理服务的真实成本与沙箱隔离；Karpathy 的 HackerTube 展示从公开评论提取推荐证据，Replit 反馈组件提醒区分用户反馈与自动发布。给 AI Agent 与自媒体实践的建议：用公开样本同时量测延迟、失败率、费用和人工返工，保留审核哈希与故障续跑证据。</description>
