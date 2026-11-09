@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Mon, 09 Nov 2026 07:03:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 15:51:27 GMT</lastBuildDate>
+    <item>
+      <title>11月9日｜Codex生成｜Agent越能写，越要先定义结果</title>
+      <description>本期基于11月9日 follow-builders 快照，覆盖10位 builder、21条推文和一集 Latent Space 对 Stanford 课程授课者 Mihail Eric 的访谈。主线是大型代码库中的上下文、工具、审查与安全，以及先定义任务再扩大 Agent 并行。Nan Yu、Aaron Levie、Garry Tan 等观点分开标注为个人判断。给 AI Agent 与自媒体实践的动作：用一页任务卡固定来源、输出、人工审批和发布验收；以可回查证据、返工时间及故障率衡量结果。</description>
+      <itunes:summary>本期基于11月9日 follow-builders 快照，覆盖10位 builder、21条推文和一集 Latent Space 对 Stanford 课程授课者 Mihail Eric 的访谈。主线是大型代码库中的上下文、工具、审查与安全，以及先定义任务再扩大 Agent 并行。Nan Yu、Aaron Levie、Garry Tan 等观点分开标注为个人判断。给 AI Agent 与自媒体实践的动作：用一页任务卡固定来源、输出、人工审批和发布验收；以可回查证据、返工时间及故障率衡量结果。</itunes:summary>
+      <pubDate>Mon, 09 Nov 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-11-09-codex</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-11-09-codex/2026-11-09-codex.mp3" length="10191156" type="audio/mpeg"/>
+      <itunes:duration>10:37</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>11月8日｜Codex生成｜交易Agent的权限边界与可验收产出</title>
       <description>本期基于11月8日重新抓取的 follow-builders 快照，覆盖10位 builder、19条推文和一集 No Priors 对 Robinhood CEO 的访谈。嘉宾讨论 Agentic Trading、隔离账户、交易审批、资产代币化与数学验证；相关用户和调用数字均为嘉宾自述。Aaron Levie 谈多 Agent 的产出条件，Karpathy 展示从公开清单到内容界面的快速原型。给 AI Agent 与自媒体实践的动作：先用公开样本测来源可追溯性、权限边界、人工审批和返工时间，再扩大自动化。</description>
