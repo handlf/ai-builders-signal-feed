@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Tue, 03 Nov 2026 08:39:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 00:11:47 GMT</lastBuildDate>
+    <item>
+      <title>11月8日｜Codex生成｜交易Agent的权限边界与可验收产出</title>
+      <description>本期基于11月8日重新抓取的 follow-builders 快照，覆盖10位 builder、19条推文和一集 No Priors 对 Robinhood CEO 的访谈。嘉宾讨论 Agentic Trading、隔离账户、交易审批、资产代币化与数学验证；相关用户和调用数字均为嘉宾自述。Aaron Levie 谈多 Agent 的产出条件，Karpathy 展示从公开清单到内容界面的快速原型。给 AI Agent 与自媒体实践的动作：先用公开样本测来源可追溯性、权限边界、人工审批和返工时间，再扩大自动化。</description>
+      <itunes:summary>本期基于11月8日重新抓取的 follow-builders 快照，覆盖10位 builder、19条推文和一集 No Priors 对 Robinhood CEO 的访谈。嘉宾讨论 Agentic Trading、隔离账户、交易审批、资产代币化与数学验证；相关用户和调用数字均为嘉宾自述。Aaron Levie 谈多 Agent 的产出条件，Karpathy 展示从公开清单到内容界面的快速原型。给 AI Agent 与自媒体实践的动作：先用公开样本测来源可追溯性、权限边界、人工审批和返工时间，再扩大自动化。</itunes:summary>
+      <pubDate>Sun, 08 Nov 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-11-08-codex</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-11-08-codex/2026-11-08-codex.mp3" length="10112244" type="audio/mpeg"/>
+      <itunes:duration>10:32</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>11月3日｜Codex生成｜看不到客户数据，如何评测专业Agent</title>
       <description>本期基于11月3日重新抓取的 follow-builders 快照，覆盖12位 builder、29条推文和一集 Latent Space 对 Legora CTO 的访谈。重点讨论法律 Agent 在客户数据保密条件下如何按任务评测、模型路由与协作留痕；结合 Agent 沙箱、写作工具与并行协作动态。给 AI Agent 和自媒体实践的动作：建立经授权的脱敏样本，分开测证据检索、引用、成稿与人工纠错，记录权限边界、成本和返工。</description>
