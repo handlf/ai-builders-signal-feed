@@ -23,7 +23,7 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Mon, 09 Nov 2026 00:11:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 02:55:20 GMT</lastBuildDate>
     <item>
       <title>11月8日｜Codex生成｜交易Agent的权限边界与可验收产出</title>
       <description>本期基于11月8日重新抓取的 follow-builders 快照，覆盖10位 builder、19条推文和一集 No Priors 对 Robinhood CEO 的访谈。嘉宾讨论 Agentic Trading、隔离账户、交易审批、资产代币化与数学验证；相关用户和调用数字均为嘉宾自述。Aaron Levie 谈多 Agent 的产出条件，Karpathy 展示从公开清单到内容界面的快速原型。给 AI Agent 与自媒体实践的动作：先用公开样本测来源可追溯性、权限边界、人工审批和返工时间，再扩大自动化。</description>
@@ -52,6 +52,66 @@
       <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-11-02-codex</guid>
       <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-11-02-codex/2026-11-02-codex.mp3" length="8084148" type="audio/mpeg"/>
       <itunes:duration>8:25</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>10月31日｜Codex生成｜企业Agent权限与可审计交付</title>
+      <description>本期回补 follow-builders 10月31日上游快照，覆盖16位 builder、31条推文及一期 No Priors 完整访谈。Serval 创始人 Jake Stauch 谈企业 Agent 的暂存、审批、短时授权和审计；Amjad Masad 谈自动修复与沙箱，Claude 官方说明 Ultra 额度变化，Zara Zhang 分享 AI 视频剪辑案例。给 AI Agent 与自媒体实践的建议：分开取材、评分、配音和发布权限，记录稿件哈希、失败状态与公开核验结果。</description>
+      <itunes:summary>本期回补 follow-builders 10月31日上游快照，覆盖16位 builder、31条推文及一期 No Priors 完整访谈。Serval 创始人 Jake Stauch 谈企业 Agent 的暂存、审批、短时授权和审计；Amjad Masad 谈自动修复与沙箱，Claude 官方说明 Ultra 额度变化，Zara Zhang 分享 AI 视频剪辑案例。给 AI Agent 与自媒体实践的建议：分开取材、评分、配音和发布权限，记录稿件哈希、失败状态与公开核验结果。</itunes:summary>
+      <pubDate>Sat, 31 Oct 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-10-31-codex</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-10-31-codex/2026-10-31-codex.mp3" length="8949876" type="audio/mpeg"/>
+      <itunes:duration>9:19</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>10月30日｜Codex生成｜Agent忙碌感与可验证交付</title>
+      <description>本期回补 follow-builders 10 月 30 日上游快照，覆盖 15 位 builder、36 条推文和一期完整访谈。Matt Turck 与 Nathan Benaich 讨论 AI 参与研究和可验证任务，2027 年 AGI 是受访者预测。Thariq 提醒 coding agent 的忙碌幻觉；Thibault Sottiaux 公告用量调整；Guillermo Rauch 提出跨公司 Agent 反馈。可执行建议：给一条 Agent 流程写清输入、权限和公开验收产物，记录失败与人工返工，并在外发反馈前审查敏感内容。</description>
+      <itunes:summary>本期回补 follow-builders 10 月 30 日上游快照，覆盖 15 位 builder、36 条推文和一期完整访谈。Matt Turck 与 Nathan Benaich 讨论 AI 参与研究和可验证任务，2027 年 AGI 是受访者预测。Thariq 提醒 coding agent 的忙碌幻觉；Thibault Sottiaux 公告用量调整；Guillermo Rauch 提出跨公司 Agent 反馈。可执行建议：给一条 Agent 流程写清输入、权限和公开验收产物，记录失败与人工返工，并在外发反馈前审查敏感内容。</itunes:summary>
+      <pubDate>Fri, 30 Oct 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-10-30-codex</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-10-30-codex/2026-10-30-codex.mp3" length="11028084" type="audio/mpeg"/>
+      <itunes:duration>11:29</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>10月29日｜Codex生成｜先建立创作罗盘，再让 Agent 进入闭环</title>
+      <description>本期为 2026 年 10 月 29 日历史素材回补。Fred Graver 在实际访谈中提出：创作者应先独立写清个人风格与项目意图，再让 AI 充当虚拟编剧室，并以构思、制作、连接受众形成循环。Ryo Lu 强调增强人的理解与掌控，Guillermo Rauch关注模型路由和 Agentic CI。可执行建议是为 Agent 增加预览、撤销和人工接管，并用真实任务复测模型，而非只看榜单。</description>
+      <itunes:summary>本期为 2026 年 10 月 29 日历史素材回补。Fred Graver 在实际访谈中提出：创作者应先独立写清个人风格与项目意图，再让 AI 充当虚拟编剧室，并以构思、制作、连接受众形成循环。Ryo Lu 强调增强人的理解与掌控，Guillermo Rauch关注模型路由和 Agentic CI。可执行建议是为 Agent 增加预览、撤销和人工接管，并用真实任务复测模型，而非只看榜单。</itunes:summary>
+      <pubDate>Thu, 29 Oct 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-10-29-codex</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-10-29-codex/2026-10-29-codex.mp3" length="12343668" type="audio/mpeg"/>
+      <itunes:duration>12:51</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>10月28日｜Codex生成｜Agent工作流怎样变成可信交付</title>
+      <description>本期依据 follow-builders 2026-10-28 快照，覆盖 13 位 builder、29 条新推文。Aaron Levie 讨论从单次提示转向工作流改造；Thariq 提出 Agent 定制开源软件与上游更新的合并难题；Peter Yang 提醒以真实项目和证据展示能力；Garry Tan 的多 Agent 实践提示并发数量不能替代质量指标。可执行建议：用十个公开样本量化一条 Agent 流程，建立本地补丁和回归清单，为公开作品制作来源与交付证据卡。上游播客转录接口 HTTP 500，本期未引用该节目正文。</description>
+      <itunes:summary>本期依据 follow-builders 2026-10-28 快照，覆盖 13 位 builder、29 条新推文。Aaron Levie 讨论从单次提示转向工作流改造；Thariq 提出 Agent 定制开源软件与上游更新的合并难题；Peter Yang 提醒以真实项目和证据展示能力；Garry Tan 的多 Agent 实践提示并发数量不能替代质量指标。可执行建议：用十个公开样本量化一条 Agent 流程，建立本地补丁和回归清单，为公开作品制作来源与交付证据卡。上游播客转录接口 HTTP 500，本期未引用该节目正文。</itunes:summary>
+      <pubDate>Wed, 28 Oct 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-10-28-codex</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-10-28-codex/2026-10-28-codex.mp3" length="10113396" type="audio/mpeg"/>
+      <itunes:duration>10:32</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>10月27日｜Codex生成｜Agent进入后台流程，产品洞察与隔离边界浮现</title>
+      <description>本期回补 2026 年 10 月 27 日素材：播客以 Hugging Face 与 Anchor 的转向说明，AI 加速开发后，真实用户洞察和短迭代周期更稀缺；X 信号集中在 Agent 后台执行、共享硬件隐蔽通信、企业算力承诺及 Terra 计算机使用。建议为一个低风险 Agent 流程补齐授权、回滚和验收，并用自有任务基准验证模型与工具宣称。</description>
+      <itunes:summary>本期回补 2026 年 10 月 27 日素材：播客以 Hugging Face 与 Anchor 的转向说明，AI 加速开发后，真实用户洞察和短迭代周期更稀缺；X 信号集中在 Agent 后台执行、共享硬件隐蔽通信、企业算力承诺及 Terra 计算机使用。建议为一个低风险 Agent 流程补齐授权、回滚和验收，并用自有任务基准验证模型与工具宣称。</itunes:summary>
+      <pubDate>Tue, 27 Oct 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-10-27-codex</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-10-27-codex/2026-10-27-codex.mp3" length="11435316" type="audio/mpeg"/>
+      <itunes:duration>11:55</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>10月26日｜Codex生成｜主动 Agent、安全底座与持续内容系统</title>
+      <description>本期回补 2026 年 10 月 26 日历史素材：No Priors 转录讨论 AI 科学发现、主动 Agent 与网络安全，相关结论均按嘉宾自述处理。X 信号聚焦 Aaron Levie 的安全基础治理、Peter Yang 转述的参考视频工作流、Nan Yu 的体验巡检及 Zara Zhang 的持续发布系统。建议先做只读 Agent，补齐权限、日志、反方检查与人工确认；内容生产则用七天单变量循环验证。</description>
+      <itunes:summary>本期回补 2026 年 10 月 26 日历史素材：No Priors 转录讨论 AI 科学发现、主动 Agent 与网络安全，相关结论均按嘉宾自述处理。X 信号聚焦 Aaron Levie 的安全基础治理、Peter Yang 转述的参考视频工作流、Nan Yu 的体验巡检及 Zara Zhang 的持续发布系统。建议先做只读 Agent，补齐权限、日志、反方检查与人工确认；内容生产则用七天单变量循环验证。</itunes:summary>
+      <pubDate>Mon, 26 Oct 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-10-26-codex</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-10-26-codex/2026-10-26-codex.mp3" length="10737204" type="audio/mpeg"/>
+      <itunes:duration>11:11</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
