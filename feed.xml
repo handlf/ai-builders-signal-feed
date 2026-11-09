@@ -23,7 +23,7 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Mon, 09 Nov 2026 02:55:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 07:03:26 GMT</lastBuildDate>
     <item>
       <title>11月8日｜Codex生成｜交易Agent的权限边界与可验收产出</title>
       <description>本期基于11月8日重新抓取的 follow-builders 快照，覆盖10位 builder、19条推文和一集 No Priors 对 Robinhood CEO 的访谈。嘉宾讨论 Agentic Trading、隔离账户、交易审批、资产代币化与数学验证；相关用户和调用数字均为嘉宾自述。Aaron Levie 谈多 Agent 的产出条件，Karpathy 展示从公开清单到内容界面的快速原型。给 AI Agent 与自媒体实践的动作：先用公开样本测来源可追溯性、权限边界、人工审批和返工时间，再扩大自动化。</description>
@@ -32,6 +32,46 @@
       <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-11-08-codex</guid>
       <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-11-08-codex/2026-11-08-codex.mp3" length="10112244" type="audio/mpeg"/>
       <itunes:duration>10:32</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>11月7日｜Codex生成｜从虚拟细胞实验闭环到可评测的 Agent 技能</title>
+      <description>本期为 2026 年 11 月 7 日历史素材回补。重点梳理 Latent Space 对 Fabian Theis 的完整访谈：虚拟细胞正从图谱与扰动预测走向实验选择，但复杂模型必须先超过简单基线。同时提炼技能回归评测、生成式界面、创作工具内置 MCP、多模型路由与作品型个人网站等信号。建议今天建立固定评测集、删减冗余技能，并只自动化一段可回退的内容流程。</description>
+      <itunes:summary>本期为 2026 年 11 月 7 日历史素材回补。重点梳理 Latent Space 对 Fabian Theis 的完整访谈：虚拟细胞正从图谱与扰动预测走向实验选择，但复杂模型必须先超过简单基线。同时提炼技能回归评测、生成式界面、创作工具内置 MCP、多模型路由与作品型个人网站等信号。建议今天建立固定评测集、删减冗余技能，并只自动化一段可回退的内容流程。</itunes:summary>
+      <pubDate>Sat, 07 Nov 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-11-07-codex</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-11-07-codex/2026-11-07-codex.mp3" length="12279732" type="audio/mpeg"/>
+      <itunes:duration>12:47</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>11月6日｜Codex生成｜Agent 从会回答走向长期可靠执行</title>
+      <description>本期回补 2026 年 11 月 6 日素材：播客嘉宾将 AI 的核心缺口指向可靠、可组合的小决策能力，并讨论 KV cache、共享状态、语义约束及真实任务评测。X 信号集中在跨时间调度、位置提醒、受控企业上下文、代码沙箱与只读财务边界。建议 Agent 团队补齐状态机、权限、回滚和任务级评测；自媒体流程则拆分采集、核验、生成、审听与发布关卡。</description>
+      <itunes:summary>本期回补 2026 年 11 月 6 日素材：播客嘉宾将 AI 的核心缺口指向可靠、可组合的小决策能力，并讨论 KV cache、共享状态、语义约束及真实任务评测。X 信号集中在跨时间调度、位置提醒、受控企业上下文、代码沙箱与只读财务边界。建议 Agent 团队补齐状态机、权限、回滚和任务级评测；自媒体流程则拆分采集、核验、生成、审听与发布关卡。</itunes:summary>
+      <pubDate>Fri, 06 Nov 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-11-06-codex</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-11-06-codex/2026-11-06-codex.mp3" length="12912756" type="audio/mpeg"/>
+      <itunes:duration>13:27</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>11月5日｜Codex生成｜从多代理审稿到项目级 Agent</title>
+      <description>本期回补 2026 年 11 月 5 日素材：Kevin Roose 分享多角色代理审稿、资料检索及“举重与叉车”分工；Swyx 关注蒸馏模型成本，Cat Wu 谈可控代理，Replit 企业案例与 Vercel 安全数据则需按自述看待。建议用真实任务同时评估质量、返工、延迟和成本，并为长期 Agent 设置权限、预算、日志、停止条件与人工接管。</description>
+      <itunes:summary>本期回补 2026 年 11 月 5 日素材：Kevin Roose 分享多角色代理审稿、资料检索及“举重与叉车”分工；Swyx 关注蒸馏模型成本，Cat Wu 谈可控代理，Replit 企业案例与 Vercel 安全数据则需按自述看待。建议用真实任务同时评估质量、返工、延迟和成本，并为长期 Agent 设置权限、预算、日志、停止条件与人工接管。</itunes:summary>
+      <pubDate>Thu, 05 Nov 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-11-05-codex</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-11-05-codex/2026-11-05-codex.mp3" length="11067252" type="audio/mpeg"/>
+      <itunes:duration>11:32</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>11月4日｜Codex生成｜从算力交付到 Agent 结果责任</title>
+      <description>本期回补 2026 年 11 月 4 日归档素材：Nebius CTO 访谈强调 AI 云的壁垒在软件、存储、调度与可靠结果，而非只有 GPU；Swyx、Cat Wu、Guillermo Rauch 与 Nikunj 的帖子共同指向独立验证、分级权限、默认诊断和周期复盘。建议今天为一条 Agent 或自媒体流程补齐结果契约、安全门、回退方案与最终责任人。</description>
+      <itunes:summary>本期回补 2026 年 11 月 4 日归档素材：Nebius CTO 访谈强调 AI 云的壁垒在软件、存储、调度与可靠结果，而非只有 GPU；Swyx、Cat Wu、Guillermo Rauch 与 Nikunj 的帖子共同指向独立验证、分级权限、默认诊断和周期复盘。建议今天为一条 Agent 或自媒体流程补齐结果契约、安全门、回退方案与最终责任人。</itunes:summary>
+      <pubDate>Wed, 04 Nov 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-11-04-codex</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-11-04-codex/2026-11-04-codex.mp3" length="12019956" type="audio/mpeg"/>
+      <itunes:duration>12:31</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -52,6 +92,16 @@
       <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-11-02-codex</guid>
       <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-11-02-codex/2026-11-02-codex.mp3" length="8084148" type="audio/mpeg"/>
       <itunes:duration>8:25</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>11月1日｜Codex生成｜长时程 Agent 的记忆、边界与反馈循环</title>
+      <description>本期回补 2026 年 11 月 1 日历史素材：Latent Space 访谈展示 Arca 如何用客户级记忆、分层模型、确定性权限、审计日志和人工反馈支撑跨多天 Agent 工作，同时明确不让 Agent 自主交易。Swyx 提出以中低强度配合批评循环提升吞吐，Aaron Levie 则主张用过去难以实现的成果检验 AI 价值。建议先为真实任务补齐状态表、权限表和验收表，再用成本、耗时与人工修改量做对照评测。</description>
+      <itunes:summary>本期回补 2026 年 11 月 1 日历史素材：Latent Space 访谈展示 Arca 如何用客户级记忆、分层模型、确定性权限、审计日志和人工反馈支撑跨多天 Agent 工作，同时明确不让 Agent 自主交易。Swyx 提出以中低强度配合批评循环提升吞吐，Aaron Levie 则主张用过去难以实现的成果检验 AI 价值。建议先为真实任务补齐状态表、权限表和验收表，再用成本、耗时与人工修改量做对照评测。</itunes:summary>
+      <pubDate>Sun, 01 Nov 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-11-01-codex</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-11-01-codex/2026-11-01-codex.mp3" length="10945140" type="audio/mpeg"/>
+      <itunes:duration>11:24</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
