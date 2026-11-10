@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Mon, 09 Nov 2026 15:51:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 08:48:24 GMT</lastBuildDate>
+    <item>
+      <title>11月10日｜Codex生成｜Agent要用真实任务验收</title>
+      <description>基于11月10日 follow-builders 快照，覆盖15位 builder、29条推文和 Latent Space 对 Handshake AI 团队的一集访谈。重点拆解领域专家如何设计复杂评测，以及 Agent 得分与可用结果之间的落差。结合 Madhu Guru 的流程图、Guillermo Rauch 的事件回调和 Dan Shipper 的成本提醒，给 AI Agent 与自媒体制作一套可执行的历史节目回放测试：核查来源、跨文件一致性、返工时间与最终可订阅结果。产品演示、预测和内部案例均保留原始归属。</description>
+      <itunes:summary>基于11月10日 follow-builders 快照，覆盖15位 builder、29条推文和 Latent Space 对 Handshake AI 团队的一集访谈。重点拆解领域专家如何设计复杂评测，以及 Agent 得分与可用结果之间的落差。结合 Madhu Guru 的流程图、Guillermo Rauch 的事件回调和 Dan Shipper 的成本提醒，给 AI Agent 与自媒体制作一套可执行的历史节目回放测试：核查来源、跨文件一致性、返工时间与最终可订阅结果。产品演示、预测和内部案例均保留原始归属。</itunes:summary>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-11-10-codex</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-11-10-codex/2026-11-10-codex.mp3" length="10114548" type="audio/mpeg"/>
+      <itunes:duration>10:32</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>11月9日｜Codex生成｜Agent越能写，越要先定义结果</title>
       <description>本期基于11月9日 follow-builders 快照，覆盖10位 builder、21条推文和一集 Latent Space 对 Stanford 课程授课者 Mihail Eric 的访谈。主线是大型代码库中的上下文、工具、审查与安全，以及先定义任务再扩大 Agent 并行。Nan Yu、Aaron Levie、Garry Tan 等观点分开标注为个人判断。给 AI Agent 与自媒体实践的动作：用一页任务卡固定来源、输出、人工审批和发布验收；以可回查证据、返工时间及故障率衡量结果。</description>
