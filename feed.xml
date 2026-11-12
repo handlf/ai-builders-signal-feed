@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Wed, 11 Nov 2026 08:38:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 08:45:37 GMT</lastBuildDate>
+    <item>
+      <title>11月12日｜Codex生成｜Agent 产出由谁筛选</title>
+      <description>基于11月12日 follow-builders 快照，覆盖16位 builder、32条推文及 Every 关于自动化后人类工作的演讲。Dan Shipper 用同一份客户调查说明人的职责和视角如何影响 AI 产出的筛选；结合 Nikunj Kothari 的供应商清单、Google Labs 的 Tabletop 和 Aditya Agarwal 的创业分类，提出 Agent 产出验收、基础设施选型与自媒体共创的具体实验。人物传闻与未核实推测仅存档，不作事实播报。</description>
+      <itunes:summary>基于11月12日 follow-builders 快照，覆盖16位 builder、32条推文及 Every 关于自动化后人类工作的演讲。Dan Shipper 用同一份客户调查说明人的职责和视角如何影响 AI 产出的筛选；结合 Nikunj Kothari 的供应商清单、Google Labs 的 Tabletop 和 Aditya Agarwal 的创业分类，提出 Agent 产出验收、基础设施选型与自媒体共创的具体实验。人物传闻与未核实推测仅存档，不作事实播报。</itunes:summary>
+      <pubDate>Thu, 12 Nov 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-11-12-codex</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-11-12-codex/2026-11-12-codex.mp3" length="9961332" type="audio/mpeg"/>
+      <itunes:duration>10:22</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>11月11日｜Codex生成｜给Agent划定任务边界</title>
       <description>基于11月11日 follow-builders 新快照，覆盖15位 builder、32条推文及 Latent Space 对 Resend 创始人的访谈。Dan Shipper 的团队首日体验显示长任务能力与越界风险并存；结合 Resend 的邮件工作流、Box/Claude 文件协作和 Vercel 安全统计，给 AI Agent 与自媒体制作提出任务上限、人工审阅、发送回读与公开订阅验收的具体实验。厂商数字、个人预测及逐步开放功能均保留归属与不确定性。</description>
