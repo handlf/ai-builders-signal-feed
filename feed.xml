@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Thu, 12 Nov 2026 08:45:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 08:43:25 GMT</lastBuildDate>
+    <item>
+      <title>11月13日｜Codex生成｜Agent 的上下文、权限与验收</title>
+      <description>基于11月13日 follow-builders 快照，覆盖16位 builder、38条推文及 No Priors 对 Isomorphic Labs 的访谈。重点讨论 Claude Meetings 的可见协作、Replit Agent 的企业采购动作、Box 对 Gemini 4 Hydrogen 的内部评估，以及 UI SDK 与药物发现中的验证边界。给出会议 Agent、付款权限、模型选型和界面原型的可执行验收方法；人物传闻不当作已证实事实。</description>
+      <itunes:summary>基于11月13日 follow-builders 快照，覆盖16位 builder、38条推文及 No Priors 对 Isomorphic Labs 的访谈。重点讨论 Claude Meetings 的可见协作、Replit Agent 的企业采购动作、Box 对 Gemini 4 Hydrogen 的内部评估，以及 UI SDK 与药物发现中的验证边界。给出会议 Agent、付款权限、模型选型和界面原型的可执行验收方法；人物传闻不当作已证实事实。</itunes:summary>
+      <pubDate>Fri, 13 Nov 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-11-13-codex</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-11-13-codex/2026-11-13-codex.mp3" length="10977165" type="audio/mpeg"/>
+      <itunes:duration>11:25</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>11月12日｜Codex生成｜Agent 产出由谁筛选</title>
       <description>基于11月12日 follow-builders 快照，覆盖16位 builder、32条推文及 Every 关于自动化后人类工作的演讲。Dan Shipper 用同一份客户调查说明人的职责和视角如何影响 AI 产出的筛选；结合 Nikunj Kothari 的供应商清单、Google Labs 的 Tabletop 和 Aditya Agarwal 的创业分类，提出 Agent 产出验收、基础设施选型与自媒体共创的具体实验。人物传闻与未核实推测仅存档，不作事实播报。</description>
