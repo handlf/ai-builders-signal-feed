@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Fri, 13 Nov 2026 08:43:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 08:31:29 GMT</lastBuildDate>
+    <item>
+      <title>11月16日｜Codex生成｜Agent 的验证闭环与权限边界</title>
+      <description>基于11月16日 follow-builders 快照，覆盖11位 builder、19条推文及 No Priors 对 Robinhood CEO Vlad Tenev 的访谈。重点解读 xeet 的参考渲染和持续测试、Dan Shipper 的可迭代摘要 skill、Peter Yang 访谈中的原型与真实用户验证差距，以及金融 Agent 的隔离账户和逐笔审批。播客源节目日期为11月5日；受访者的业务数字与产品效果均作归属，不视为独立核验。</description>
+      <itunes:summary>基于11月16日 follow-builders 快照，覆盖11位 builder、19条推文及 No Priors 对 Robinhood CEO Vlad Tenev 的访谈。重点解读 xeet 的参考渲染和持续测试、Dan Shipper 的可迭代摘要 skill、Peter Yang 访谈中的原型与真实用户验证差距，以及金融 Agent 的隔离账户和逐笔审批。播客源节目日期为11月5日；受访者的业务数字与产品效果均作归属，不视为独立核验。</itunes:summary>
+      <pubDate>Mon, 16 Nov 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-11-16-codex</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-11-16-codex/2026-11-16-codex.mp3" length="10608180" type="audio/mpeg"/>
+      <itunes:duration>11:03</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>11月13日｜Codex生成｜Agent 的上下文、权限与验收</title>
       <description>基于11月13日 follow-builders 快照，覆盖16位 builder、38条推文及 No Priors 对 Isomorphic Labs 的访谈。重点讨论 Claude Meetings 的可见协作、Replit Agent 的企业采购动作、Box 对 Gemini 4 Hydrogen 的内部评估，以及 UI SDK 与药物发现中的验证边界。给出会议 Agent、付款权限、模型选型和界面原型的可执行验收方法；人物传闻不当作已证实事实。</description>
