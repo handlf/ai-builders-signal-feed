@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Mon, 16 Nov 2026 08:31:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 08:43:52 GMT</lastBuildDate>
+    <item>
+      <title>11月17日｜Codex生成｜让 Agent 能协作、可验证</title>
+      <description>基于11月17日 follow-builders 快照，覆盖14位 builder、29条推文与 Latent Space 对 Mihail Eric 的访谈。重点解读 Agent 友好代码库与评审、模型和数据选择权、Agent 作为工具使用者的评估、协作空间与设计验证。源播客标记为11月8日，发布者的规划、数字和效果均按来源归属。</description>
+      <itunes:summary>基于11月17日 follow-builders 快照，覆盖14位 builder、29条推文与 Latent Space 对 Mihail Eric 的访谈。重点解读 Agent 友好代码库与评审、模型和数据选择权、Agent 作为工具使用者的评估、协作空间与设计验证。源播客标记为11月8日，发布者的规划、数字和效果均按来源归属。</itunes:summary>
+      <pubDate>Tue, 17 Nov 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-11-17-codex</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-11-17-codex/2026-11-17-codex.mp3" length="11204952" type="audio/mpeg"/>
+      <itunes:duration>11:40</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>11月16日｜Codex生成｜Agent 的验证闭环与权限边界</title>
       <description>基于11月16日 follow-builders 快照，覆盖11位 builder、19条推文及 No Priors 对 Robinhood CEO Vlad Tenev 的访谈。重点解读 xeet 的参考渲染和持续测试、Dan Shipper 的可迭代摘要 skill、Peter Yang 访谈中的原型与真实用户验证差距，以及金融 Agent 的隔离账户和逐笔审批。播客源节目日期为11月5日；受访者的业务数字与产品效果均作归属，不视为独立核验。</description>
