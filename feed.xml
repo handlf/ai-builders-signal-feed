@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Tue, 17 Nov 2026 08:43:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 08:42:20 GMT</lastBuildDate>
+    <item>
+      <title>11月18日｜Codex生成｜新模型验收、常驻 Agent 与可控视觉编辑</title>
+      <description>基于11月18日 follow-builders 快照，覆盖13位 builder、33条推文与 Latent Space 对 Black Forest Labs 的访谈。辨析 Sol/Astra 发布与测评时差、常驻及并行 Agent 的责任和验收、图像编辑的可控性；给出模型对照测试、Agent 责任卡和封面编辑小实验。源播客标记于11月16日，厂商能力与嘉宾预测均按来源归属。</description>
+      <itunes:summary>基于11月18日 follow-builders 快照，覆盖13位 builder、33条推文与 Latent Space 对 Black Forest Labs 的访谈。辨析 Sol/Astra 发布与测评时差、常驻及并行 Agent 的责任和验收、图像编辑的可控性；给出模型对照测试、Agent 责任卡和封面编辑小实验。源播客标记于11月16日，厂商能力与嘉宾预测均按来源归属。</itunes:summary>
+      <pubDate>Wed, 18 Nov 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-11-18-codex</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-11-18-codex/2026-11-18-codex.mp3" length="10112407" type="audio/mpeg"/>
+      <itunes:duration>10:32</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>11月17日｜Codex生成｜让 Agent 能协作、可验证</title>
       <description>基于11月17日 follow-builders 快照，覆盖14位 builder、29条推文与 Latent Space 对 Mihail Eric 的访谈。重点解读 Agent 友好代码库与评审、模型和数据选择权、Agent 作为工具使用者的评估、协作空间与设计验证。源播客标记为11月8日，发布者的规划、数字和效果均按来源归属。</description>
