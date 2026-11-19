@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Wed, 18 Nov 2026 08:42:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 14:50:43 GMT</lastBuildDate>
+    <item>
+      <title>11月19日｜Codex生成｜Agent 的上下文、可见协作与软件维护</title>
+      <description>基于11月19日 follow-builders 快照，覆盖15位 builder、31条推文及 Every 对 Notion 创始人 Ivan Zhao 的访谈。重点解释数据上下文为何比临时界面更持久、Agent 协作为何需要可视化验收、AI 生成软件为何仍须承担维护；给出播客流水线的上下文卡和维护清单。新品与能力仅按发帖人说法归属。</description>
+      <itunes:summary>基于11月19日 follow-builders 快照，覆盖15位 builder、31条推文及 Every 对 Notion 创始人 Ivan Zhao 的访谈。重点解释数据上下文为何比临时界面更持久、Agent 协作为何需要可视化验收、AI 生成软件为何仍须承担维护；给出播客流水线的上下文卡和维护清单。新品与能力仅按发帖人说法归属。</itunes:summary>
+      <pubDate>Thu, 19 Nov 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-11-19-codex</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-11-19-codex/2026-11-19-codex.mp3" length="9849093" type="audio/mpeg"/>
+      <itunes:duration>10:15</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>11月18日｜Codex生成｜新模型验收、常驻 Agent 与可控视觉编辑</title>
       <description>基于11月18日 follow-builders 快照，覆盖13位 builder、33条推文与 Latent Space 对 Black Forest Labs 的访谈。辨析 Sol/Astra 发布与测评时差、常驻及并行 Agent 的责任和验收、图像编辑的可控性；给出模型对照测试、Agent 责任卡和封面编辑小实验。源播客标记于11月16日，厂商能力与嘉宾预测均按来源归属。</description>
