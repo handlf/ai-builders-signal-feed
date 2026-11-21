@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Thu, 19 Nov 2026 14:50:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 08:33:23 GMT</lastBuildDate>
+    <item>
+      <title>11月21日｜Codex生成｜自助增长的触达盲区与 Agent 验收</title>
+      <description>基于11月21日 follow-builders 新鲜快照，覆盖15位 builder、31条推文和 Latent Space 对 Linear COO Cristina Cordova 的访谈。讨论自助产品如何让更新真正触达用户、真实任务试用、Agent 目标与验收边界、自动外联的人际风险，并给出适合 AI Agent 与自媒体实践的可执行检查。弱信号仅简述。</description>
+      <itunes:summary>基于11月21日 follow-builders 新鲜快照，覆盖15位 builder、31条推文和 Latent Space 对 Linear COO Cristina Cordova 的访谈。讨论自助产品如何让更新真正触达用户、真实任务试用、Agent 目标与验收边界、自动外联的人际风险，并给出适合 AI Agent 与自媒体实践的可执行检查。弱信号仅简述。</itunes:summary>
+      <pubDate>Sat, 21 Nov 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-11-21-codex</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-11-21-codex/2026-11-21-codex.mp3" length="9351348" type="audio/mpeg"/>
+      <itunes:duration>9:44</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>11月19日｜Codex生成｜Agent 的上下文、可见协作与软件维护</title>
       <description>基于11月19日 follow-builders 快照，覆盖15位 builder、31条推文及 Every 对 Notion 创始人 Ivan Zhao 的访谈。重点解释数据上下文为何比临时界面更持久、Agent 协作为何需要可视化验收、AI 生成软件为何仍须承担维护；给出播客流水线的上下文卡和维护清单。新品与能力仅按发帖人说法归属。</description>
