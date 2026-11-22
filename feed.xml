@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sat, 21 Nov 2026 08:33:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 08:41:22 GMT</lastBuildDate>
+    <item>
+      <title>11月22日｜Codex生成｜把试错前置，保留现实验收</title>
+      <description>基于11月22日 follow-builders 新鲜快照，覆盖12位 builder、23条推文和 No Priors 对 Isomorphic Labs 总裁 Max Jaderberg 的访谈。讨论模型预测与现实验证的边界、人与模型协作、工作流基准测试及多 Agent 协调，给出适合 AI Agent 与自媒体实践的可执行检查。访谈原发布于11月12日；弱信号仅简述。</description>
+      <itunes:summary>基于11月22日 follow-builders 新鲜快照，覆盖12位 builder、23条推文和 No Priors 对 Isomorphic Labs 总裁 Max Jaderberg 的访谈。讨论模型预测与现实验证的边界、人与模型协作、工作流基准测试及多 Agent 协调，给出适合 AI Agent 与自媒体实践的可执行检查。访谈原发布于11月12日；弱信号仅简述。</itunes:summary>
+      <pubDate>Sun, 22 Nov 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-11-22-codex</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-11-22-codex/2026-11-22-codex.mp3" length="9988404" type="audio/mpeg"/>
+      <itunes:duration>10:24</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>11月21日｜Codex生成｜自助增长的触达盲区与 Agent 验收</title>
       <description>基于11月21日 follow-builders 新鲜快照，覆盖15位 builder、31条推文和 Latent Space 对 Linear COO Cristina Cordova 的访谈。讨论自助产品如何让更新真正触达用户、真实任务试用、Agent 目标与验收边界、自动外联的人际风险，并给出适合 AI Agent 与自媒体实践的可执行检查。弱信号仅简述。</description>
