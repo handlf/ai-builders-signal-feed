@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sun, 22 Nov 2026 08:41:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 08:31:28 GMT</lastBuildDate>
+    <item>
+      <title>11月23日｜Codex生成｜Agent 的接口、权限与人的判断</title>
+      <description>基于11月23日 follow-builders 新鲜快照，覆盖11位 builder、22条推文及 Every 的 Dan Shipper 关于自动化后人类工作的演讲。重点讨论 Agent 作为软件用户所需的接口、长任务协作的权限边界，以及指标与具体用户故事如何共同检验 AI 工作流。源演讲节目发布于11月11日；未经独立证实的安全指控和推测不作为事实。</description>
+      <itunes:summary>基于11月23日 follow-builders 新鲜快照，覆盖11位 builder、22条推文及 Every 的 Dan Shipper 关于自动化后人类工作的演讲。重点讨论 Agent 作为软件用户所需的接口、长任务协作的权限边界，以及指标与具体用户故事如何共同检验 AI 工作流。源演讲节目发布于11月11日；未经独立证实的安全指控和推测不作为事实。</itunes:summary>
+      <pubDate>Mon, 23 Nov 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-11-23-codex</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-11-23-codex/2026-11-23-codex.mp3" length="9993012" type="audio/mpeg"/>
+      <itunes:duration>10:24</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>11月22日｜Codex生成｜把试错前置，保留现实验收</title>
       <description>基于11月22日 follow-builders 新鲜快照，覆盖12位 builder、23条推文和 No Priors 对 Isomorphic Labs 总裁 Max Jaderberg 的访谈。讨论模型预测与现实验证的边界、人与模型协作、工作流基准测试及多 Agent 协调，给出适合 AI Agent 与自媒体实践的可执行检查。访谈原发布于11月12日；弱信号仅简述。</description>
