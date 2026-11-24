@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Mon, 23 Nov 2026 08:31:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 08:44:41 GMT</lastBuildDate>
+    <item>
+      <title>11月24日｜Codex生成｜代码审批、多 Agent 与个人基准</title>
+      <description>基于11月24日 follow-builders 新鲜快照，覆盖17位 builder、41条推文，无播客或博客新增。重点讨论代码交付的观察式审批、多 Agent 扩展的边界、个人基准测试，以及插件与主动 Agent 的外部动作验收。实验数字和产品能力按发帖人说法归属，弱信号只作简述。</description>
+      <itunes:summary>基于11月24日 follow-builders 新鲜快照，覆盖17位 builder、41条推文，无播客或博客新增。重点讨论代码交付的观察式审批、多 Agent 扩展的边界、个人基准测试，以及插件与主动 Agent 的外部动作验收。实验数字和产品能力按发帖人说法归属，弱信号只作简述。</itunes:summary>
+      <pubDate>Tue, 24 Nov 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-11-24-codex</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-11-24-codex/2026-11-24-codex.mp3" length="10028724" type="audio/mpeg"/>
+      <itunes:duration>10:26</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>11月23日｜Codex生成｜Agent 的接口、权限与人的判断</title>
       <description>基于11月23日 follow-builders 新鲜快照，覆盖11位 builder、22条推文及 Every 的 Dan Shipper 关于自动化后人类工作的演讲。重点讨论 Agent 作为软件用户所需的接口、长任务协作的权限边界，以及指标与具体用户故事如何共同检验 AI 工作流。源演讲节目发布于11月11日；未经独立证实的安全指控和推测不作为事实。</description>
