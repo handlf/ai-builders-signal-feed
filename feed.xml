@@ -23,7 +23,17 @@
       <itunes:name>handlf</itunes:name>
       <itunes:email>handlf@users.noreply.github.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Tue, 24 Nov 2026 08:44:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 08:46:22 GMT</lastBuildDate>
+    <item>
+      <title>11月25日｜Codex生成｜MCP技能交付与多 Agent 责任边界</title>
+      <description>① Boris Cherny 称 MCP 服务可随包提供技能，建议用只读任务验证误用率与权限。② Peter Yang 分享多 Agent 和远控体验，四十二个 Agent 是个人演示；建议先做单人与双 Agent 对照。③ 播客和 Amjad Masad 的开放模型观点提醒比较数据驻留、迁移成本；访谈中的政治指控未经独立核实。另谈可嵌入 Agent 内核、团队流程改造与自媒体定位。</description>
+      <itunes:summary>① Boris Cherny 称 MCP 服务可随包提供技能，建议用只读任务验证误用率与权限。② Peter Yang 分享多 Agent 和远控体验，四十二个 Agent 是个人演示；建议先做单人与双 Agent 对照。③ 播客和 Amjad Masad 的开放模型观点提醒比较数据驻留、迁移成本；访谈中的政治指控未经独立核实。另谈可嵌入 Agent 内核、团队流程改造与自媒体定位。</itunes:summary>
+      <pubDate>Wed, 25 Nov 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://handlf.github.io/ai-builders-signal-feed/ep/2026-11-25-codex</guid>
+      <enclosure url="https://github.com/handlf/ai-builders-signal-feed/releases/download/ep-2026-11-25-codex/2026-11-25-codex.mp3" length="9895668" type="audio/mpeg"/>
+      <itunes:duration>10:18</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>11月24日｜Codex生成｜代码审批、多 Agent 与个人基准</title>
       <description>基于11月24日 follow-builders 新鲜快照，覆盖17位 builder、41条推文，无播客或博客新增。重点讨论代码交付的观察式审批、多 Agent 扩展的边界、个人基准测试，以及插件与主动 Agent 的外部动作验收。实验数字和产品能力按发帖人说法归属，弱信号只作简述。</description>
